@@ -497,8 +497,8 @@
     },
     {
       "path": "CITATION.cff",
-      "sha256": "4cd9a5e18546150c4695c742d86cbd725877144cd4543801045644601e676936",
-      "bytes": 593
+      "sha256": "a9b146146bbfffa6d3c42b48a34274811d2972ae425d6b5599eaca7acbd4b0c7",
+      "bytes": 622
     },
     {
       "path": "config/paths.example.yaml",
@@ -507,8 +507,8 @@
     },
     {
       "path": "docs/CHANGELOG.md",
-      "sha256": "3a5b5ad47e95d61661364c4624e9e646e38e785ca5e98dd55114b965e5987154",
-      "bytes": 1599
+      "sha256": "03c5f3359d5d0e625859351473c059872cf84676a25b01c888e2fc2aaa6803df",
+      "bytes": 1803
     },
     {
       "path": "docs/DATA_ACCESS.md",
@@ -582,8 +582,8 @@
     },
     {
       "path": "README.md",
-      "sha256": "a5e396c6c7c38c2352aa795b6b22063189bd1c7fa869041b4679c735df38d751",
-      "bytes": 4147
+      "sha256": "b0be0fe52602fd2fad7bc6282401ee3703f8ebb58aae9c384359d955bb672e98",
+      "bytes": 4302
     },
     {
       "path": "requirements.txt",

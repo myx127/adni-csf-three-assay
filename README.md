@@ -2,7 +2,7 @@
 
 Code supporting **Same protein targets, different association patterns: a paired three-assay study of CSF protein associations with p-tau and longitudinal cognitive change across the Alzheimer’s disease spectrum**.
 
-Version 1.0.1. The canonical repository is [https://github.com/myx127/adni-csf-three-assay](https://github.com/myx127/adni-csf-three-assay). Fixed releases are listed on the [Releases page](https://github.com/myx127/adni-csf-three-assay/releases). A Zenodo DOI will be added after archival.
+Version 1.0.1. The canonical repository is [https://github.com/myx127/adni-csf-three-assay](https://github.com/myx127/adni-csf-three-assay). Fixed releases are listed on the [Releases page](https://github.com/myx127/adni-csf-three-assay/releases). The fixed v1.0.1 release is archived in Zenodo at [10.5281/zenodo.24421935](https://doi.org/10.5281/zenodo.24421935). The [concept DOI](https://doi.org/10.5281/zenodo.24421346) covers all versions.
 
 ## What is included
 

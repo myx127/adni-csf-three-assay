@@ -11,3 +11,5 @@ The private-workspace preparation utility also corrects a stage-directory lookup
 ## Version 1.0.1
 
 Packaging-only correction: explicit LF attributes, canonical file hashes, and operating-system-independent archive export. The 221 original Python programs, numerical kernels and 92 aggregate datasets retain the same scientific text/values after line-ending normalization. The earlier v1.0.0 tag and Zenodo record are preserved; use v1.0.1 for exact archive/checksum verification.
+
+Version 1.0.1 is archived at https://doi.org/10.5281/zenodo.24421935. Citation information on the main branch was updated after DOI assignment; the v1.0.1 tag and its software download remain unchanged.
