@@ -1,0 +1,6 @@
+﻿rule,criterion,scope
+Nominal mapping,One non-composite feature per assay,43 of 70 candidates
+Complete-case participants,n ≥ 200,Original pathology design
+Residual degrees of freedom,≥100,Original pathology design
+Technical clusters,≥10 on each assay axis,Original pathology design
+NULISA detection,≥80% in the 571-person index and analysis sample,Original eligibility screen

@@ -1,0 +1,251 @@
+[
+  {
+    "origin": "core",
+    "row": {
+      "input_id": "I01",
+      "role": "NULISA quantitative long table",
+      "bytes": "132339719",
+      "sha256": "51c98613539e8fc0bb2e31336b0ea0a82f6721d219c6b1992d915b6f9c444d74",
+      "access_stage": "MEASUREMENT_AUDIT",
+      "status": "BOUND",
+      "notes": "current and May copies are byte-identical",
+      "path": "BSHRI_PLA_CSF_NULISA_CNS_24Oct2026.csv"
+    }
+  },
+  {
+    "origin": "core",
+    "row": {
+      "input_id": "I02",
+      "role": "NULISA methods",
+      "bytes": "24624777",
+      "sha256": "bbfbee4cf2a7374eddef203361ee11865b373e3e19e1822a97b4565b9889cb29",
+      "access_stage": "PREFREEZE",
+      "status": "BOUND",
+      "notes": "readable before quantitative work",
+      "path": "ADNI_BSHRI_PLA_CSF_NULISA_CNS_METHODS_20260116.pdf"
+    }
+  },
+  {
+    "origin": "core",
+    "row": {
+      "input_id": "I03",
+      "role": "NULISA data dictionary",
+      "bytes": "14137333",
+      "sha256": "acf1b0c435731a7b39c33803b47334dba0b35a9d00bc460c32cdffef1b5c6a5d",
+      "access_stage": "PREFREEZE",
+      "status": "BOUND",
+      "notes": "field definitions only",
+      "path": "DATADIC_24Oct2026.csv"
+    }
+  },
+  {
+    "origin": "core",
+    "row": {
+      "input_id": "I04",
+      "role": "SomaScan quantitative matrix",
+      "bytes": "30052586",
+      "sha256": "9dba13e9fb91c2840e5a69d35c6517283e0933c6521a4218de38d79a2462c22c",
+      "access_stage": "MEASUREMENT_AUDIT",
+      "status": "BOUND",
+      "notes": "737 rows and 7008 features",
+      "path": "CruchagaLab_CSF_SOMAscan7k_Protein_matrix_postQC_20230620.csv"
+    }
+  },
+  {
+    "origin": "core",
+    "row": {
+      "input_id": "I05",
+      "role": "SomaScan analyte annotation",
+      "bytes": "967736",
+      "sha256": "4405ad747d7aecc749320a02b9b331c88d5e5820e8384327c84b30942cc5e64f",
+      "access_stage": "PREFREEZE",
+      "status": "BOUND",
+      "notes": "multiaptamer audit source",
+      "path": "ADNI_Cruchaga_lab_CSF_SOMAscan7k_analyte_information_20_06_2023.csv"
+    }
+  },
+  {
+    "origin": "core",
+    "row": {
+      "input_id": "I06",
+      "role": "SomaScan methods text",
+      "bytes": "15760",
+      "sha256": "9de70fc26485ee13d414e3464118707c885819bb1a831f5a1a980b3018b1733c",
+      "access_stage": "PREFREEZE",
+      "status": "BOUND",
+      "notes": "normalization and QC description",
+      "path": "ADNI_CruchagaLab_Methods_CSF_SomaScan7K_Proteomic_Data_20230817.txt"
+    }
+  },
+  {
+    "origin": "core",
+    "row": {
+      "input_id": "I07",
+      "role": "TMT-MS quantitative archive",
+      "bytes": "18824648",
+      "sha256": "1a6f15e9961428d9626dcf44dfc5a66550752899e9151ebe1ed95f8fa20369ff",
+      "access_stage": "MEASUREMENT_AUDIT",
+      "status": "BOUND",
+      "notes": "contains EMORY_CSF_TMT_MS.csv",
+      "path": "ADNI_EMORY_CSF_TMT_MS.zip"
+    }
+  },
+  {
+    "origin": "core",
+    "row": {
+      "input_id": "I08",
+      "role": "TMT-MS methods",
+      "bytes": "210426",
+      "sha256": "ea9be5ff70d6994974a878622a81133ec93475919ae6296665da9b04bda32f5e",
+      "access_stage": "PREFREEZE",
+      "status": "BOUND",
+      "notes": "methods state 3447 proteins while matrix has 3907 columns",
+      "path": "ADNI_EMORY_CSF_TMT_MS_Methods_20251007.pdf"
+    }
+  },
+  {
+    "origin": "core",
+    "row": {
+      "input_id": "I09",
+      "role": "Longitudinal cognition",
+      "bytes": "1180627",
+      "sha256": "3c1fbefd9d9222dfe07ddf94bdac3831a73c0d0dbf8eb3220ce145d48ff8c6ac",
+      "access_stage": "POST_FREEZE_CLINICAL",
+      "status": "LOCKED_DO_NOT_READ_VALUES",
+      "notes": "ADNI_MEM and related composites",
+      "path": "UWNPSYCHSUM_15May2026.csv"
+    }
+  },
+  {
+    "origin": "core",
+    "row": {
+      "input_id": "I10",
+      "role": "Core CSF biomarkers",
+      "bytes": "748129",
+      "sha256": "37f1511111f8aca301f3dae8694e35d30ebdd927f12c2b61c84d388570528910",
+      "access_stage": "POST_FREEZE_CLINICAL",
+      "status": "LOCKED_DO_NOT_READ_VALUES",
+      "notes": "independent A/T definition candidate",
+      "path": "UPENNBIOMK_MASTER_15May2026.csv"
+    }
+  },
+  {
+    "origin": "core",
+    "row": {
+      "input_id": "I11",
+      "role": "Amyloid PET",
+      "bytes": "11970605",
+      "sha256": "177e839ba3cdf41587af6e19fca001ee6eca93a554ec0ea29b9766119cf95499",
+      "access_stage": "POST_FREEZE_CLINICAL",
+      "status": "LOCKED_DO_NOT_READ_VALUES",
+      "notes": "independent amyloid definition candidate",
+      "path": "UCBERKELEY_AMY_6MM_17May2026.csv"
+    }
+  },
+  {
+    "origin": "core",
+    "row": {
+      "input_id": "I12",
+      "role": "Tau PET",
+      "bytes": "6313471",
+      "sha256": "5d5061df051e044796f9974e33274c57edf69d14aad40d8ca2a234ca01bda3c0",
+      "access_stage": "POST_FREEZE_CLINICAL",
+      "status": "LOCKED_DO_NOT_READ_VALUES",
+      "notes": "continuous/secondary tau anchor candidate",
+      "path": "UCBERKELEY_TAU_6MM_17May2026.csv"
+    }
+  },
+  {
+    "origin": "core",
+    "row": {
+      "input_id": "I13",
+      "role": "Demographics",
+      "bytes": "2274093",
+      "sha256": "2b00c09eabb5ca8e3c98302230579e688ab374051921d61298b9225811b8d5c5",
+      "access_stage": "POST_FREEZE_CLINICAL",
+      "status": "LOCKED_DO_NOT_READ_VALUES",
+      "notes": "age sex education fields require audit",
+      "path": "PTDEMOG_15May2026.csv"
+    }
+  },
+  {
+    "origin": "core",
+    "row": {
+      "input_id": "I14",
+      "role": "APOE",
+      "bytes": "325882",
+      "sha256": "9e8cae46c2d6d2b57e3a034cda2e4dc1e5872843385f1735ca8ca579dbcbc618",
+      "access_stage": "POST_FREEZE_CLINICAL",
+      "status": "LOCKED_DO_NOT_READ_VALUES",
+      "notes": "covariate and heterogeneity analysis",
+      "path": "APOERES_15May2026.csv"
+    }
+  },
+  {
+    "origin": "core",
+    "row": {
+      "input_id": "I15",
+      "role": "Diagnosis",
+      "bytes": "3465814",
+      "sha256": "34627a382c1ed47a8ff6d7332445d46fefa361a85df20c0003a0fdcfeb189cc4",
+      "access_stage": "POST_FREEZE_CLINICAL",
+      "status": "LOCKED_DO_NOT_READ_VALUES",
+      "notes": "secondary stratification only",
+      "path": "DXSUM_15May2026.csv"
+    }
+  },
+  {
+    "origin": "additional",
+    "row": {
+      "input_id": "E01",
+      "bytes": "414439",
+      "sha256": "99b20a91f7c4d102ad1d27837aa2752dfee6c507df1813770db473f380d77297",
+      "path": "UPENNBIOMK_ROCHE_ELECSYS_15May2026.csv"
+    }
+  },
+  {
+    "origin": "additional",
+    "row": {
+      "input_id": "M01",
+      "bytes": "53786",
+      "sha256": "3b047038b16542b34c4aafba69d00c3f188dc172f46d1f0cf963428b272505bb",
+      "path": "UPENNBIOMK_MASTER_METHODS_20231109.txt"
+    }
+  },
+  {
+    "origin": "additional",
+    "row": {
+      "input_id": "M02",
+      "bytes": "21447",
+      "sha256": "3be6c42d886be694f54d4c082c8e03363d38b4507cd71836ac35fbd85090b4f8",
+      "path": "UPENNBIOMK_ROCHE_ELECSYS_METHODS_20231109.txt"
+    }
+  },
+  {
+    "origin": "additional",
+    "row": {
+      "input_id": "M03",
+      "bytes": "2372610",
+      "sha256": "789fb45cafc22e19da5b3c3c18f767c848ca02e25fcf968bcea47bab5fb174bd",
+      "path": "ADNI_UCBerkeley_AmyloidPET_Methods_v3_2025-06-30.pdf"
+    }
+  },
+  {
+    "origin": "additional",
+    "row": {
+      "input_id": "M04",
+      "bytes": "296207",
+      "sha256": "01de19f82b7c8fe9c58a3da2418c6a3cd3983eaa127adcdc828ea59f0febbee0",
+      "path": "ADNI_UCBerkeley_TauPET_Methods_2025-06-30.pdf"
+    }
+  },
+  {
+    "origin": "additional",
+    "row": {
+      "input_id": "M05",
+      "bytes": "869758",
+      "sha256": "47f7d78400c651e7c7241e43d0f98da34e58ba933de682762b82814d4c3f1e19",
+      "path": "ADNI_Methods_UWNPSYCHSUM_20231018.pdf"
+    }
+  }
+]

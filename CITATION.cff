@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: Please cite this software and the associated article when using this code.
+type: software
+title: 'Code for: Same protein targets, different association patterns: a paired three-assay
+  study of CSF protein associations with p-tau and longitudinal cognitive change across
+  the Alzheimer’s disease spectrum'
+version: 1.0.0
+authors:
+- family-names: Mao
+  given-names: Yuxi
+- family-names: Zeng
+  given-names: Yan
+  orcid: https://orcid.org/0000-0002-5119-5448
+license: MIT
+repository-code: https://github.com/myx127/adni-csf-three-assay
+date-released: '2026-11-21'

@@ -1,0 +1,13 @@
+**Supplementary Figure S4. Shared associations of CSF proteins with p-tau181 across three assays.**
+
+Associations are shown for all 34 proteins in the primary analysis, ordered alphabetically. Each protein was evaluated in the same participants across NULISA, SomaScan and TMT-MS, with protein-specific sample sizes of 343–560, shown in the n column. The primary models regressed assay-specific protein measurements on standardized log₂ CSF p-tau181, adjusting for age, sex, all three proteomic technical factors and ADNI Elecsys data release.
+
+(A–C) Symbols show the standardized regression coefficients for NULISA, SomaScan and TMT-MS, respectively; horizontal bars denote pointwise 95% confidence intervals (CIs). Coefficients represent the change in assay-specific protein residual standard deviations (SDs) per one global SD of log₂ p-tau181. CIs include uncertainty in both the regression coefficient and the estimated protein residual SD, with covariance accounting for the three proteomic technical groupings. The three panels use identical horizontal scales, and gray dashed lines indicate a coefficient of zero. Positive coefficients indicate higher measured protein signals at higher p-tau181 levels. These pathology-model units differ from the fixed protein residual-SD units used in the cognitive analyses.
+
+(D) Each point shows the strength of evidence for a shared directional association, expressed as minus the base-10 logarithm of the Benjamini–Yekutieli (BY) adjusted q value; larger values indicate stronger evidence. Shared association was assessed by an intersection–union test requiring a positive association in all three assays or a negative association in all three, with allowance for testing both directions. The joint test used the unscaled coefficients. BY correction was applied across all 34 proteins. The pink dashed line marks q = 0.05. Filled pink points indicate the 14 proteins meeting this threshold; open points indicate the other 20 proteins. The q values are displayed without truncation.
+
+Bold names and pale pink shading identify the 14 proteins with significant shared p-tau181 associations, all positive. MAPT was evaluated separately.
+
+Further details are provided in Supplementary Methods Sections 3 and 5 and Supplementary Table S5; complete assay-specific estimates and joint-test results are available in the supplementary data. Sensitivity to APOE and education adjustment is presented in Supplementary Fig. S5 and Table S6.
+
+Abbreviations: BY, Benjamini–Yekutieli; CI, confidence interval; CSF, cerebrospinal fluid; p-tau181, tau phosphorylated at threonine 181; SD, standard deviation; TMT-MS, tandem mass tag mass spectrometry.

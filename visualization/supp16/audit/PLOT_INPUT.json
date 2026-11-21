@@ -1,0 +1,341 @@
+{
+  "figure": "S16",
+  "proteins": [
+    {
+      "gene": "NPTX1",
+      "accession": "Q15818",
+      "length": 432,
+      "sequence_version": 2,
+      "entry_version": 193,
+      "domain_start": 226,
+      "domain_end": 428,
+      "domain": "Pentraxin (PTX)"
+    },
+    {
+      "gene": "KLK6",
+      "accession": "Q92876",
+      "length": 244,
+      "sequence_version": 1,
+      "entry_version": 206,
+      "domain_start": 22,
+      "domain_end": 242,
+      "domain": "Peptidase S1"
+    }
+  ],
+  "peptides": [
+    {
+      "gene": "NPTX1",
+      "sequence": "FQLTFPLR",
+      "start": 228,
+      "end": 235,
+      "accession": "Q15818",
+      "exact_reference_matches": 1,
+      "il_reference_matches": 1
+    },
+    {
+      "gene": "NPTX1",
+      "sequence": "LENLEQYSR",
+      "start": 144,
+      "end": 152,
+      "accession": "Q15818",
+      "exact_reference_matches": 1,
+      "il_reference_matches": 1
+    },
+    {
+      "gene": "KLK6",
+      "sequence": "ESSQEQSSVVR",
+      "start": 81,
+      "end": 91,
+      "accession": "Q92876",
+      "exact_reference_matches": 1,
+      "il_reference_matches": 1
+    },
+    {
+      "gene": "KLK6",
+      "sequence": "LSELIQPLPLER",
+      "start": 118,
+      "end": 129,
+      "accession": "Q92876",
+      "exact_reference_matches": 2,
+      "il_reference_matches": 2
+    },
+    {
+      "gene": "KLK6",
+      "sequence": "YTNWIQK",
+      "start": 233,
+      "end": 239,
+      "accession": "Q92876",
+      "exact_reference_matches": 2,
+      "il_reference_matches": 2
+    }
+  ],
+  "effects": [
+    {
+      "gene": "NPTX1",
+      "peptide": "FQLTFPLR",
+      "n": 95,
+      "effect": 0.18328514787601738,
+      "se": 0.039656316719756064,
+      "lower": 0.07318156142927745,
+      "upper": 0.29338873432275747,
+      "p_one_sided": 0.004933725840119807,
+      "q_BY5": 0.056326703341367794,
+      "df": 4
+    },
+    {
+      "gene": "NPTX1",
+      "peptide": "LENLEQYSR",
+      "n": 95,
+      "effect": 0.20447085277287955,
+      "se": 0.05929979968515136,
+      "lower": 0.03982821419783178,
+      "upper": 0.3691134913479276,
+      "p_one_sided": 0.013050022261000821,
+      "q_BY5": 0.07449387707321302,
+      "df": 4
+    },
+    {
+      "gene": "KLK6",
+      "peptide": "ESSQEQSSVVR",
+      "n": 95,
+      "effect": 0.11940440514264201,
+      "se": 0.05925597189171798,
+      "lower": -0.04511654796985651,
+      "upper": 0.28392535825514054,
+      "p_one_sided": 0.05706918065138632,
+      "q_BY5": 0.1303079624873321,
+      "df": 4
+    },
+    {
+      "gene": "KLK6",
+      "peptide": "LSELIQPLPLER",
+      "n": 95,
+      "effect": 0.12232220340584044,
+      "se": 0.06024566899174974,
+      "lower": -0.04494658937566964,
+      "upper": 0.28959099618735046,
+      "p_one_sided": 0.05608145480873629,
+      "q_BY5": 0.1303079624873321,
+      "df": 4
+    },
+    {
+      "gene": "KLK6",
+      "peptide": "YTNWIQK",
+      "n": 95,
+      "effect": 0.13922482481896836,
+      "se": 0.05873027019216442,
+      "lower": -0.02383654638301036,
+      "upper": 0.30228619602094714,
+      "p_one_sided": 0.0383861946869794,
+      "q_BY5": 0.1303079624873321,
+      "df": 4
+    }
+  ],
+  "repeats": [
+    {
+      "gene": "NPTX1",
+      "peptide": "FQLTFPLR",
+      "release": "2014",
+      "pairs": 16,
+      "r": 0.9519688794710708,
+      "lower": 0.865138273398528,
+      "upper": 0.9847219125931984,
+      "ccc": 0.9396669614092985
+    },
+    {
+      "gene": "NPTX1",
+      "peptide": "FQLTFPLR",
+      "release": "2019",
+      "pairs": 20,
+      "r": 0.8503161308864247,
+      "lower": 0.6568856859763736,
+      "upper": 0.9449251468041451,
+      "ccc": 0.8423581705879727
+    },
+    {
+      "gene": "NPTX1",
+      "peptide": "LENLEQYSR",
+      "release": "2014",
+      "pairs": 16,
+      "r": 0.9376052967098919,
+      "lower": 0.8460876830987953,
+      "upper": 0.9785872241472998,
+      "ccc": 0.9342966078533413
+    },
+    {
+      "gene": "NPTX1",
+      "peptide": "LENLEQYSR",
+      "release": "2019",
+      "pairs": 19,
+      "r": 0.7728665585352021,
+      "lower": 0.5197526466883194,
+      "upper": 0.9200058208400728,
+      "ccc": 0.7655869471689277
+    },
+    {
+      "gene": "KLK6",
+      "peptide": "ESSQEQSSVVR",
+      "release": "2014",
+      "pairs": 16,
+      "r": 0.6817729448468877,
+      "lower": -0.08106779485765928,
+      "upper": 0.8983380773317758,
+      "ccc": 0.6602980280235912
+    },
+    {
+      "gene": "KLK6",
+      "peptide": "ESSQEQSSVVR",
+      "release": "2019",
+      "pairs": 20,
+      "r": 0.7174067396583521,
+      "lower": 0.36825972344761343,
+      "upper": 0.9080197257392079,
+      "ccc": 0.6737640075249689
+    },
+    {
+      "gene": "KLK6",
+      "peptide": "LSELIQPLPLER",
+      "release": "2014",
+      "pairs": 16,
+      "r": 0.9339837160028897,
+      "lower": 0.7363888275773014,
+      "upper": 0.9800914706827387,
+      "ccc": 0.9269372128632778
+    },
+    {
+      "gene": "KLK6",
+      "peptide": "LSELIQPLPLER",
+      "release": "2019",
+      "pairs": 20,
+      "r": 0.7022399347354735,
+      "lower": 0.32152553064209505,
+      "upper": 0.917750991962941,
+      "ccc": 0.6725025008919729
+    },
+    {
+      "gene": "KLK6",
+      "peptide": "YTNWIQK",
+      "release": "2014",
+      "pairs": 16,
+      "r": 0.9363754158011488,
+      "lower": 0.7354541260286239,
+      "upper": 0.9817931210358761,
+      "ccc": 0.9340404242475998
+    },
+    {
+      "gene": "KLK6",
+      "peptide": "YTNWIQK",
+      "release": "2019",
+      "pairs": 20,
+      "r": 0.7242822876234598,
+      "lower": 0.3222771726378,
+      "upper": 0.9441411647623945,
+      "ccc": 0.701118425537251
+    }
+  ],
+  "pool_qc": [
+    {
+      "gene": "NPTX1",
+      "peptide": "FQLTFPLR",
+      "fragment": "b2",
+      "transition": "NPTX1_HUMAN.FQLTFPLR.B2.",
+      "n": 24,
+      "cv": 13.713036819085122
+    },
+    {
+      "gene": "NPTX1",
+      "peptide": "FQLTFPLR",
+      "fragment": "y6",
+      "transition": "NPTX1_HUMAN.FQLTFPLR.Y6.",
+      "n": 24,
+      "cv": 15.240736774343032
+    },
+    {
+      "gene": "NPTX1",
+      "peptide": "LENLEQYSR",
+      "fragment": "y5",
+      "transition": "NPTX1_HUMAN.LENLEQYSR.Y5.",
+      "n": 24,
+      "cv": 15.62511472783009
+    },
+    {
+      "gene": "NPTX1",
+      "peptide": "LENLEQYSR",
+      "fragment": "y7",
+      "transition": "NPTX1_HUMAN.LENLEQYSR.Y7.",
+      "n": 24,
+      "cv": 14.334912212243527
+    },
+    {
+      "gene": "KLK6",
+      "peptide": "ESSQEQSSVVR",
+      "fragment": "y6",
+      "transition": "KLK6_HUMAN.ESSQEQSSVVR.Y6.",
+      "n": 24,
+      "cv": 6.802608458245136
+    },
+    {
+      "gene": "KLK6",
+      "peptide": "ESSQEQSSVVR",
+      "fragment": "y7",
+      "transition": "KLK6_HUMAN.ESSQEQSSVVR.Y7.",
+      "n": 24,
+      "cv": 5.414971924735376
+    },
+    {
+      "gene": "KLK6",
+      "peptide": "LSELIQPLPLER",
+      "fragment": "y6",
+      "transition": "KLK6_HUMAN.LSELIQPLPLER.Y6.",
+      "n": 24,
+      "cv": 6.775027073816221
+    },
+    {
+      "gene": "KLK6",
+      "peptide": "LSELIQPLPLER",
+      "fragment": "y7",
+      "transition": "KLK6_HUMAN.LSELIQPLPLER.Y7.",
+      "n": 24,
+      "cv": 8.007783668741732
+    },
+    {
+      "gene": "KLK6",
+      "peptide": "YTNWIQK",
+      "fragment": "b2",
+      "transition": "KLK6_HUMAN.YTNWIQK.B2.",
+      "n": 24,
+      "cv": 4.89923578467539
+    },
+    {
+      "gene": "KLK6",
+      "peptide": "YTNWIQK",
+      "fragment": "y5",
+      "transition": "KLK6_HUMAN.YTNWIQK.Y5.",
+      "n": 24,
+      "cv": 5.291395632516475
+    }
+  ],
+  "main_index": 571,
+  "association_sample": 95,
+  "index_overlap": 0,
+  "association_overlap_with_2014": 53,
+  "synthetic_or_external_sample": false,
+  "family_peptides": 5,
+  "all_q_above_005": true,
+  "replicate_releases": [
+    2014,
+    2019
+  ],
+  "bootstrap_resamples": 4000,
+  "pool_qc_measurements": 24,
+  "reference_sequences_screened": 169651,
+  "canonical_track_scale_max": 450,
+  "gene_specificity_not_isoform_or_epitope_specificity": true,
+  "NPTX1_is_distinct_from_NPTX2": true,
+  "new_model_fits": false,
+  "new_simulations": false,
+  "new_P_or_q": false,
+  "new_intervals": false,
+  "individual_records_accessed": false,
+  "raw_participant_values_exported": false
+}

@@ -1,0 +1,71 @@
+{
+  "version": "2_design_and_methods_only",
+  "date": "2026-11-01",
+  "participants": 571,
+  "formal_proteins": 34,
+  "assays": [
+    "NULISA",
+    "SomaScan",
+    "TMT-MS"
+  ],
+  "assessment_window_years": 5,
+  "stages": [
+    {
+      "id": 1,
+      "name": "Paired ADNI CSF cohort"
+    },
+    {
+      "id": 2,
+      "name": "Three assay technologies"
+    },
+    {
+      "id": 3,
+      "name": "Paired protein comparisons"
+    },
+    {
+      "id": 4,
+      "name": "Shared p-tau181 associations"
+    },
+    {
+      "id": 5,
+      "name": "Cognitive associations"
+    },
+    {
+      "id": 6,
+      "name": "Exploratory p-tau181 adjustment"
+    }
+  ],
+  "connections": [
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      3,
+      5
+    ],
+    [
+      5,
+      6
+    ]
+  ],
+  "all_34_enter_pathology_and_cognition": true,
+  "same_collection_date_not_confirmed_same_aliquot": true,
+  "shared_direction": "Positive in all three assays OR negative in all three assays",
+  "cognitive_tests": [
+    "Shared direction",
+    "Between-assay differences in standardized association magnitude"
+  ],
+  "paired_adjustment": "Direct changes in assay contrasts with the same participants, visits and protein scales",
+  "graphics": "Schematic study design and methods without observed associations",
+  "no_result_counts_or_candidate_names": true,
+  "association_results_imported": false
+}

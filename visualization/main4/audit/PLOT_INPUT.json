@@ -1,0 +1,394 @@
+{
+  "date": "2026-11-01",
+  "figure": 4,
+  "genes": [
+    "NPTX2",
+    "TAFA5",
+    "TIMP3"
+  ],
+  "assays": [
+    "NULISA",
+    "SomaScan",
+    "TMT-MS"
+  ],
+  "coefficient_shifts": [
+    {
+      "Protein": "NPTX2",
+      "Assay": "NULISA",
+      "Participants": 553,
+      "Without p-tau181": 0.0189380439645032,
+      "With p-tau181": 0.0514423790357864,
+      "Point shift": 0.0325043350712832
+    },
+    {
+      "Protein": "NPTX2",
+      "Assay": "SomaScan",
+      "Participants": 553,
+      "Without p-tau181": 0.0418907529636857,
+      "With p-tau181": 0.1271097895043299,
+      "Point shift": 0.08521903654064422
+    },
+    {
+      "Protein": "NPTX2",
+      "Assay": "TMT-MS",
+      "Participants": 553,
+      "Without p-tau181": 0.0347701291556307,
+      "With p-tau181": 0.0581753990546192,
+      "Point shift": 0.0234052698989885
+    },
+    {
+      "Protein": "TAFA5",
+      "Assay": "NULISA",
+      "Participants": 557,
+      "Without p-tau181": 0.0151475646095308,
+      "With p-tau181": 0.0570430847014709,
+      "Point shift": 0.0418955200919401
+    },
+    {
+      "Protein": "TAFA5",
+      "Assay": "SomaScan",
+      "Participants": 557,
+      "Without p-tau181": 0.0317564519397549,
+      "With p-tau181": 0.1284884326027927,
+      "Point shift": 0.09673198066303779
+    },
+    {
+      "Protein": "TAFA5",
+      "Assay": "TMT-MS",
+      "Participants": 557,
+      "Without p-tau181": 0.0048013763358047,
+      "With p-tau181": 0.0300905646105959,
+      "Point shift": 0.0252891882747912
+    },
+    {
+      "Protein": "TIMP3",
+      "Assay": "NULISA",
+      "Participants": 552,
+      "Without p-tau181": -0.0003595335874665,
+      "With p-tau181": 0.0313262473181035,
+      "Point shift": 0.031685780905570005
+    },
+    {
+      "Protein": "TIMP3",
+      "Assay": "SomaScan",
+      "Participants": 552,
+      "Without p-tau181": 0.0147246417010038,
+      "With p-tau181": 0.0838183513267102,
+      "Point shift": 0.0690937096257064
+    },
+    {
+      "Protein": "TIMP3",
+      "Assay": "TMT-MS",
+      "Participants": 552,
+      "Without p-tau181": -0.0128471667660045,
+      "With p-tau181": -0.0005359061179543,
+      "Point shift": 0.0123112606480502
+    }
+  ],
+  "contrast_changes": [
+    {
+      "Protein": "NPTX2",
+      "Contrast": "SomaScan − NULISA",
+      "Change": 0.052714701469361,
+      "CI lower": 0.0250635011177087,
+      "CI upper": 0.0803659018210132,
+      "Joint q": 2.5848727890050985e-05,
+      "Family": 9
+    },
+    {
+      "Protein": "NPTX2",
+      "Contrast": "TMT-MS − NULISA",
+      "Change": -0.0090990651722947,
+      "CI lower": -0.0302024736470302,
+      "CI upper": 0.0120043433024407,
+      "Joint q": 2.5848727890050985e-05,
+      "Family": 9
+    },
+    {
+      "Protein": "TAFA5",
+      "Contrast": "SomaScan − NULISA",
+      "Change": 0.0548364605710975,
+      "CI lower": 0.0244497945177848,
+      "CI upper": 0.0852231266244102,
+      "Joint q": 1.6901251388637686e-08,
+      "Family": 9
+    },
+    {
+      "Protein": "TAFA5",
+      "Contrast": "TMT-MS − NULISA",
+      "Change": -0.0166063318171488,
+      "CI lower": -0.0423778941924711,
+      "CI upper": 0.0091652305581733,
+      "Joint q": 1.6901251388637686e-08,
+      "Family": 9
+    },
+    {
+      "Protein": "TIMP3",
+      "Contrast": "SomaScan − NULISA",
+      "Change": 0.0374079287201362,
+      "CI lower": 0.0111552637679497,
+      "CI upper": 0.0636605936723228,
+      "Joint q": 0.000565152134568,
+      "Family": 9
+    },
+    {
+      "Protein": "TIMP3",
+      "Contrast": "TMT-MS − NULISA",
+      "Change": -0.0193745202575199,
+      "CI lower": -0.0371147929706694,
+      "CI upper": -0.0016342475443704,
+      "Joint q": 0.000565152134568,
+      "Family": 9
+    }
+  ],
+  "joint_change_tests": [
+    {
+      "Protein": "NPTX2",
+      "Participants": 553,
+      "Comparison": "Linear log₂ versus no p-tau181",
+      "Joint q": 2.5848727890050985e-05,
+      "Combined q": 0.0001383694534424,
+      "Family": 9
+    },
+    {
+      "Protein": "TAFA5",
+      "Participants": 557,
+      "Comparison": "Linear log₂ versus no p-tau181",
+      "Joint q": 1.6901251388637686e-08,
+      "Combined q": 1.206309224493093e-07,
+      "Family": 9
+    },
+    {
+      "Protein": "TIMP3",
+      "Participants": 552,
+      "Comparison": "Linear log₂ versus no p-tau181",
+      "Joint q": 0.000565152134568,
+      "Combined q": 0.0023049797319564,
+      "Family": 9
+    }
+  ],
+  "residual_correlations": [
+    {
+      "Protein": "NPTX2",
+      "Assay": "NULISA",
+      "Protein–p-tau r": 0.4472212992021776,
+      "Protein–memory slope r": 0.0948922145733632,
+      "p-tau–memory slope r": -0.2489024485895625
+    },
+    {
+      "Protein": "NPTX2",
+      "Assay": "SomaScan",
+      "Protein–p-tau r": 0.6369245918365354,
+      "Protein–memory slope r": 0.1973323146398155,
+      "p-tau–memory slope r": -0.2489024485895625
+    },
+    {
+      "Protein": "NPTX2",
+      "Assay": "TMT-MS",
+      "Protein–p-tau r": 0.3228150567574414,
+      "Protein–memory slope r": 0.1610901963092478,
+      "p-tau–memory slope r": -0.2489024485895625
+    },
+    {
+      "Protein": "TAFA5",
+      "Assay": "NULISA",
+      "Protein–p-tau r": 0.5286687171713089,
+      "Protein–memory slope r": 0.075785651479656,
+      "p-tau–memory slope r": -0.2456065734227706
+    },
+    {
+      "Protein": "TAFA5",
+      "Assay": "SomaScan",
+      "Protein–p-tau r": 0.6911552920632911,
+      "Protein–memory slope r": 0.1524803029461371,
+      "p-tau–memory slope r": -0.2456065734227706
+    },
+    {
+      "Protein": "TAFA5",
+      "Assay": "TMT-MS",
+      "Protein–p-tau r": 0.4016864433509206,
+      "Protein–memory slope r": 0.0231813748373567,
+      "p-tau–memory slope r": -0.2456065734227706
+    },
+    {
+      "Protein": "TIMP3",
+      "Assay": "NULISA",
+      "Protein–p-tau r": 0.502873668499519,
+      "Protein–memory slope r": -0.0018794783751966,
+      "p-tau–memory slope r": -0.2470343811776487
+    },
+    {
+      "Protein": "TIMP3",
+      "Assay": "SomaScan",
+      "Protein–p-tau r": 0.6542738592423307,
+      "Protein–memory slope r": 0.0716556773434763,
+      "p-tau–memory slope r": -0.2470343811776487
+    },
+    {
+      "Protein": "TIMP3",
+      "Assay": "TMT-MS",
+      "Protein–p-tau r": 0.2412756941837589,
+      "Protein–memory slope r": -0.0620406990797629,
+      "p-tau–memory slope r": -0.2470343811776487
+    }
+  ],
+  "background_tests": [
+    {
+      "Protein": "NPTX2",
+      "Test": "Remaining assay differences",
+      "q": 0.0227654364035,
+      "Evidence strength": 1.6427240200399407,
+      "Family": 33,
+      "Participants": 553
+    },
+    {
+      "Protein": "NPTX2",
+      "Test": "Additional p-tau181 change",
+      "q": 0.2368601872213485,
+      "Evidence strength": 0.6255079317767511,
+      "Family": 33,
+      "Participants": 553
+    },
+    {
+      "Protein": "TAFA5",
+      "Test": "Remaining assay differences",
+      "q": 0.1458849920324284,
+      "Evidence strength": 0.8359893839993094,
+      "Family": 33,
+      "Participants": 557
+    },
+    {
+      "Protein": "TAFA5",
+      "Test": "Additional p-tau181 change",
+      "q": 0.3066426792701862,
+      "Evidence strength": 0.5133673991177339,
+      "Family": 33,
+      "Participants": 557
+    },
+    {
+      "Protein": "TIMP3",
+      "Test": "Remaining assay differences",
+      "q": 0.4065802839999362,
+      "Evidence strength": 0.3908536851117488,
+      "Family": 33,
+      "Participants": 552
+    },
+    {
+      "Protein": "TIMP3",
+      "Test": "Additional p-tau181 change",
+      "q": 1.0,
+      "Evidence strength": -0.0,
+      "Family": 33,
+      "Participants": 552
+    }
+  ],
+  "all_primary_adjustment_tests": [
+    {
+      "gene": "NPTX2",
+      "comparison": "Linear log₂ versus no p-tau181",
+      "n": 553.0,
+      "family": "Primary 9",
+      "p_computed": 5.698585683967543e-06,
+      "p_used": 5.698585683967543e-06,
+      "q": 2.5848727890050985e-05,
+      "q_combined": 0.0001383694534424,
+      "qualified": "Yes"
+    },
+    {
+      "gene": "NPTX2",
+      "comparison": "Linear untransformed versus no p-tau181",
+      "n": 553.0,
+      "family": "Primary 9",
+      "p_computed": 1.88923209014415e-06,
+      "p_used": 1.88923209014415e-06,
+      "q": 1.2025299616640752e-05,
+      "q_combined": 8.582932423926427e-05,
+      "qualified": "Yes"
+    },
+    {
+      "gene": "NPTX2",
+      "comparison": "Spline versus no p-tau181",
+      "n": 553.0,
+      "family": "Primary 9",
+      "p_computed": 6.09143818982826e-06,
+      "p_used": 6.09143818982826e-06,
+      "q": 2.5848727890050985e-05,
+      "q_combined": 0.0001383694534424,
+      "qualified": "Yes"
+    },
+    {
+      "gene": "TAFA5",
+      "comparison": "Linear log₂ versus no p-tau181",
+      "n": 557.0,
+      "family": "Primary 9",
+      "p_computed": 8.235632857535762e-10,
+      "p_used": 8.235632857535762e-10,
+      "q": 1.6901251388637686e-08,
+      "q_combined": 1.206309224493093e-07,
+      "qualified": "Yes"
+    },
+    {
+      "gene": "TAFA5",
+      "comparison": "Linear untransformed versus no p-tau181",
+      "n": 557.0,
+      "family": "Primary 9",
+      "p_computed": 1.7534577045854008e-08,
+      "p_used": 1.7534577045854008e-08,
+      "q": 1.488142854284443e-07,
+      "q_combined": 1.0621464714107789e-06,
+      "qualified": "Yes"
+    },
+    {
+      "gene": "TAFA5",
+      "comparison": "Spline versus no p-tau181",
+      "n": 557.0,
+      "family": "Primary 9",
+      "p_computed": 1.327633718282663e-09,
+      "p_used": 1.327633718282663e-09,
+      "q": 1.6901251388637686e-08,
+      "q_combined": 1.206309224493093e-07,
+      "qualified": "Yes"
+    },
+    {
+      "gene": "TIMP3",
+      "comparison": "Linear log₂ versus no p-tau181",
+      "n": 552.0,
+      "family": "Primary 9",
+      "p_computed": 0.0001775762072426,
+      "p_used": 0.0001775762072426,
+      "q": 0.000565152134568,
+      "q_combined": 0.0023049797319564,
+      "qualified": "Yes"
+    },
+    {
+      "gene": "TIMP3",
+      "comparison": "Linear untransformed versus no p-tau181",
+      "n": 552.0,
+      "family": "Primary 9",
+      "p_computed": 0.0007838585931749,
+      "p_used": 0.0007838585931749,
+      "q": 0.0022175110756922,
+      "q_combined": 0.0071222645118437,
+      "qualified": "Yes"
+    },
+    {
+      "gene": "TIMP3",
+      "comparison": "Spline versus no p-tau181",
+      "n": 552.0,
+      "family": "Primary 9",
+      "p_computed": 0.000116388642213,
+      "p_used": 0.000116388642213,
+      "q": 0.0004233339950699,
+      "q_combined": 0.0016269627892142,
+      "qualified": "Yes"
+    }
+  ],
+  "cutoff_q": 0.05,
+  "cutoff_strength": 1.3010299956639813,
+  "primary_adjustment_family": 9,
+  "background_support_family": 33,
+  "combined_adjustment_family": 42,
+  "fixed_participants_visits_weights_and_scales": true,
+  "no_p_or_q_recalculation": true,
+  "network_edges_undirected_and_descriptive": true
+}

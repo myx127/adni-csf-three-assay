@@ -1,0 +1,20 @@
+﻿resource,file,access
+NULISA protein measurements,BSHRI_PLA_CSF_NULISA_CNS_24Oct2026.csv,https://ida.loni.usc.edu/
+NULISA assay methods,ADNI_BSHRI_PLA_CSF_NULISA_CNS_METHODS_20260116.pdf,https://ida.loni.usc.edu/
+SomaScan protein measurements,CruchagaLab_CSF_SOMAscan7k_Protein_matrix_postQC_20230620.csv,https://ida.loni.usc.edu/
+SomaScan analyte annotation,ADNI_Cruchaga_lab_CSF_SOMAscan7k_analyte_information_20_06_2023.csv,https://ida.loni.usc.edu/
+SomaScan assay methods,ADNI_CruchagaLab_Methods_CSF_SomaScan7K_Proteomic_Data_20230817.txt,https://ida.loni.usc.edu/
+TMT-MS protein archive,ADNI_EMORY_CSF_TMT_MS.zip,https://ida.loni.usc.edu/
+TMT-MS assay methods,ADNI_EMORY_CSF_TMT_MS_Methods_20251007.pdf,https://ida.loni.usc.edu/
+Cognitive composite scores,UWNPSYCHSUM_15May2026.csv,https://ida.loni.usc.edu/
+Amyloid PET measurements,UCBERKELEY_AMY_6MM_17May2026.csv,https://ida.loni.usc.edu/
+Demographic information,PTDEMOG_15May2026.csv,https://ida.loni.usc.edu/
+APOE genotype,APOERES_15May2026.csv,https://ida.loni.usc.edu/
+Diagnostic information,DXSUM_15May2026.csv,https://ida.loni.usc.edu/
+Elecsys CSF biomarkers,UPENNBIOMK_ROCHE_ELECSYS_15May2026.csv,https://ida.loni.usc.edu/
+CSF biomarker methods,UPENNBIOMK_MASTER_METHODS_20231109.txt,https://ida.loni.usc.edu/
+Elecsys assay methods,UPENNBIOMK_ROCHE_ELECSYS_METHODS_20231109.txt,https://ida.loni.usc.edu/
+Amyloid PET methods,ADNI_UCBerkeley_AmyloidPET_Methods_v3_2025-06-30.pdf,https://ida.loni.usc.edu/
+Tau PET coverage audit methods,ADNI_UCBerkeley_TauPET_Methods_2025-06-30.pdf,https://ida.loni.usc.edu/
+Cognitive composite methods,ADNI_Methods_UWNPSYCHSUM_20231018.pdf,https://ida.loni.usc.edu/
+Human protein reference sequences,HUMAN_UP000005640_CANONICAL_AND_ISOFORMS.fasta.gz,https://rest.uniprot.org/uniprotkb/stream?query=proteome%3AUP000005640&format=fasta&includeIsoform=true&compressed=true

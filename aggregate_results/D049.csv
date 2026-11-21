@@ -1,0 +1,43 @@
+﻿gene,model,kind,qualified,nominal,upper,ratio,failure
+NPTX2,No p-tau181 adjustment,Within-model difference,Yes,0.0015,0.0018432094112603055,0.232679163348897,0.0
+NPTX2,Linear log₂ p-tau181,Within-model difference,Yes,0.0019166666666666666,0.0022999612865620676,0.232679163348897,0.0
+NPTX2,Linear untransformed p-tau181,Within-model difference,Yes,0.0016833333333333333,0.0020447864472214142,0.232679163348897,0.0
+NPTX2,Spline of log₂ p-tau181,Within-model difference,Yes,0.0023166666666666665,0.002734514313510145,0.232679163348897,0.0
+NPTX2,Two background scores; no p-tau181,Within-model difference,Yes,0.0019,0.002281780123168974,0.3431273150681629,0.0
+NPTX2,Two background scores + linear log₂ p-tau181,Within-model difference,Yes,0.002033333333333333,0.0024270503552356847,0.232679163348897,0.0
+NPTX2,Two background scores + spline p-tau181,Within-model difference,Yes,0.002116666666666667,0.0025176464208731993,0.232679163348897,0.0
+NPTX2,Three background scores; no p-tau181,Within-model difference,Yes,0.00155,0.0018982901238666153,0.232679163348897,0.0
+NPTX2,Three background scores + linear log₂ p-tau181,Within-model difference,Yes,0.0017333333333333333,0.002099587945279462,0.232679163348897,0.0
+NPTX2,Linear log₂ versus no p-tau181,Paired change,Yes,0.0007,0.0009459852933750292,0.232679163348897,0.0
+NPTX2,Linear untransformed versus no p-tau181,Paired change,Yes,0.00055,0.0007722750435198613,0.232679163348897,0.0
+NPTX2,Spline versus no p-tau181,Paired change,Yes,0.00055,0.0007722750435198613,0.232679163348897,0.0
+NPTX2,Linear log₂ added to two background scores,Paired change,Yes,0.00025,0.00041247274057123145,0.232679163348897,0.0
+NPTX2,Linear log₂ added to three background scores,Paired change,Yes,0.0001,0.00021817573356573128,0.232679163348897,0.0
+TAFA5,No p-tau181 adjustment,Within-model difference,Yes,0.0015333333333333334,0.0018799390686601656,0.232679163348897,0.0
+TAFA5,Linear log₂ p-tau181,Within-model difference,Yes,0.0023333333333333335,0.002752553134854587,0.232679163348897,0.0
+TAFA5,Linear untransformed p-tau181,Within-model difference,Yes,0.00225,0.002662308997110391,0.232679163348897,0.0
+TAFA5,Spline of log₂ p-tau181,Within-model difference,Yes,0.0023166666666666665,0.002734514313510145,0.232679163348897,0.0
+TAFA5,Two background scores; no p-tau181,Within-model difference,Yes,0.0025833333333333333,0.003022575152954922,0.232679163348897,0.0
+TAFA5,Two background scores + linear log₂ p-tau181,Within-model difference,Yes,0.00255,0.002986630104769603,0.232679163348897,0.0
+TAFA5,Two background scores + spline p-tau181,Within-model difference,Yes,0.0029,0.003363255797368125,0.232679163348897,0.0
+TAFA5,Three background scores; no p-tau181,Within-model difference,Yes,0.00205,0.002445181298583339,0.232679163348897,0.0
+TAFA5,Three background scores + linear log₂ p-tau181,Within-model difference,Yes,0.002533333333333333,0.002968651164510726,0.232679163348897,0.0
+TAFA5,Linear log₂ versus no p-tau181,Paired change,Yes,0.0012666666666666666,0.0015849678474344321,0.232679163348897,0.0
+TAFA5,Linear untransformed versus no p-tau181,Paired change,Yes,0.0010666666666666667,0.0013617352009239986,0.232679163348897,0.0
+TAFA5,Spline versus no p-tau181,Paired change,Yes,0.0014166666666666668,0.0017512173200493837,0.232679163348897,0.0
+TAFA5,Linear log₂ added to two background scores,Paired change,Yes,0.0,6.402021482791953e-05,0.232679163348897,0.0
+TAFA5,Linear log₂ added to three background scores,Paired change,Yes,3.3333333333333335e-05,0.0001215413635814643,0.232679163348897,0.0
+TIMP3,No p-tau181 adjustment,Within-model difference,Yes,0.002183333333333333,0.0025900209603235587,0.232679163348897,0.0
+TIMP3,Linear log₂ p-tau181,Within-model difference,Yes,0.00275,0.0032020540474892905,0.232679163348897,0.0
+TIMP3,Linear untransformed p-tau181,Within-model difference,Yes,0.0024666666666666665,0.0028966916398105555,0.232679163348897,0.0
+TIMP3,Spline of log₂ p-tau181,Within-model difference,Yes,0.0025666666666666667,0.0030046047537957343,0.232679163348897,0.0
+TIMP3,Two background scores; no p-tau181,Within-model difference,Yes,0.0026,0.003040541342951271,0.232679163348897,0.0
+TIMP3,Two background scores + linear log₂ p-tau181,Within-model difference,Yes,0.0028666666666666667,0.0033274587997294902,0.232679163348897,0.0
+TIMP3,Two background scores + spline p-tau181,Within-model difference,Yes,0.0027,0.0031482522901912446,0.232679163348897,0.0
+TIMP3,Three background scores; no p-tau181,Within-model difference,Yes,0.0028333333333333335,0.0032916473791179965,0.232679163348897,0.0
+TIMP3,Three background scores + linear log₂ p-tau181,Within-model difference,Yes,0.0025666666666666667,0.0030046047537957343,0.232679163348897,0.0
+TIMP3,Linear log₂ versus no p-tau181,Paired change,Yes,0.0010833333333333333,0.0013804161409201343,0.232679163348897,0.0
+TIMP3,Linear untransformed versus no p-tau181,Paired change,Yes,0.0009833333333333332,0.0012680885726877,0.232679163348897,0.0
+TIMP3,Spline versus no p-tau181,Paired change,Yes,0.001,0.0012868514561116485,0.232679163348897,0.0
+TIMP3,Linear log₂ added to two background scores,Paired change,Yes,5e-05,0.0001470091582746981,0.232679163348897,0.0
+TIMP3,Linear log₂ added to three background scores,Paired change,Yes,0.0,6.402021482791953e-05,0.232679163348897,0.0

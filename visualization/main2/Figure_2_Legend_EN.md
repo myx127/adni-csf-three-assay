@@ -1,0 +1,11 @@
+**Figure 2. Shared p-tau181 associations across three CSF proteomic assays.**
+
+(A) Associations for all 34 proteins, ordered by increasing q value for the joint test of associations in the same direction across assays. Circle area represents the absolute standardized coefficient; filled and open circles indicate positive and negative estimates. Assays are identified by color. Lollipops show −log₁₀q for the joint test. Rose diamonds, bold protein names and row shading identify the 14 proteins with BY-adjusted q≤0.05. Gray diamonds identify the remaining proteins; the dashed line marks q=0.05. Correction included all 34 proteins.
+
+(B) Assay-specific coefficients and pointwise 95% confidence intervals for the 14 proteins. Circles, squares and diamonds identify NULISA, SomaScan and TMT-MS. Gray segments connect the three point estimates. Effects are expressed as protein residual SD per global SD higher log₂ p-tau181. Intervals include uncertainty in the residual SD. The n column gives the number of participants for each protein, identical across assays; the dashed line indicates zero.
+
+(C) BY-adjusted q values for the same 14 proteins under the primary model and two sensitivity models. Values are rounded; color represents −log₁₀q. All models adjusted for age, sex, NULISA plate, SomaScan plate, TMT plex and ADNI Elecsys data release. Sensitivity models additionally included APOE ε4 carrier status, or education and APOE ε4 carrier status. Participant samples and the p-tau181 reference distribution were held constant within each protein. Correction included 34 proteins in each model. All 14 proteins retained positive associations in the three assays.
+
+The joint test considered positive associations in all three assays and negative associations in all three. Protein-specific samples comprised 343–560 participants. MAPT was evaluated separately. Complete results are provided in Supplementary Tables S5–S6 and Supplementary Figs. S4–S5. Protein scaling for these pathology analyses is defined in Supplementary Methods Section 5; cognitive analyses used the fixed scales defined in Section 6.
+
+Abbreviations: APOE, apolipoprotein E gene; BY, Benjamini–Yekutieli; CI, confidence interval; CSF, cerebrospinal fluid; p-tau181, tau phosphorylated at threonine 181; SD, standard deviation; TMT-MS, tandem mass tag mass spectrometry.

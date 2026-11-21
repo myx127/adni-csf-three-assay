@@ -1,0 +1,985 @@
+﻿gene,analysis,test,threshold,alpha,rate,upper,qualified
+AGRN,Memory change,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+AGRN,Memory change,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+AGRN,Memory change,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+AGRN,Memory change,Assay differences,Nominal P < 0.05,0.05,0.0022,0.0025101350727815,Yes
+AGRN,Memory change,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+AGRN,Memory change,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+AGRN,Memory change,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+AGRN,Memory change,Shared direction,Nominal P < 0.05,0.05,0.00069,0.0008730538855344,Yes
+ANXA5,Memory change,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+ANXA5,Memory change,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+ANXA5,Memory change,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+ANXA5,Memory change,Assay differences,Nominal P < 0.05,0.05,0.00225,0.0025633999531062,Yes
+ANXA5,Memory change,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+ANXA5,Memory change,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+ANXA5,Memory change,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+ANXA5,Memory change,Shared direction,Nominal P < 0.05,0.05,0.00066,0.0008395053756323,Yes
+CALB2,Memory change,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+CALB2,Memory change,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+CALB2,Memory change,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+CALB2,Memory change,Assay differences,Nominal P < 0.05,0.05,0.00249,0.0028185874204548,Yes
+CALB2,Memory change,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+CALB2,Memory change,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+CALB2,Memory change,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+CALB2,Memory change,Shared direction,Nominal P < 0.05,0.05,0.00102,0.0012379355768343,Yes
+CCL2,Memory change,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+CCL2,Memory change,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+CCL2,Memory change,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+CCL2,Memory change,Assay differences,Nominal P < 0.05,0.05,0.00284,0.0031894732007051,Yes
+CCL2,Memory change,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+CCL2,Memory change,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+CCL2,Memory change,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+CCL2,Memory change,Shared direction,Nominal P < 0.05,0.05,0.00142,0.0016733228087525,Yes
+CHI3L1,Memory change,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+CHI3L1,Memory change,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+CHI3L1,Memory change,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+CHI3L1,Memory change,Assay differences,Nominal P < 0.05,0.05,0.00222,0.0025314454452504,Yes
+CHI3L1,Memory change,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+CHI3L1,Memory change,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+CHI3L1,Memory change,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+CHI3L1,Memory change,Shared direction,Nominal P < 0.05,0.05,0.00086,0.0010618603853247,Yes
+CHIT1,Memory change,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+CHIT1,Memory change,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+CHIT1,Memory change,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+CHIT1,Memory change,Assay differences,Nominal P < 0.05,0.05,0.00145,0.0017057623637835,Yes
+CHIT1,Memory change,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+CHIT1,Memory change,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+CHIT1,Memory change,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+CHIT1,Memory change,Shared direction,Nominal P < 0.05,0.05,0.00082,0.0010176144202729,Yes
+CNTN2,Memory change,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+CNTN2,Memory change,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+CNTN2,Memory change,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+CNTN2,Memory change,Assay differences,Nominal P < 0.05,0.05,0.00202,0.0023180620429057,Yes
+CNTN2,Memory change,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+CNTN2,Memory change,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+CNTN2,Memory change,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+CNTN2,Memory change,Shared direction,Nominal P < 0.05,0.05,0.00074,0.0009288026246445,Yes
+CST3,Memory change,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,No
+CST3,Memory change,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,No
+CST3,Memory change,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,No
+CST3,Memory change,Assay differences,Nominal P < 0.05,0.05,0.00349,0.0038750747450814,No
+CST3,Memory change,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,1e-05,5.664709659040966e-05,No
+CST3,Memory change,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,1e-05,5.664709659040966e-05,No
+CST3,Memory change,Shared direction,BY-68 first-step threshold,0.0001530568684437,1e-05,5.664709659040966e-05,No
+CST3,Memory change,Shared direction,Nominal P < 0.05,0.05,0.0087,0.0092947566883023,No
+CX3CL1,Memory change,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+CX3CL1,Memory change,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+CX3CL1,Memory change,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+CX3CL1,Memory change,Assay differences,Nominal P < 0.05,0.05,0.00346,0.0038435092477153,Yes
+CX3CL1,Memory change,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+CX3CL1,Memory change,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+CX3CL1,Memory change,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+CX3CL1,Memory change,Shared direction,Nominal P < 0.05,0.05,0.0015,0.0017597729610778,Yes
+FOLR1,Memory change,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+FOLR1,Memory change,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+FOLR1,Memory change,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+FOLR1,Memory change,Assay differences,Nominal P < 0.05,0.05,0.00202,0.0023180620429057,Yes
+FOLR1,Memory change,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+FOLR1,Memory change,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+FOLR1,Memory change,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+FOLR1,Memory change,Shared direction,Nominal P < 0.05,0.05,0.00102,0.0012379355768343,Yes
+GDF15,Memory change,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+GDF15,Memory change,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+GDF15,Memory change,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+GDF15,Memory change,Assay differences,Nominal P < 0.05,0.05,0.00381,0.0042113685094235,Yes
+GDF15,Memory change,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+GDF15,Memory change,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+GDF15,Memory change,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+GDF15,Memory change,Shared direction,Nominal P < 0.05,0.05,0.00076,0.0009510480968186,Yes
+ICAM1,Memory change,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+ICAM1,Memory change,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+ICAM1,Memory change,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+ICAM1,Memory change,Assay differences,Nominal P < 0.05,0.05,0.00292,0.0032740620883095,Yes
+ICAM1,Memory change,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+ICAM1,Memory change,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+ICAM1,Memory change,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+ICAM1,Memory change,Shared direction,Nominal P < 0.05,0.05,0.00095,0.0011610692052271,Yes
+IGF1R,Memory change,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+IGF1R,Memory change,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+IGF1R,Memory change,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+IGF1R,Memory change,Assay differences,Nominal P < 0.05,0.05,0.00298,0.0033374623844598,Yes
+IGF1R,Memory change,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+IGF1R,Memory change,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+IGF1R,Memory change,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+IGF1R,Memory change,Shared direction,Nominal P < 0.05,0.05,0.00112,0.0013473503288274,Yes
+IGFBP7,Memory change,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+IGFBP7,Memory change,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+IGFBP7,Memory change,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+IGFBP7,Memory change,Assay differences,Nominal P < 0.05,0.05,0.00235,0.0026698223055802,Yes
+IGFBP7,Memory change,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+IGFBP7,Memory change,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+IGFBP7,Memory change,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+IGFBP7,Memory change,Shared direction,Nominal P < 0.05,0.05,0.00159,0.0018568273039678,Yes
+KDR,Memory change,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+KDR,Memory change,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+KDR,Memory change,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+KDR,Memory change,Assay differences,Nominal P < 0.05,0.05,0.00226,0.0025740485479357,Yes
+KDR,Memory change,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+KDR,Memory change,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+KDR,Memory change,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+KDR,Memory change,Shared direction,Nominal P < 0.05,0.05,0.00102,0.0012379355768343,Yes
+KLK6,Memory change,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+KLK6,Memory change,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+KLK6,Memory change,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+KLK6,Memory change,Assay differences,Nominal P < 0.05,0.05,0.00267,0.0030095008252217,Yes
+KLK6,Memory change,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+KLK6,Memory change,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+KLK6,Memory change,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+KLK6,Memory change,Shared direction,Nominal P < 0.05,0.05,0.00047,0.0006248862400294,Yes
+MDH1,Memory change,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+MDH1,Memory change,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+MDH1,Memory change,Assay differences,BY-68 first-step threshold,0.0001530568684437,1e-05,5.664709659040966e-05,Yes
+MDH1,Memory change,Assay differences,Nominal P < 0.05,0.05,0.00263,0.0029671083720947,Yes
+MDH1,Memory change,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+MDH1,Memory change,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+MDH1,Memory change,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+MDH1,Memory change,Shared direction,Nominal P < 0.05,0.05,0.00198,0.0022753067900593,Yes
+MSLN,Memory change,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+MSLN,Memory change,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+MSLN,Memory change,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+MSLN,Memory change,Assay differences,Nominal P < 0.05,0.05,0.00261,0.0029459052887595,Yes
+MSLN,Memory change,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+MSLN,Memory change,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+MSLN,Memory change,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+MSLN,Memory change,Shared direction,Nominal P < 0.05,0.05,0.00058,0.0007496326718224,Yes
+NEFH,Memory change,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+NEFH,Memory change,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+NEFH,Memory change,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+NEFH,Memory change,Assay differences,Nominal P < 0.05,0.05,0.00365,0.0040433117597293,Yes
+NEFH,Memory change,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+NEFH,Memory change,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+NEFH,Memory change,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+NEFH,Memory change,Shared direction,Nominal P < 0.05,0.05,0.00106,0.001281754257918,Yes
+NEFL,Memory change,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+NEFL,Memory change,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+NEFL,Memory change,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+NEFL,Memory change,Assay differences,Nominal P < 0.05,0.05,0.00201,0.002307375811055,Yes
+NEFL,Memory change,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+NEFL,Memory change,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+NEFL,Memory change,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+NEFL,Memory change,Shared direction,Nominal P < 0.05,0.05,0.00064,0.0008170952585101,Yes
+NGF,Memory change,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+NGF,Memory change,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+NGF,Memory change,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+NGF,Memory change,Assay differences,Nominal P < 0.05,0.05,0.00618,0.0066850615165763,Yes
+NGF,Memory change,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+NGF,Memory change,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+NGF,Memory change,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+NGF,Memory change,Shared direction,Nominal P < 0.05,0.05,0.00116,0.0013909985001774,Yes
+NPTX1,Memory change,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+NPTX1,Memory change,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+NPTX1,Memory change,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+NPTX1,Memory change,Assay differences,Nominal P < 0.05,0.05,0.00223,0.0025420984114576,Yes
+NPTX1,Memory change,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+NPTX1,Memory change,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+NPTX1,Memory change,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+NPTX1,Memory change,Shared direction,Nominal P < 0.05,0.05,0.00127,0.0015107197645103,Yes
+NPTX2,Memory change,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+NPTX2,Memory change,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+NPTX2,Memory change,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+NPTX2,Memory change,Assay differences,Nominal P < 0.05,0.05,0.00174,0.0020181548620905,Yes
+NPTX2,Memory change,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+NPTX2,Memory change,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+NPTX2,Memory change,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+NPTX2,Memory change,Shared direction,Nominal P < 0.05,0.05,0.00087,0.0010729064823608,Yes
+NPY,Memory change,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+NPY,Memory change,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+NPY,Memory change,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+NPY,Memory change,Assay differences,Nominal P < 0.05,0.05,0.0024,0.002722982049206,Yes
+NPY,Memory change,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+NPY,Memory change,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+NPY,Memory change,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+NPY,Memory change,Shared direction,Nominal P < 0.05,0.05,0.0009,0.0011060094852571,Yes
+NRGN,Memory change,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+NRGN,Memory change,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+NRGN,Memory change,Assay differences,BY-68 first-step threshold,0.0001530568684437,1e-05,5.664709659040966e-05,Yes
+NRGN,Memory change,Assay differences,Nominal P < 0.05,0.05,0.00314,0.0035063649460532,Yes
+NRGN,Memory change,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+NRGN,Memory change,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+NRGN,Memory change,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+NRGN,Memory change,Shared direction,Nominal P < 0.05,0.05,0.0008,0.0009954529314321,Yes
+PDGFRB,Memory change,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+PDGFRB,Memory change,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+PDGFRB,Memory change,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+PDGFRB,Memory change,Assay differences,Nominal P < 0.05,0.05,0.00183,0.0021147177935622,Yes
+PDGFRB,Memory change,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+PDGFRB,Memory change,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+PDGFRB,Memory change,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+PDGFRB,Memory change,Shared direction,Nominal P < 0.05,0.05,0.001,0.0012159983166366,Yes
+PGK1,Memory change,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+PGK1,Memory change,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+PGK1,Memory change,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+PGK1,Memory change,Assay differences,Nominal P < 0.05,0.05,0.00266,0.0029989044100696,Yes
+PGK1,Memory change,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+PGK1,Memory change,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+PGK1,Memory change,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+PGK1,Memory change,Shared direction,Nominal P < 0.05,0.05,0.00131,0.0015541500529958,Yes
+PRDX6,Memory change,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+PRDX6,Memory change,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+PRDX6,Memory change,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+PRDX6,Memory change,Assay differences,Nominal P < 0.05,0.05,0.00143,0.001684138826853,Yes
+PRDX6,Memory change,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+PRDX6,Memory change,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+PRDX6,Memory change,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+PRDX6,Memory change,Shared direction,Nominal P < 0.05,0.05,0.0005,0.0006590626778071,Yes
+PTN,Memory change,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+PTN,Memory change,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+PTN,Memory change,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+PTN,Memory change,Assay differences,Nominal P < 0.05,0.05,0.00225,0.0025633999531062,Yes
+PTN,Memory change,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+PTN,Memory change,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+PTN,Memory change,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+PTN,Memory change,Shared direction,Nominal P < 0.05,0.05,0.00104,0.0012598540459087,Yes
+SFTPD,Memory change,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+SFTPD,Memory change,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+SFTPD,Memory change,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+SFTPD,Memory change,Assay differences,Nominal P < 0.05,0.05,0.00124,0.0014781115672475,Yes
+SFTPD,Memory change,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+SFTPD,Memory change,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+SFTPD,Memory change,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+SFTPD,Memory change,Shared direction,Nominal P < 0.05,0.05,0.00059,0.0007609020079964,Yes
+SLIT2,Memory change,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+SLIT2,Memory change,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+SLIT2,Memory change,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+SLIT2,Memory change,Assay differences,Nominal P < 0.05,0.05,0.00295,0.0033057665863171,Yes
+SLIT2,Memory change,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+SLIT2,Memory change,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+SLIT2,Memory change,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+SLIT2,Memory change,Shared direction,Nominal P < 0.05,0.05,0.00091,0.0011170323807587,Yes
+SOD1,Memory change,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+SOD1,Memory change,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+SOD1,Memory change,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+SOD1,Memory change,Assay differences,Nominal P < 0.05,0.05,0.00223,0.0025420984114576,Yes
+SOD1,Memory change,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+SOD1,Memory change,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+SOD1,Memory change,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+SOD1,Memory change,Shared direction,Nominal P < 0.05,0.05,0.00134,0.0015866886263364,Yes
+TAFA5,Memory change,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+TAFA5,Memory change,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+TAFA5,Memory change,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+TAFA5,Memory change,Assay differences,Nominal P < 0.05,0.05,0.00223,0.0025420984114576,Yes
+TAFA5,Memory change,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+TAFA5,Memory change,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+TAFA5,Memory change,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+TAFA5,Memory change,Shared direction,Nominal P < 0.05,0.05,0.00135,0.0015975285074369,Yes
+TIMP3,Memory change,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+TIMP3,Memory change,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+TIMP3,Memory change,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+TIMP3,Memory change,Assay differences,Nominal P < 0.05,0.05,0.00239,0.0027123527629952,Yes
+TIMP3,Memory change,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+TIMP3,Memory change,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+TIMP3,Memory change,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+TIMP3,Memory change,Shared direction,Nominal P < 0.05,0.05,0.00089,0.0010949809337925,Yes
+AGRN,Baseline memory,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+AGRN,Baseline memory,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+AGRN,Baseline memory,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+AGRN,Baseline memory,Assay differences,Nominal P < 0.05,0.05,0.00098,0.0011940417046779,Yes
+AGRN,Baseline memory,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+AGRN,Baseline memory,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+AGRN,Baseline memory,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+AGRN,Baseline memory,Shared direction,Nominal P < 0.05,0.05,0.00042,0.0005676232983981,Yes
+ANXA5,Baseline memory,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+ANXA5,Baseline memory,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+ANXA5,Baseline memory,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+ANXA5,Baseline memory,Assay differences,Nominal P < 0.05,0.05,0.00116,0.0013909985001774,Yes
+ANXA5,Baseline memory,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+ANXA5,Baseline memory,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+ANXA5,Baseline memory,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+ANXA5,Baseline memory,Shared direction,Nominal P < 0.05,0.05,0.00032,0.0004516961854035,Yes
+CALB2,Baseline memory,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+CALB2,Baseline memory,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+CALB2,Baseline memory,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+CALB2,Baseline memory,Assay differences,Nominal P < 0.05,0.05,0.00116,0.0013909985001774,Yes
+CALB2,Baseline memory,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+CALB2,Baseline memory,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+CALB2,Baseline memory,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+CALB2,Baseline memory,Shared direction,Nominal P < 0.05,0.05,0.00037,0.0005099231967762,Yes
+CCL2,Baseline memory,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+CCL2,Baseline memory,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+CCL2,Baseline memory,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+CCL2,Baseline memory,Assay differences,Nominal P < 0.05,0.05,0.00131,0.0015541500529958,Yes
+CCL2,Baseline memory,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+CCL2,Baseline memory,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+CCL2,Baseline memory,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+CCL2,Baseline memory,Shared direction,Nominal P < 0.05,0.05,0.00054,0.000704444117482,Yes
+CHI3L1,Baseline memory,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+CHI3L1,Baseline memory,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+CHI3L1,Baseline memory,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+CHI3L1,Baseline memory,Assay differences,Nominal P < 0.05,0.05,0.00125,0.0014889844252999,Yes
+CHI3L1,Baseline memory,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+CHI3L1,Baseline memory,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+CHI3L1,Baseline memory,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+CHI3L1,Baseline memory,Shared direction,Nominal P < 0.05,0.05,0.00089,0.0010949809337925,Yes
+CHIT1,Baseline memory,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+CHIT1,Baseline memory,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+CHIT1,Baseline memory,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+CHIT1,Baseline memory,Assay differences,Nominal P < 0.05,0.05,0.00127,0.0015107197645103,Yes
+CHIT1,Baseline memory,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+CHIT1,Baseline memory,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+CHIT1,Baseline memory,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+CHIT1,Baseline memory,Shared direction,Nominal P < 0.05,0.05,0.00025,0.0003690438374475,Yes
+CNTN2,Baseline memory,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+CNTN2,Baseline memory,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+CNTN2,Baseline memory,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+CNTN2,Baseline memory,Assay differences,Nominal P < 0.05,0.05,0.001,0.0012159983166366,Yes
+CNTN2,Baseline memory,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+CNTN2,Baseline memory,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+CNTN2,Baseline memory,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+CNTN2,Baseline memory,Shared direction,Nominal P < 0.05,0.05,0.00034,0.0004750572434194,Yes
+CST3,Baseline memory,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+CST3,Baseline memory,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+CST3,Baseline memory,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+CST3,Baseline memory,Assay differences,Nominal P < 0.05,0.05,0.0016,0.001867598666908,Yes
+CST3,Baseline memory,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+CST3,Baseline memory,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+CST3,Baseline memory,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+CST3,Baseline memory,Shared direction,Nominal P < 0.05,0.05,0.00275,0.0030942322869026,Yes
+CX3CL1,Baseline memory,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+CX3CL1,Baseline memory,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+CX3CL1,Baseline memory,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+CX3CL1,Baseline memory,Assay differences,Nominal P < 0.05,0.05,0.00135,0.0015975285074369,Yes
+CX3CL1,Baseline memory,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+CX3CL1,Baseline memory,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+CX3CL1,Baseline memory,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+CX3CL1,Baseline memory,Shared direction,Nominal P < 0.05,0.05,0.00032,0.0004516961854035,Yes
+FOLR1,Baseline memory,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+FOLR1,Baseline memory,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+FOLR1,Baseline memory,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+FOLR1,Baseline memory,Assay differences,Nominal P < 0.05,0.05,0.00102,0.0012379355768343,Yes
+FOLR1,Baseline memory,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+FOLR1,Baseline memory,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+FOLR1,Baseline memory,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+FOLR1,Baseline memory,Shared direction,Nominal P < 0.05,0.05,0.00032,0.0004516961854035,Yes
+GDF15,Baseline memory,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+GDF15,Baseline memory,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+GDF15,Baseline memory,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+GDF15,Baseline memory,Assay differences,Nominal P < 0.05,0.05,0.00179,0.0020718213466222,Yes
+GDF15,Baseline memory,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+GDF15,Baseline memory,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+GDF15,Baseline memory,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+GDF15,Baseline memory,Shared direction,Nominal P < 0.05,0.05,0.00052,0.0006817788552684,Yes
+ICAM1,Baseline memory,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+ICAM1,Baseline memory,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+ICAM1,Baseline memory,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+ICAM1,Baseline memory,Assay differences,Nominal P < 0.05,0.05,0.00138,0.0016300297029661,Yes
+ICAM1,Baseline memory,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+ICAM1,Baseline memory,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+ICAM1,Baseline memory,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+ICAM1,Baseline memory,Shared direction,Nominal P < 0.05,0.05,0.00037,0.0005099231967762,Yes
+IGF1R,Baseline memory,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+IGF1R,Baseline memory,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+IGF1R,Baseline memory,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+IGF1R,Baseline memory,Assay differences,Nominal P < 0.05,0.05,0.00152,0.0017813584774359,Yes
+IGF1R,Baseline memory,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+IGF1R,Baseline memory,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+IGF1R,Baseline memory,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+IGF1R,Baseline memory,Shared direction,Nominal P < 0.05,0.05,0.00055,0.0007157585256665,Yes
+IGFBP7,Baseline memory,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+IGFBP7,Baseline memory,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+IGFBP7,Baseline memory,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+IGFBP7,Baseline memory,Assay differences,Nominal P < 0.05,0.05,0.0013,0.0015432974327053,Yes
+IGFBP7,Baseline memory,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+IGFBP7,Baseline memory,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+IGFBP7,Baseline memory,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+IGFBP7,Baseline memory,Shared direction,Nominal P < 0.05,0.05,0.00051,0.000670427313295,Yes
+KDR,Baseline memory,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+KDR,Baseline memory,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+KDR,Baseline memory,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+KDR,Baseline memory,Assay differences,Nominal P < 0.05,0.05,0.00147,0.0017273747613558,Yes
+KDR,Baseline memory,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+KDR,Baseline memory,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+KDR,Baseline memory,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+KDR,Baseline memory,Shared direction,Nominal P < 0.05,0.05,0.0007,0.0008842197107794,Yes
+KLK6,Baseline memory,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+KLK6,Baseline memory,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+KLK6,Baseline memory,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+KLK6,Baseline memory,Assay differences,Nominal P < 0.05,0.05,0.00157,0.001835277271908,Yes
+KLK6,Baseline memory,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+KLK6,Baseline memory,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+KLK6,Baseline memory,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+KLK6,Baseline memory,Shared direction,Nominal P < 0.05,0.05,0.00038,0.0005215020865681,Yes
+MDH1,Baseline memory,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+MDH1,Baseline memory,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+MDH1,Baseline memory,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+MDH1,Baseline memory,Assay differences,Nominal P < 0.05,0.05,0.00106,0.001281754257918,Yes
+MDH1,Baseline memory,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+MDH1,Baseline memory,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+MDH1,Baseline memory,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+MDH1,Baseline memory,Shared direction,Nominal P < 0.05,0.05,0.00073,0.000917668625007,Yes
+MSLN,Baseline memory,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+MSLN,Baseline memory,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+MSLN,Baseline memory,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+MSLN,Baseline memory,Assay differences,Nominal P < 0.05,0.05,0.0013,0.0015432974327053,Yes
+MSLN,Baseline memory,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+MSLN,Baseline memory,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+MSLN,Baseline memory,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+MSLN,Baseline memory,Shared direction,Nominal P < 0.05,0.05,0.0004,0.000544600125134,Yes
+NEFH,Baseline memory,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,1e-05,5.664709659040966e-05,Yes
+NEFH,Baseline memory,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+NEFH,Baseline memory,Assay differences,BY-68 first-step threshold,0.0001530568684437,1e-05,5.664709659040966e-05,Yes
+NEFH,Baseline memory,Assay differences,Nominal P < 0.05,0.05,0.00154,0.0018029336092458,Yes
+NEFH,Baseline memory,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+NEFH,Baseline memory,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+NEFH,Baseline memory,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+NEFH,Baseline memory,Shared direction,Nominal P < 0.05,0.05,0.0005,0.0006590626778071,Yes
+NEFL,Baseline memory,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+NEFL,Baseline memory,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+NEFL,Baseline memory,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+NEFL,Baseline memory,Assay differences,Nominal P < 0.05,0.05,0.0012,0.0014345845619616,Yes
+NEFL,Baseline memory,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+NEFL,Baseline memory,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+NEFL,Baseline memory,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+NEFL,Baseline memory,Shared direction,Nominal P < 0.05,0.05,0.00035,0.0004867016617509,Yes
+NGF,Baseline memory,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+NGF,Baseline memory,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+NGF,Baseline memory,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+NGF,Baseline memory,Assay differences,Nominal P < 0.05,0.05,0.00211,0.0024141631047029,Yes
+NGF,Baseline memory,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+NGF,Baseline memory,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+NGF,Baseline memory,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+NGF,Baseline memory,Shared direction,Nominal P < 0.05,0.05,0.00061,0.0007834092485847,Yes
+NPTX1,Baseline memory,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+NPTX1,Baseline memory,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+NPTX1,Baseline memory,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+NPTX1,Baseline memory,Assay differences,Nominal P < 0.05,0.05,0.00095,0.0011610692052271,Yes
+NPTX1,Baseline memory,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+NPTX1,Baseline memory,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+NPTX1,Baseline memory,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+NPTX1,Baseline memory,Shared direction,Nominal P < 0.05,0.05,0.00034,0.0004750572434194,Yes
+NPTX2,Baseline memory,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+NPTX2,Baseline memory,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+NPTX2,Baseline memory,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+NPTX2,Baseline memory,Assay differences,Nominal P < 0.05,0.05,0.00092,0.0011280497122235,Yes
+NPTX2,Baseline memory,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+NPTX2,Baseline memory,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+NPTX2,Baseline memory,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+NPTX2,Baseline memory,Shared direction,Nominal P < 0.05,0.05,0.00026,0.0003809478381717,Yes
+NPY,Baseline memory,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+NPY,Baseline memory,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+NPY,Baseline memory,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+NPY,Baseline memory,Assay differences,Nominal P < 0.05,0.05,0.00113,0.0013582683713439,Yes
+NPY,Baseline memory,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+NPY,Baseline memory,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+NPY,Baseline memory,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+NPY,Baseline memory,Shared direction,Nominal P < 0.05,0.05,0.00038,0.0005215020865681,Yes
+NRGN,Baseline memory,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+NRGN,Baseline memory,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+NRGN,Baseline memory,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+NRGN,Baseline memory,Assay differences,Nominal P < 0.05,0.05,0.00116,0.0013909985001774,Yes
+NRGN,Baseline memory,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+NRGN,Baseline memory,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+NRGN,Baseline memory,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+NRGN,Baseline memory,Shared direction,Nominal P < 0.05,0.05,0.00047,0.0006248862400294,Yes
+PDGFRB,Baseline memory,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+PDGFRB,Baseline memory,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+PDGFRB,Baseline memory,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+PDGFRB,Baseline memory,Assay differences,Nominal P < 0.05,0.05,0.00097,0.0011830559588595,Yes
+PDGFRB,Baseline memory,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+PDGFRB,Baseline memory,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+PDGFRB,Baseline memory,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+PDGFRB,Baseline memory,Shared direction,Nominal P < 0.05,0.05,0.00026,0.0003809478381717,Yes
+PGK1,Baseline memory,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+PGK1,Baseline memory,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+PGK1,Baseline memory,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+PGK1,Baseline memory,Assay differences,Nominal P < 0.05,0.05,0.00121,0.0014454717361109,Yes
+PGK1,Baseline memory,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+PGK1,Baseline memory,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+PGK1,Baseline memory,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+PGK1,Baseline memory,Shared direction,Nominal P < 0.05,0.05,0.00032,0.0004516961854035,Yes
+PRDX6,Baseline memory,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+PRDX6,Baseline memory,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+PRDX6,Baseline memory,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+PRDX6,Baseline memory,Assay differences,Nominal P < 0.05,0.05,0.0011,0.0013255019243246,Yes
+PRDX6,Baseline memory,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+PRDX6,Baseline memory,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+PRDX6,Baseline memory,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+PRDX6,Baseline memory,Shared direction,Nominal P < 0.05,0.05,0.0002,0.0003089188978679,Yes
+PTN,Baseline memory,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+PTN,Baseline memory,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+PTN,Baseline memory,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+PTN,Baseline memory,Assay differences,Nominal P < 0.05,0.05,0.00147,0.0017273747613558,Yes
+PTN,Baseline memory,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+PTN,Baseline memory,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+PTN,Baseline memory,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+PTN,Baseline memory,Shared direction,Nominal P < 0.05,0.05,0.0003,0.0004282313834613,Yes
+SFTPD,Baseline memory,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+SFTPD,Baseline memory,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+SFTPD,Baseline memory,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+SFTPD,Baseline memory,Assay differences,Nominal P < 0.05,0.05,0.00093,0.0011390615691127,Yes
+SFTPD,Baseline memory,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+SFTPD,Baseline memory,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+SFTPD,Baseline memory,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+SFTPD,Baseline memory,Shared direction,Nominal P < 0.05,0.05,0.00037,0.0005099231967762,Yes
+SLIT2,Baseline memory,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+SLIT2,Baseline memory,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+SLIT2,Baseline memory,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+SLIT2,Baseline memory,Assay differences,Nominal P < 0.05,0.05,0.00141,0.0016625039179489,Yes
+SLIT2,Baseline memory,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+SLIT2,Baseline memory,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+SLIT2,Baseline memory,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+SLIT2,Baseline memory,Shared direction,Nominal P < 0.05,0.05,0.0005,0.0006590626778071,Yes
+SOD1,Baseline memory,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+SOD1,Baseline memory,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+SOD1,Baseline memory,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+SOD1,Baseline memory,Assay differences,Nominal P < 0.05,0.05,0.0013,0.0015432974327053,Yes
+SOD1,Baseline memory,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+SOD1,Baseline memory,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+SOD1,Baseline memory,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+SOD1,Baseline memory,Shared direction,Nominal P < 0.05,0.05,0.00068,0.0008618796776423,Yes
+TAFA5,Baseline memory,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+TAFA5,Baseline memory,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+TAFA5,Baseline memory,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+TAFA5,Baseline memory,Assay differences,Nominal P < 0.05,0.05,0.00116,0.0013909985001774,Yes
+TAFA5,Baseline memory,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+TAFA5,Baseline memory,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+TAFA5,Baseline memory,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+TAFA5,Baseline memory,Shared direction,Nominal P < 0.05,0.05,0.00051,0.000670427313295,Yes
+TIMP3,Baseline memory,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+TIMP3,Baseline memory,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+TIMP3,Baseline memory,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+TIMP3,Baseline memory,Assay differences,Nominal P < 0.05,0.05,0.00123,0.0014672351948823,Yes
+TIMP3,Baseline memory,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+TIMP3,Baseline memory,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+TIMP3,Baseline memory,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+TIMP3,Baseline memory,Shared direction,Nominal P < 0.05,0.05,0.00044,0.0005905767756511,Yes
+AGRN,Executive function change,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+AGRN,Executive function change,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+AGRN,Executive function change,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+AGRN,Executive function change,Assay differences,Nominal P < 0.05,0.05,0.00214,0.0024461677027641,Yes
+AGRN,Executive function change,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+AGRN,Executive function change,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+AGRN,Executive function change,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+AGRN,Executive function change,Shared direction,Nominal P < 0.05,0.05,0.00065,0.0008283048951378,Yes
+ANXA5,Executive function change,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+ANXA5,Executive function change,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+ANXA5,Executive function change,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+ANXA5,Executive function change,Assay differences,Nominal P < 0.05,0.05,0.00227,0.0025846957048497,Yes
+ANXA5,Executive function change,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+ANXA5,Executive function change,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+ANXA5,Executive function change,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+ANXA5,Executive function change,Shared direction,Nominal P < 0.05,0.05,0.00068,0.0008618796776423,Yes
+CALB2,Executive function change,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+CALB2,Executive function change,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+CALB2,Executive function change,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+CALB2,Executive function change,Assay differences,Nominal P < 0.05,0.05,0.00245,0.0027761089207613,Yes
+CALB2,Executive function change,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+CALB2,Executive function change,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+CALB2,Executive function change,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+CALB2,Executive function change,Shared direction,Nominal P < 0.05,0.05,0.00118,0.0014127990979333,Yes
+CCL2,Executive function change,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+CCL2,Executive function change,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+CCL2,Executive function change,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+CCL2,Executive function change,Assay differences,Nominal P < 0.05,0.05,0.00311,0.0034747134240287,Yes
+CCL2,Executive function change,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+CCL2,Executive function change,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+CCL2,Executive function change,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+CCL2,Executive function change,Shared direction,Nominal P < 0.05,0.05,0.0017,0.0019751835651529,Yes
+CHI3L1,Executive function change,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+CHI3L1,Executive function change,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+CHI3L1,Executive function change,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+CHI3L1,Executive function change,Assay differences,Nominal P < 0.05,0.05,0.00225,0.0025633999531062,Yes
+CHI3L1,Executive function change,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+CHI3L1,Executive function change,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+CHI3L1,Executive function change,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+CHI3L1,Executive function change,Shared direction,Nominal P < 0.05,0.05,0.00112,0.0013473503288274,Yes
+CHIT1,Executive function change,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+CHIT1,Executive function change,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+CHIT1,Executive function change,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+CHIT1,Executive function change,Assay differences,Nominal P < 0.05,0.05,0.00164,0.0019106602870011,Yes
+CHIT1,Executive function change,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+CHIT1,Executive function change,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+CHIT1,Executive function change,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+CHIT1,Executive function change,Shared direction,Nominal P < 0.05,0.05,0.00071,0.0008953773298401,Yes
+CNTN2,Executive function change,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+CNTN2,Executive function change,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+CNTN2,Executive function change,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+CNTN2,Executive function change,Assay differences,Nominal P < 0.05,0.05,0.00232,0.002637910247165,Yes
+CNTN2,Executive function change,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+CNTN2,Executive function change,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+CNTN2,Executive function change,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+CNTN2,Executive function change,Shared direction,Nominal P < 0.05,0.05,0.0007,0.0008842197107794,Yes
+CST3,Executive function change,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+CST3,Executive function change,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+CST3,Executive function change,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+CST3,Executive function change,Assay differences,Nominal P < 0.05,0.05,0.00368,0.0040748357780013,Yes
+CST3,Executive function change,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+CST3,Executive function change,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+CST3,Executive function change,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+CST3,Executive function change,Shared direction,Nominal P < 0.05,0.05,0.0085,0.0090881713285063,Yes
+CX3CL1,Executive function change,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+CX3CL1,Executive function change,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+CX3CL1,Executive function change,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+CX3CL1,Executive function change,Assay differences,Nominal P < 0.05,0.05,0.00336,0.0037382408774594,Yes
+CX3CL1,Executive function change,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+CX3CL1,Executive function change,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+CX3CL1,Executive function change,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+CX3CL1,Executive function change,Shared direction,Nominal P < 0.05,0.05,0.00148,0.001738176853423,Yes
+FOLR1,Executive function change,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+FOLR1,Executive function change,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+FOLR1,Executive function change,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+FOLR1,Executive function change,Assay differences,Nominal P < 0.05,0.05,0.00211,0.0024141631047029,Yes
+FOLR1,Executive function change,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+FOLR1,Executive function change,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+FOLR1,Executive function change,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+FOLR1,Executive function change,Shared direction,Nominal P < 0.05,0.05,0.00123,0.0014672351948823,Yes
+GDF15,Executive function change,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+GDF15,Executive function change,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+GDF15,Executive function change,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+GDF15,Executive function change,Assay differences,Nominal P < 0.05,0.05,0.00382,0.0042218663322957,Yes
+GDF15,Executive function change,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+GDF15,Executive function change,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+GDF15,Executive function change,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+GDF15,Executive function change,Shared direction,Nominal P < 0.05,0.05,0.00067,0.00085069690422,Yes
+ICAM1,Executive function change,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+ICAM1,Executive function change,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+ICAM1,Executive function change,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+ICAM1,Executive function change,Assay differences,Nominal P < 0.05,0.05,0.00311,0.0034747134240287,Yes
+ICAM1,Executive function change,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+ICAM1,Executive function change,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+ICAM1,Executive function change,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+ICAM1,Executive function change,Shared direction,Nominal P < 0.05,0.05,0.00109,0.0013145714514323,Yes
+IGF1R,Executive function change,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+IGF1R,Executive function change,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+IGF1R,Executive function change,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+IGF1R,Executive function change,Assay differences,Nominal P < 0.05,0.05,0.00285,0.0032000503366142,Yes
+IGF1R,Executive function change,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+IGF1R,Executive function change,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+IGF1R,Executive function change,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+IGF1R,Executive function change,Shared direction,Nominal P < 0.05,0.05,0.00127,0.0015107197645103,Yes
+IGFBP7,Executive function change,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+IGFBP7,Executive function change,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+IGFBP7,Executive function change,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+IGFBP7,Executive function change,Assay differences,Nominal P < 0.05,0.05,0.00221,0.0025207910023478,Yes
+IGFBP7,Executive function change,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+IGFBP7,Executive function change,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+IGFBP7,Executive function change,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+IGFBP7,Executive function change,Shared direction,Nominal P < 0.05,0.05,0.00188,0.0021682941570429,Yes
+KDR,Executive function change,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+KDR,Executive function change,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+KDR,Executive function change,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+KDR,Executive function change,Assay differences,Nominal P < 0.05,0.05,0.0024,0.002722982049206,Yes
+KDR,Executive function change,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+KDR,Executive function change,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+KDR,Executive function change,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+KDR,Executive function change,Shared direction,Nominal P < 0.05,0.05,0.00102,0.0012379355768343,Yes
+KLK6,Executive function change,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+KLK6,Executive function change,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+KLK6,Executive function change,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+KLK6,Executive function change,Assay differences,Nominal P < 0.05,0.05,0.00302,0.0033797101401687,Yes
+KLK6,Executive function change,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+KLK6,Executive function change,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+KLK6,Executive function change,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+KLK6,Executive function change,Shared direction,Nominal P < 0.05,0.05,0.00057,0.000738352502401,Yes
+MDH1,Executive function change,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+MDH1,Executive function change,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+MDH1,Executive function change,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+MDH1,Executive function change,Assay differences,Nominal P < 0.05,0.05,0.0024,0.002722982049206,Yes
+MDH1,Executive function change,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+MDH1,Executive function change,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+MDH1,Executive function change,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+MDH1,Executive function change,Shared direction,Nominal P < 0.05,0.05,0.00186,0.0021468693936306,Yes
+MSLN,Executive function change,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+MSLN,Executive function change,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+MSLN,Executive function change,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+MSLN,Executive function change,Assay differences,Nominal P < 0.05,0.05,0.00257,0.0029034851459775,Yes
+MSLN,Executive function change,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+MSLN,Executive function change,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+MSLN,Executive function change,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+MSLN,Executive function change,Shared direction,Nominal P < 0.05,0.05,0.00052,0.0006817788552684,Yes
+NEFH,Executive function change,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+NEFH,Executive function change,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+NEFH,Executive function change,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+NEFH,Executive function change,Assay differences,Nominal P < 0.05,0.05,0.00374,0.004137865118844,Yes
+NEFH,Executive function change,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+NEFH,Executive function change,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+NEFH,Executive function change,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+NEFH,Executive function change,Shared direction,Nominal P < 0.05,0.05,0.00146,0.0017165699407613,Yes
+NEFL,Executive function change,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+NEFL,Executive function change,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+NEFL,Executive function change,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+NEFL,Executive function change,Assay differences,Nominal P < 0.05,0.05,0.00209,0.0023928187600902,Yes
+NEFL,Executive function change,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+NEFL,Executive function change,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+NEFL,Executive function change,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+NEFL,Executive function change,Shared direction,Nominal P < 0.05,0.05,0.0007,0.0008842197107794,Yes
+NGF,Executive function change,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+NGF,Executive function change,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+NGF,Executive function change,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+NGF,Executive function change,Assay differences,Nominal P < 0.05,0.05,0.00567,0.0061547440349728,Yes
+NGF,Executive function change,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+NGF,Executive function change,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+NGF,Executive function change,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+NGF,Executive function change,Shared direction,Nominal P < 0.05,0.05,0.00121,0.0014454717361109,Yes
+NPTX1,Executive function change,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+NPTX1,Executive function change,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+NPTX1,Executive function change,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+NPTX1,Executive function change,Assay differences,Nominal P < 0.05,0.05,0.0021,0.0024034917344865,Yes
+NPTX1,Executive function change,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+NPTX1,Executive function change,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+NPTX1,Executive function change,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+NPTX1,Executive function change,Shared direction,Nominal P < 0.05,0.05,0.00155,0.0018137173437281,Yes
+NPTX2,Executive function change,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+NPTX2,Executive function change,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+NPTX2,Executive function change,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+NPTX2,Executive function change,Assay differences,Nominal P < 0.05,0.05,0.00151,0.0017705670300878,Yes
+NPTX2,Executive function change,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+NPTX2,Executive function change,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+NPTX2,Executive function change,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+NPTX2,Executive function change,Shared direction,Nominal P < 0.05,0.05,0.00093,0.0011390615691127,Yes
+NPY,Executive function change,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+NPY,Executive function change,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+NPY,Executive function change,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+NPY,Executive function change,Assay differences,Nominal P < 0.05,0.05,0.00198,0.0022753067900593,Yes
+NPY,Executive function change,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+NPY,Executive function change,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+NPY,Executive function change,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+NPY,Executive function change,Shared direction,Nominal P < 0.05,0.05,0.00106,0.001281754257918,Yes
+NRGN,Executive function change,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+NRGN,Executive function change,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+NRGN,Executive function change,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+NRGN,Executive function change,Assay differences,Nominal P < 0.05,0.05,0.00292,0.0032740620883095,Yes
+NRGN,Executive function change,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+NRGN,Executive function change,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+NRGN,Executive function change,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+NRGN,Executive function change,Shared direction,Nominal P < 0.05,0.05,0.0008,0.0009954529314321,Yes
+PDGFRB,Executive function change,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+PDGFRB,Executive function change,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+PDGFRB,Executive function change,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+PDGFRB,Executive function change,Assay differences,Nominal P < 0.05,0.05,0.0017,0.0019751835651529,Yes
+PDGFRB,Executive function change,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+PDGFRB,Executive function change,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+PDGFRB,Executive function change,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+PDGFRB,Executive function change,Shared direction,Nominal P < 0.05,0.05,0.00131,0.0015541500529958,Yes
+PGK1,Executive function change,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+PGK1,Executive function change,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+PGK1,Executive function change,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+PGK1,Executive function change,Assay differences,Nominal P < 0.05,0.05,0.00304,0.0034008283988908,Yes
+PGK1,Executive function change,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+PGK1,Executive function change,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+PGK1,Executive function change,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+PGK1,Executive function change,Shared direction,Nominal P < 0.05,0.05,0.00156,0.001824498556608,Yes
+PRDX6,Executive function change,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+PRDX6,Executive function change,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+PRDX6,Executive function change,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+PRDX6,Executive function change,Assay differences,Nominal P < 0.05,0.05,0.00177,0.0020503609789463,Yes
+PRDX6,Executive function change,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+PRDX6,Executive function change,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+PRDX6,Executive function change,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+PRDX6,Executive function change,Shared direction,Nominal P < 0.05,0.05,0.00064,0.0008170952585101,Yes
+PTN,Executive function change,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+PTN,Executive function change,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+PTN,Executive function change,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+PTN,Executive function change,Assay differences,Nominal P < 0.05,0.05,0.00241,0.0027336100207034,Yes
+PTN,Executive function change,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+PTN,Executive function change,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+PTN,Executive function change,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+PTN,Executive function change,Shared direction,Nominal P < 0.05,0.05,0.00128,0.0015215823266638,Yes
+SFTPD,Executive function change,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+SFTPD,Executive function change,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+SFTPD,Executive function change,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+SFTPD,Executive function change,Assay differences,Nominal P < 0.05,0.05,0.00124,0.0014781115672475,Yes
+SFTPD,Executive function change,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+SFTPD,Executive function change,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+SFTPD,Executive function change,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+SFTPD,Executive function change,Shared direction,Nominal P < 0.05,0.05,0.00069,0.0008730538855344,Yes
+SLIT2,Executive function change,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+SLIT2,Executive function change,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+SLIT2,Executive function change,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+SLIT2,Executive function change,Assay differences,Nominal P < 0.05,0.05,0.00283,0.0031788950418338,Yes
+SLIT2,Executive function change,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+SLIT2,Executive function change,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+SLIT2,Executive function change,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+SLIT2,Executive function change,Shared direction,Nominal P < 0.05,0.05,0.00104,0.0012598540459087,Yes
+SOD1,Executive function change,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+SOD1,Executive function change,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+SOD1,Executive function change,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+SOD1,Executive function change,Assay differences,Nominal P < 0.05,0.05,0.00264,0.002977708189886,Yes
+SOD1,Executive function change,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+SOD1,Executive function change,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+SOD1,Executive function change,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+SOD1,Executive function change,Shared direction,Nominal P < 0.05,0.05,0.00138,0.0016300297029661,Yes
+TAFA5,Executive function change,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+TAFA5,Executive function change,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+TAFA5,Executive function change,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+TAFA5,Executive function change,Assay differences,Nominal P < 0.05,0.05,0.00227,0.0025846957048497,Yes
+TAFA5,Executive function change,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+TAFA5,Executive function change,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+TAFA5,Executive function change,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+TAFA5,Executive function change,Shared direction,Nominal P < 0.05,0.05,0.00151,0.0017705670300878,Yes
+TIMP3,Executive function change,Assay differences,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+TIMP3,Executive function change,Assay differences,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+TIMP3,Executive function change,Assay differences,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+TIMP3,Executive function change,Assay differences,Nominal P < 0.05,0.05,0.00231,0.0026272701404141,Yes
+TIMP3,Executive function change,Shared direction,BY-136 first-step threshold,6.692349385993542e-05,0.0,3.841311258303963e-05,Yes
+TIMP3,Executive function change,Shared direction,BY-204 first-step threshold,4.15576448299245e-05,0.0,3.841311258303963e-05,Yes
+TIMP3,Executive function change,Shared direction,BY-68 first-step threshold,0.0001530568684437,0.0,3.841311258303963e-05,Yes
+TIMP3,Executive function change,Shared direction,Nominal P < 0.05,0.05,0.00088,0.0010839466318771,Yes
+AGRN,Memory: no p-tau181 adjustment,Assay differences,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+AGRN,Memory: no p-tau181 adjustment,Assay differences,Nominal P < 0.05,0.05,0.0023,0.0034490774822886,Yes
+AGRN,Memory: no p-tau181 adjustment,Shared direction,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+AGRN,Memory: no p-tau181 adjustment,Shared direction,Nominal P < 0.05,0.05,0.0009,0.0017097301130243,Yes
+CALB2,Memory: no p-tau181 adjustment,Assay differences,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+CALB2,Memory: no p-tau181 adjustment,Assay differences,Nominal P < 0.05,0.05,0.0024,0.0035687763690995,Yes
+CALB2,Memory: no p-tau181 adjustment,Shared direction,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+CALB2,Memory: no p-tau181 adjustment,Shared direction,Nominal P < 0.05,0.05,0.0011,0.0019688029200307,Yes
+CNTN2,Memory: no p-tau181 adjustment,Assay differences,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+CNTN2,Memory: no p-tau181 adjustment,Assay differences,Nominal P < 0.05,0.05,0.002,0.0030873506646506,Yes
+CNTN2,Memory: no p-tau181 adjustment,Shared direction,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+CNTN2,Memory: no p-tau181 adjustment,Shared direction,Nominal P < 0.05,0.05,0.0005,0.001170025946142,Yes
+CX3CL1,Memory: no p-tau181 adjustment,Assay differences,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+CX3CL1,Memory: no p-tau181 adjustment,Assay differences,Nominal P < 0.05,0.05,0.0033,0.0046306405718119,Yes
+CX3CL1,Memory: no p-tau181 adjustment,Shared direction,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+CX3CL1,Memory: no p-tau181 adjustment,Shared direction,Nominal P < 0.05,0.05,0.0018,0.0028436879850291,Yes
+KLK6,Memory: no p-tau181 adjustment,Assay differences,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+KLK6,Memory: no p-tau181 adjustment,Assay differences,Nominal P < 0.05,0.05,0.0033,0.0046306405718119,Yes
+KLK6,Memory: no p-tau181 adjustment,Shared direction,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+KLK6,Memory: no p-tau181 adjustment,Shared direction,Nominal P < 0.05,0.05,0.0009,0.0017097301130243,Yes
+MDH1,Memory: no p-tau181 adjustment,Assay differences,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+MDH1,Memory: no p-tau181 adjustment,Assay differences,Nominal P < 0.05,0.05,0.0024,0.0035687763690995,Yes
+MDH1,Memory: no p-tau181 adjustment,Shared direction,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+MDH1,Memory: no p-tau181 adjustment,Shared direction,Nominal P < 0.05,0.05,0.0007,0.0014443344412696,Yes
+NEFL,Memory: no p-tau181 adjustment,Assay differences,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+NEFL,Memory: no p-tau181 adjustment,Assay differences,Nominal P < 0.05,0.05,0.0019,0.0029657950172393,Yes
+NEFL,Memory: no p-tau181 adjustment,Shared direction,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+NEFL,Memory: no p-tau181 adjustment,Shared direction,Nominal P < 0.05,0.05,0.0006,0.0013085240963007,Yes
+NPTX1,Memory: no p-tau181 adjustment,Assay differences,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+NPTX1,Memory: no p-tau181 adjustment,Assay differences,Nominal P < 0.05,0.05,0.0025,0.0036880807676648,Yes
+NPTX1,Memory: no p-tau181 adjustment,Shared direction,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+NPTX1,Memory: no p-tau181 adjustment,Shared direction,Nominal P < 0.05,0.05,0.001,0.0018399443874379,Yes
+NPTX2,Memory: no p-tau181 adjustment,Assay differences,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+NPTX2,Memory: no p-tau181 adjustment,Assay differences,Nominal P < 0.05,0.05,0.0017,0.0027209854150957,Yes
+NPTX2,Memory: no p-tau181 adjustment,Shared direction,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+NPTX2,Memory: no p-tau181 adjustment,Shared direction,Nominal P < 0.05,0.05,0.0008,0.0015779502533866,Yes
+NRGN,Memory: no p-tau181 adjustment,Assay differences,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+NRGN,Memory: no p-tau181 adjustment,Assay differences,Nominal P < 0.05,0.05,0.0018,0.0028436879850291,Yes
+NRGN,Memory: no p-tau181 adjustment,Shared direction,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+NRGN,Memory: no p-tau181 adjustment,Shared direction,Nominal P < 0.05,0.05,0.0012,0.002096472455817,Yes
+PGK1,Memory: no p-tau181 adjustment,Assay differences,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+PGK1,Memory: no p-tau181 adjustment,Assay differences,Nominal P < 0.05,0.05,0.003,0.0042794066864004,Yes
+PGK1,Memory: no p-tau181 adjustment,Shared direction,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+PGK1,Memory: no p-tau181 adjustment,Shared direction,Nominal P < 0.05,0.05,0.0012,0.002096472455817,Yes
+SLIT2,Memory: no p-tau181 adjustment,Assay differences,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+SLIT2,Memory: no p-tau181 adjustment,Assay differences,Nominal P < 0.05,0.05,0.0025,0.0036880807676648,Yes
+SLIT2,Memory: no p-tau181 adjustment,Shared direction,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+SLIT2,Memory: no p-tau181 adjustment,Shared direction,Nominal P < 0.05,0.05,0.0007,0.0014443344412696,Yes
+TAFA5,Memory: no p-tau181 adjustment,Assay differences,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+TAFA5,Memory: no p-tau181 adjustment,Assay differences,Nominal P < 0.05,0.05,0.0019,0.0029657950172393,Yes
+TAFA5,Memory: no p-tau181 adjustment,Shared direction,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+TAFA5,Memory: no p-tau181 adjustment,Shared direction,Nominal P < 0.05,0.05,0.001,0.0018399443874379,Yes
+TIMP3,Memory: no p-tau181 adjustment,Assay differences,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+TIMP3,Memory: no p-tau181 adjustment,Assay differences,Nominal P < 0.05,0.05,0.003,0.0042794066864004,Yes
+TIMP3,Memory: no p-tau181 adjustment,Shared direction,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+TIMP3,Memory: no p-tau181 adjustment,Shared direction,Nominal P < 0.05,0.05,0.0008,0.0015779502533866,Yes
+AGRN,Memory: higher-information follow-up,Assay differences,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+AGRN,Memory: higher-information follow-up,Assay differences,Nominal P < 0.05,0.05,0.003,0.0042794066864004,Yes
+AGRN,Memory: higher-information follow-up,Shared direction,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+AGRN,Memory: higher-information follow-up,Shared direction,Nominal P < 0.05,0.05,0.0013,0.0022230881023331,Yes
+CALB2,Memory: higher-information follow-up,Assay differences,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+CALB2,Memory: higher-information follow-up,Assay differences,Nominal P < 0.05,0.05,0.003,0.0042794066864004,Yes
+CALB2,Memory: higher-information follow-up,Shared direction,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+CALB2,Memory: higher-information follow-up,Shared direction,Nominal P < 0.05,0.05,0.0014,0.0023487611463637,Yes
+CNTN2,Memory: higher-information follow-up,Assay differences,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+CNTN2,Memory: higher-information follow-up,Assay differences,Nominal P < 0.05,0.05,0.0021,0.0032083938725359,Yes
+CNTN2,Memory: higher-information follow-up,Shared direction,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+CNTN2,Memory: higher-information follow-up,Shared direction,Nominal P < 0.05,0.05,0.0015,0.0024735845499714,Yes
+CX3CL1,Memory: higher-information follow-up,Assay differences,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+CX3CL1,Memory: higher-information follow-up,Assay differences,Nominal P < 0.05,0.05,0.0042,0.0056718958162243,Yes
+CX3CL1,Memory: higher-information follow-up,Shared direction,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+CX3CL1,Memory: higher-information follow-up,Shared direction,Nominal P < 0.05,0.05,0.0025,0.0036880807676648,Yes
+KLK6,Memory: higher-information follow-up,Assay differences,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+KLK6,Memory: higher-information follow-up,Assay differences,Nominal P < 0.05,0.05,0.004,0.0054419126459796,Yes
+KLK6,Memory: higher-information follow-up,Shared direction,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+KLK6,Memory: higher-information follow-up,Shared direction,Nominal P < 0.05,0.05,0.0008,0.0015779502533866,Yes
+MDH1,Memory: higher-information follow-up,Assay differences,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+MDH1,Memory: higher-information follow-up,Assay differences,Nominal P < 0.05,0.05,0.0029,0.0041617745465656,Yes
+MDH1,Memory: higher-information follow-up,Shared direction,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+MDH1,Memory: higher-information follow-up,Shared direction,Nominal P < 0.05,0.05,0.0022,0.0033289592000529,Yes
+NEFL,Memory: higher-information follow-up,Assay differences,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+NEFL,Memory: higher-information follow-up,Assay differences,Nominal P < 0.05,0.05,0.0027,0.0039255941536993,Yes
+NEFL,Memory: higher-information follow-up,Shared direction,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+NEFL,Memory: higher-information follow-up,Shared direction,Nominal P < 0.05,0.05,0.0019,0.0029657950172393,Yes
+NPTX1,Memory: higher-information follow-up,Assay differences,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+NPTX1,Memory: higher-information follow-up,Assay differences,Nominal P < 0.05,0.05,0.0025,0.0036880807676648,Yes
+NPTX1,Memory: higher-information follow-up,Shared direction,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+NPTX1,Memory: higher-information follow-up,Shared direction,Nominal P < 0.05,0.05,0.0018,0.0028436879850291,Yes
+NPTX2,Memory: higher-information follow-up,Assay differences,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+NPTX2,Memory: higher-information follow-up,Assay differences,Nominal P < 0.05,0.05,0.0026,0.0038070132089826,Yes
+NPTX2,Memory: higher-information follow-up,Shared direction,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+NPTX2,Memory: higher-information follow-up,Shared direction,Nominal P < 0.05,0.05,0.0015,0.0024735845499714,Yes
+NRGN,Memory: higher-information follow-up,Assay differences,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+NRGN,Memory: higher-information follow-up,Assay differences,Nominal P < 0.05,0.05,0.0037,0.0050955087449826,Yes
+NRGN,Memory: higher-information follow-up,Shared direction,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+NRGN,Memory: higher-information follow-up,Shared direction,Nominal P < 0.05,0.05,0.0017,0.0027209854150957,Yes
+PGK1,Memory: higher-information follow-up,Assay differences,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+PGK1,Memory: higher-information follow-up,Assay differences,Nominal P < 0.05,0.05,0.0039,0.0053266423146114,Yes
+PGK1,Memory: higher-information follow-up,Shared direction,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+PGK1,Memory: higher-information follow-up,Shared direction,Nominal P < 0.05,0.05,0.0016,0.0025976369161969,Yes
+SLIT2,Memory: higher-information follow-up,Assay differences,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+SLIT2,Memory: higher-information follow-up,Assay differences,Nominal P < 0.05,0.05,0.0038,0.0052111768582802,Yes
+SLIT2,Memory: higher-information follow-up,Shared direction,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+SLIT2,Memory: higher-information follow-up,Shared direction,Nominal P < 0.05,0.05,0.0016,0.0025976369161969,Yes
+TAFA5,Memory: higher-information follow-up,Assay differences,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+TAFA5,Memory: higher-information follow-up,Assay differences,Nominal P < 0.05,0.05,0.0033,0.0046306405718119,Yes
+TAFA5,Memory: higher-information follow-up,Shared direction,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+TAFA5,Memory: higher-information follow-up,Shared direction,Nominal P < 0.05,0.05,0.0017,0.0027209854150957,Yes
+TIMP3,Memory: higher-information follow-up,Assay differences,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+TIMP3,Memory: higher-information follow-up,Assay differences,Nominal P < 0.05,0.05,0.0028,0.0040438422491151,Yes
+TIMP3,Memory: higher-information follow-up,Shared direction,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+TIMP3,Memory: higher-information follow-up,Shared direction,Nominal P < 0.05,0.05,0.0013,0.0022230881023331,Yes
+AGRN,Memory: equal participant weighting,Assay differences,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+AGRN,Memory: equal participant weighting,Assay differences,Nominal P < 0.05,0.05,0.0012,0.002096472455817,Yes
+AGRN,Memory: equal participant weighting,Shared direction,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+AGRN,Memory: equal participant weighting,Shared direction,Nominal P < 0.05,0.05,0.0012,0.002096472455817,Yes
+CALB2,Memory: equal participant weighting,Assay differences,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+CALB2,Memory: equal participant weighting,Assay differences,Nominal P < 0.05,0.05,0.0012,0.002096472455817,Yes
+CALB2,Memory: equal participant weighting,Shared direction,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+CALB2,Memory: equal participant weighting,Shared direction,Nominal P < 0.05,0.05,0.0011,0.0019688029200307,Yes
+CNTN2,Memory: equal participant weighting,Assay differences,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+CNTN2,Memory: equal participant weighting,Assay differences,Nominal P < 0.05,0.05,0.0012,0.002096472455817,Yes
+CNTN2,Memory: equal participant weighting,Shared direction,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+CNTN2,Memory: equal participant weighting,Shared direction,Nominal P < 0.05,0.05,0.0006,0.0013085240963007,Yes
+CX3CL1,Memory: equal participant weighting,Assay differences,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+CX3CL1,Memory: equal participant weighting,Assay differences,Nominal P < 0.05,0.05,0.0017,0.0027209854150957,Yes
+CX3CL1,Memory: equal participant weighting,Shared direction,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+CX3CL1,Memory: equal participant weighting,Shared direction,Nominal P < 0.05,0.05,0.0007,0.0014443344412696,Yes
+KLK6,Memory: equal participant weighting,Assay differences,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+KLK6,Memory: equal participant weighting,Assay differences,Nominal P < 0.05,0.05,0.0013,0.0022230881023331,Yes
+KLK6,Memory: equal participant weighting,Shared direction,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+KLK6,Memory: equal participant weighting,Shared direction,Nominal P < 0.05,0.05,0.0007,0.0014443344412696,Yes
+MDH1,Memory: equal participant weighting,Assay differences,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+MDH1,Memory: equal participant weighting,Assay differences,Nominal P < 0.05,0.05,0.0009,0.0017097301130243,Yes
+MDH1,Memory: equal participant weighting,Shared direction,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+MDH1,Memory: equal participant weighting,Shared direction,Nominal P < 0.05,0.05,0.0012,0.002096472455817,Yes
+NEFL,Memory: equal participant weighting,Assay differences,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+NEFL,Memory: equal participant weighting,Assay differences,Nominal P < 0.05,0.05,0.0013,0.0022230881023331,Yes
+NEFL,Memory: equal participant weighting,Shared direction,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+NEFL,Memory: equal participant weighting,Shared direction,Nominal P < 0.05,0.05,0.0006,0.0013085240963007,Yes
+NPTX1,Memory: equal participant weighting,Assay differences,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+NPTX1,Memory: equal participant weighting,Assay differences,Nominal P < 0.05,0.05,0.001,0.0018399443874379,Yes
+NPTX1,Memory: equal participant weighting,Shared direction,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+NPTX1,Memory: equal participant weighting,Shared direction,Nominal P < 0.05,0.05,0.001,0.0018399443874379,Yes
+NPTX2,Memory: equal participant weighting,Assay differences,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+NPTX2,Memory: equal participant weighting,Assay differences,Nominal P < 0.05,0.05,0.001,0.0018399443874379,Yes
+NPTX2,Memory: equal participant weighting,Shared direction,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+NPTX2,Memory: equal participant weighting,Shared direction,Nominal P < 0.05,0.05,0.0007,0.0014443344412696,Yes
+NRGN,Memory: equal participant weighting,Assay differences,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+NRGN,Memory: equal participant weighting,Assay differences,Nominal P < 0.05,0.05,0.0012,0.002096472455817,Yes
+NRGN,Memory: equal participant weighting,Shared direction,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+NRGN,Memory: equal participant weighting,Shared direction,Nominal P < 0.05,0.05,0.0012,0.002096472455817,Yes
+PGK1,Memory: equal participant weighting,Assay differences,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+PGK1,Memory: equal participant weighting,Assay differences,Nominal P < 0.05,0.05,0.0012,0.002096472455817,Yes
+PGK1,Memory: equal participant weighting,Shared direction,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+PGK1,Memory: equal participant weighting,Shared direction,Nominal P < 0.05,0.05,0.0008,0.0015779502533866,Yes
+SLIT2,Memory: equal participant weighting,Assay differences,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+SLIT2,Memory: equal participant weighting,Assay differences,Nominal P < 0.05,0.05,0.0011,0.0019688029200307,Yes
+SLIT2,Memory: equal participant weighting,Shared direction,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+SLIT2,Memory: equal participant weighting,Shared direction,Nominal P < 0.05,0.05,0.0011,0.0019688029200307,Yes
+TAFA5,Memory: equal participant weighting,Assay differences,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+TAFA5,Memory: equal participant weighting,Assay differences,Nominal P < 0.05,0.05,0.0016,0.0025976369161969,Yes
+TAFA5,Memory: equal participant weighting,Shared direction,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+TAFA5,Memory: equal participant weighting,Shared direction,Nominal P < 0.05,0.05,0.0011,0.0019688029200307,Yes
+TIMP3,Memory: equal participant weighting,Assay differences,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+TIMP3,Memory: equal participant weighting,Assay differences,Nominal P < 0.05,0.05,0.0011,0.0019688029200307,Yes
+TIMP3,Memory: equal participant weighting,Shared direction,BY-28 diagnostic first-step threshold,0.0004547075408725,0.0,0.0003839983706765,Yes
+TIMP3,Memory: equal participant weighting,Shared direction,Nominal P < 0.05,0.05,0.001,0.0018399443874379,Yes

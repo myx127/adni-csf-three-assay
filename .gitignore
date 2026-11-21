@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+*.egg-info/
+outputs/
+private*/
+00_restricted/
+**/00_restricted/
+config/paths.yaml
+config/paths.local.*
+.env
+.env.*
+*.pkl
+*.npz
+*.parquet

@@ -1,0 +1,141 @@
+﻿accession,scenario,mechanistic_direct_offset_zero,observable_H_null_expected,reps,n_failed,n_rejected05,rejection_rate,wilson95_low,wilson95_high,variance_version,interpretation
+O00468,WEAK,True,True,4000,0,0,0.0,5.421010862427522e-20,0.0009594432897014865,0,Weak-signal null check
+O94813,CORR12,True,False,4000,0,20,0.005,0.0032391284674616835,0.007710720389342788,0,Assumption stress; rejection does not prove direct pathology measurement effect
+O00468,OMITTED_TECH,True,False,4000,0,2275,0.56875,0.5533435589885984,0.5840245175590675,0,Assumption stress; rejection does not prove direct pathology measurement effect
+O00468,NONLINEAR,True,False,4000,0,6,0.0015,0.0006876391063442419,0.003268925853488141,0,Assumption stress; rejection does not prove direct pathology measurement effect
+O00468,CORR12,True,False,4000,0,18,0.0045,0.0028484168010197756,0.007102391499074396,0,Assumption stress; rejection does not prove direct pathology measurement effect
+O94813,WEAK,True,True,4000,0,0,0.0,5.421010862427522e-20,0.0009594432897014865,0,Weak-signal null check
+O94813,OMITTED_TECH,True,False,4000,0,2748,0.687,0.6724559664596799,0.701185201749972,0,Assumption stress; rejection does not prove direct pathology measurement effect
+O94813,NONLINEAR,True,False,4000,0,4,0.001,0.00038894703739082324,0.0025685773657312607,0,Assumption stress; rejection does not prove direct pathology measurement effect
+P00441,OMITTED_TECH,True,False,4000,0,2710,0.6775,0.6628500108093404,0.6918093868228156,0,Assumption stress; rejection does not prove direct pathology measurement effect
+P00441,CORR12,True,False,4000,0,16,0.004,0.002463699107435128,0.006488068635948746,0,Assumption stress; rejection does not prove direct pathology measurement effect
+P00441,NONLINEAR,True,False,4000,0,4,0.001,0.00038894703739082324,0.0025685773657312607,0,Assumption stress; rejection does not prove direct pathology measurement effect
+P00441,WEAK,True,True,4000,0,0,0.0,5.421010862427522e-20,0.0009594432897014865,0,Weak-signal null check
+P00558,CORR12,True,False,4000,0,19,0.00475,0.003043080585831835,0.007407247992617487,0,Assumption stress; rejection does not prove direct pathology measurement effect
+P00558,NONLINEAR,True,False,4000,0,5,0.00125,0.0005340397696758721,0.002923004911801361,0,Assumption stress; rejection does not prove direct pathology measurement effect
+P00558,WEAK,True,True,4000,0,0,0.0,5.421010862427522e-20,0.0009594432897014865,0,Weak-signal null check
+P00558,OMITTED_TECH,True,False,4000,0,2613,0.65325,0.6383601916189459,0.6678457390127606,0,Assumption stress; rejection does not prove direct pathology measurement effect
+P01034,CORR12,True,False,4000,0,19,0.00475,0.003043080585831835,0.007407247992617487,0,Assumption stress; rejection does not prove direct pathology measurement effect
+P01034,WEAK,True,True,4000,0,0,0.0,5.421010862427522e-20,0.0009594432897014865,0,Weak-signal null check
+P01138,WEAK,True,True,4000,0,0,0.0,5.421010862427522e-20,0.0009594432897014865,0,Weak-signal null check
+P01138,CORR12,True,False,4000,0,15,0.00375,0.002273916270746389,0.006178331194282336,0,Assumption stress; rejection does not prove direct pathology measurement effect
+P01138,NONLINEAR,True,False,4000,0,7,0.00175,0.0008479657344337417,0.00360811950375379,0,Assumption stress; rejection does not prove direct pathology measurement effect
+P01138,OMITTED_TECH,True,False,4000,0,1726,0.4315,0.4162241706395769,0.4469072730911123,0,Assumption stress; rejection does not prove direct pathology measurement effect
+P01034,OMITTED_TECH,True,False,4000,0,2530,0.6325,0.6174385924874545,0.6473071550407746,0,Assumption stress; rejection does not prove direct pathology measurement effect
+P01034,NONLINEAR,True,False,4000,0,8,0.002,0.0010137862685910268,0.003941819247951654,0,Assumption stress; rejection does not prove direct pathology measurement effect
+P01303,NONLINEAR,True,False,4000,0,2,0.0005,0.00013712874495346754,0.0018213551014583176,0,Assumption stress; rejection does not prove direct pathology measurement effect
+P01303,WEAK,True,True,4000,0,0,0.0,5.421010862427522e-20,0.0009594432897014865,0,Weak-signal null check
+P01303,CORR12,True,False,4000,0,19,0.00475,0.003043080585831835,0.007407247992617487,0,Assumption stress; rejection does not prove direct pathology measurement effect
+P01303,OMITTED_TECH,True,False,4000,0,2926,0.7315,0.7175486707239582,0.7450071070329101,0,Assumption stress; rejection does not prove direct pathology measurement effect
+P05362,CORR12,True,False,4000,0,23,0.00575,0.0038346551900529167,0.008613754501817002,0,Assumption stress; rejection does not prove direct pathology measurement effect
+P05362,WEAK,True,True,4000,0,0,0.0,5.421010862427522e-20,0.0009594432897014865,0,Weak-signal null check
+P05362,OMITTED_TECH,True,False,4000,0,2489,0.62225,0.6071148640083283,0.6371505521073396,0,Assumption stress; rejection does not prove direct pathology measurement effect
+P05362,NONLINEAR,True,False,4000,0,8,0.002,0.0010137862685910268,0.003941819247951654,0,Assumption stress; rejection does not prove direct pathology measurement effect
+P07196,WEAK,True,True,4000,0,0,0.0,5.421010862427522e-20,0.0009594432897014865,0,Weak-signal null check
+P07196,CORR12,True,False,4000,0,25,0.00625,0.004237069176935509,0.00921038107164471,0,Assumption stress; rejection does not prove direct pathology measurement effect
+P07196,OMITTED_TECH,True,False,4000,0,2643,0.66075,0.645929752472832,0.675261786509529,0,Assumption stress; rejection does not prove direct pathology measurement effect
+P07196,NONLINEAR,True,False,4000,0,9,0.00225,0.0011842040470210458,0.0042709217478767835,0,Assumption stress; rejection does not prove direct pathology measurement effect
+P08069,WEAK,True,True,4000,0,0,0.0,5.421010862427522e-20,0.0009594432897014865,0,Weak-signal null check
+P08069,OMITTED_TECH,True,False,4000,0,3213,0.80325,0.7906418035782162,0.81527629406658,0,Assumption stress; rejection does not prove direct pathology measurement effect
+P08069,CORR12,True,False,4000,0,19,0.00475,0.003043080585831835,0.007407247992617487,0,Assumption stress; rejection does not prove direct pathology measurement effect
+P08069,NONLINEAR,True,False,4000,0,3,0.00075,0.0002550997283718515,0.002202904396395083,0,Assumption stress; rejection does not prove direct pathology measurement effect
+P08758,WEAK,True,True,4000,0,0,0.0,5.421010862427522e-20,0.0009594432897014865,0,Weak-signal null check
+P08758,CORR12,True,False,4000,0,30,0.0075,0.005258647297021444,0.01068640434333452,0,Assumption stress; rejection does not prove direct pathology measurement effect
+P08758,NONLINEAR,True,False,4000,0,2,0.0005,0.00013712874495346754,0.0018213551014583176,0,Assumption stress; rejection does not prove direct pathology measurement effect
+P08758,OMITTED_TECH,True,False,4000,0,3100,0.775,0.7617988991815065,0.7876734070091579,0,Assumption stress; rejection does not prove direct pathology measurement effect
+P09619,WEAK,True,True,4000,0,0,0.0,5.421010862427522e-20,0.0009594432897014865,0,Weak-signal null check
+P09619,CORR12,True,False,4000,0,24,0.006,0.004035366496863108,0.00891256347336196,0,Assumption stress; rejection does not prove direct pathology measurement effect
+P09619,OMITTED_TECH,True,False,4000,0,2625,0.65625,0.6413875281365805,0.6708126458353877,0,Assumption stress; rejection does not prove direct pathology measurement effect
+P09619,NONLINEAR,True,False,4000,0,7,0.00175,0.0008479657344337417,0.00360811950375379,0,Assumption stress; rejection does not prove direct pathology measurement effect
+P10636,WEAK,True,True,4000,0,0,0.0,5.421010862427522e-20,0.0009594432897014865,0,Weak-signal null check
+P10636,CORR12,True,False,4000,0,20,0.005,0.0032391284674616835,0.007710720389342788,0,Assumption stress; rejection does not prove direct pathology measurement effect
+P12036,WEAK,True,True,4000,0,0,0.0,5.421010862427522e-20,0.0009594432897014865,0,Weak-signal null check
+P10636,OMITTED_TECH,True,False,4000,0,2510,0.6275,0.6124017290457077,0.6423536129154183,0,Assumption stress; rejection does not prove direct pathology measurement effect
+P10636,NONLINEAR,True,False,4000,0,2,0.0005,0.00013712874495346754,0.0018213551014583176,0,Assumption stress; rejection does not prove direct pathology measurement effect
+P12036,CORR12,True,False,4000,0,12,0.003,0.0017169926319577002,0.005236693998005578,0,Assumption stress; rejection does not prove direct pathology measurement effect
+P12036,OMITTED_TECH,True,False,4000,0,1876,0.469,0.4535720688531103,0.48448741663085126,0,Assumption stress; rejection does not prove direct pathology measurement effect
+P12036,NONLINEAR,True,False,4000,0,3,0.00075,0.0002550997283718515,0.002202904396395083,0,Assumption stress; rejection does not prove direct pathology measurement effect
+P13500,CORR12,True,False,4000,0,22,0.0055,0.0036349976110497673,0.008313891802465003,0,Assumption stress; rejection does not prove direct pathology measurement effect
+P13500,WEAK,True,True,4000,0,0,0.0,5.421010862427522e-20,0.0009594432897014865,0,Weak-signal null check
+P13500,OMITTED_TECH,True,False,4000,0,2362,0.5905,0.575181286670659,0.605645054093905,0,Assumption stress; rejection does not prove direct pathology measurement effect
+P13500,NONLINEAR,True,False,4000,0,7,0.00175,0.0008479657344337417,0.00360811950375379,0,Assumption stress; rejection does not prove direct pathology measurement effect
+P15328,OMITTED_TECH,True,False,4000,0,2654,0.6635,0.6487062818932924,0.6779799801509753,0,Assumption stress; rejection does not prove direct pathology measurement effect
+P15328,CORR12,True,False,4000,0,22,0.0055,0.0036349976110497673,0.008313891802465003,0,Assumption stress; rejection does not prove direct pathology measurement effect
+P15328,WEAK,True,True,4000,0,0,0.0,5.421010862427522e-20,0.0009594432897014865,0,Weak-signal null check
+P15328,NONLINEAR,True,False,4000,0,3,0.00075,0.0002550997283718515,0.002202904396395083,0,Assumption stress; rejection does not prove direct pathology measurement effect
+P21246,WEAK,True,True,4000,0,0,0.0,5.421010862427522e-20,0.0009594432897014865,0,Weak-signal null check
+P21246,CORR12,True,False,4000,0,19,0.00475,0.003043080585831835,0.007407247992617487,0,Assumption stress; rejection does not prove direct pathology measurement effect
+P21246,NONLINEAR,True,False,4000,0,9,0.00225,0.0011842040470210458,0.0042709217478767835,0,Assumption stress; rejection does not prove direct pathology measurement effect
+P21246,OMITTED_TECH,True,False,4000,0,2430,0.6075,0.5922712559311394,0.6225224637615749,0,Assumption stress; rejection does not prove direct pathology measurement effect
+P22676,WEAK,True,True,4000,0,0,0.0,5.421010862427522e-20,0.0009594432897014865,0,Weak-signal null check
+P22676,CORR12,True,False,4000,0,18,0.0045,0.0028484168010197756,0.007102391499074396,0,Assumption stress; rejection does not prove direct pathology measurement effect
+P22676,OMITTED_TECH,True,False,4000,0,2527,0.63175,0.6166829533174681,0.6465642333756957,0,Assumption stress; rejection does not prove direct pathology measurement effect
+P22676,NONLINEAR,True,False,4000,0,9,0.00225,0.0011842040470210458,0.0042709217478767835,0,Assumption stress; rejection does not prove direct pathology measurement effect
+P30041,WEAK,True,True,4000,0,0,0.0,5.421010862427522e-20,0.0009594432897014865,0,Weak-signal null check
+P30041,CORR12,True,False,4000,0,27,0.00675,0.00464322819694238,0.009803262608348136,0,Assumption stress; rejection does not prove direct pathology measurement effect
+P30041,OMITTED_TECH,True,False,4000,0,2522,0.6305,0.6154236408481988,0.6453259444531891,0,Assumption stress; rejection does not prove direct pathology measurement effect
+P30041,NONLINEAR,True,False,4000,0,8,0.002,0.0010137862685910268,0.003941819247951654,0,Assumption stress; rejection does not prove direct pathology measurement effect
+P35247,WEAK,True,True,4000,0,0,0.0,5.421010862427522e-20,0.0009594432897014865,0,Weak-signal null check
+P35247,CORR12,True,False,4000,0,24,0.006,0.004035366496863108,0.00891256347336196,0,Assumption stress; rejection does not prove direct pathology measurement effect
+P35247,NONLINEAR,True,False,4000,0,5,0.00125,0.0005340397696758721,0.002923004911801361,0,Assumption stress; rejection does not prove direct pathology measurement effect
+P35247,OMITTED_TECH,True,False,4000,0,2606,0.6515,0.6365945437848136,0.6661147448984067,0,Assumption stress; rejection does not prove direct pathology measurement effect
+P35625,CORR12,True,False,4000,0,21,0.00525,0.0034364629756095666,0.008012906159550056,0,Assumption stress; rejection does not prove direct pathology measurement effect
+P35625,WEAK,True,True,4000,0,0,0.0,5.421010862427522e-20,0.0009594432897014865,0,Weak-signal null check
+P35625,OMITTED_TECH,True,False,4000,0,2381,0.59525,0.5799545160527068,0.6103627100006049,0,Assumption stress; rejection does not prove direct pathology measurement effect
+P35968,WEAK,True,True,4000,0,0,0.0,5.421010862427522e-20,0.0009594432897014865,0,Weak-signal null check
+P35625,NONLINEAR,True,False,4000,0,7,0.00175,0.0008479657344337417,0.00360811950375379,0,Assumption stress; rejection does not prove direct pathology measurement effect
+P35968,CORR12,True,False,4000,0,25,0.00625,0.004237069176935509,0.00921038107164471,0,Assumption stress; rejection does not prove direct pathology measurement effect
+P35968,NONLINEAR,True,False,4000,0,11,0.00275,0.001536278156460908,0.004917888195147221,0,Assumption stress; rejection does not prove direct pathology measurement effect
+P35968,OMITTED_TECH,True,False,4000,0,2443,0.61075,0.595540629339786,0.6257468539715452,0,Assumption stress; rejection does not prove direct pathology measurement effect
+P36222,CORR12,True,False,4000,0,21,0.00525,0.0034364629756095666,0.008012906159550056,0,Assumption stress; rejection does not prove direct pathology measurement effect
+P36222,WEAK,True,True,4000,0,0,0.0,5.421010862427522e-20,0.0009594432897014865,0,Weak-signal null check
+P36222,NONLINEAR,True,False,4000,0,5,0.00125,0.0005340397696758721,0.002923004911801361,0,Assumption stress; rejection does not prove direct pathology measurement effect
+P36222,OMITTED_TECH,True,False,4000,0,2482,0.6205,0.6053529921934112,0.6354157819737708,0,Assumption stress; rejection does not prove direct pathology measurement effect
+P40925,WEAK,True,True,4000,0,0,0.0,5.421010862427522e-20,0.0009594432897014865,0,Weak-signal null check
+P40925,CORR12,True,False,4000,0,14,0.0035,0.002086067159781169,0.0058666600268924085,0,Assumption stress; rejection does not prove direct pathology measurement effect
+P40925,NONLINEAR,True,False,4000,0,7,0.00175,0.0008479657344337417,0.00360811950375379,0,Assumption stress; rejection does not prove direct pathology measurement effect
+P40925,OMITTED_TECH,True,False,4000,0,2451,0.61275,0.5975529016031074,0.627730743935065,0,Assumption stress; rejection does not prove direct pathology measurement effect
+P47972,WEAK,True,True,4000,0,0,0.0,5.421010862427522e-20,0.0009594432897014865,0,Weak-signal null check
+P47972,CORR12,True,False,4000,0,21,0.00525,0.0034364629756095666,0.008012906159550056,0,Assumption stress; rejection does not prove direct pathology measurement effect
+P47972,OMITTED_TECH,True,False,4000,0,2446,0.6115,0.5962952001155846,0.6264908440308121,0,Assumption stress; rejection does not prove direct pathology measurement effect
+P47972,NONLINEAR,True,False,4000,0,5,0.00125,0.0005340397696758721,0.002923004911801361,0,Assumption stress; rejection does not prove direct pathology measurement effect
+P78423,WEAK,True,True,4000,0,0,0.0,5.421010862427522e-20,0.0009594432897014865,0,Weak-signal null check
+P78423,CORR12,True,False,4000,0,32,0.008,0.005672587317587903,0.01127150487947836,0,Assumption stress; rejection does not prove direct pathology measurement effect
+P78423,OMITTED_TECH,True,False,4000,0,2654,0.6635,0.6487062818932924,0.6779799801509753,0,Assumption stress; rejection does not prove direct pathology measurement effect
+P78423,NONLINEAR,True,False,4000,0,6,0.0015,0.0006876391063442419,0.003268925853488141,0,Assumption stress; rejection does not prove direct pathology measurement effect
+Q02246,NONLINEAR,True,False,4000,0,3,0.00075,0.0002550997283718515,0.002202904396395083,0,Assumption stress; rejection does not prove direct pathology measurement effect
+Q02246,CORR12,True,False,4000,0,29,0.00725,0.00505273936997787,0.010392791992022947,0,Assumption stress; rejection does not prove direct pathology measurement effect
+Q02246,OMITTED_TECH,True,False,4000,0,2307,0.57675,0.5613722918896606,0.5919804335653702,0,Assumption stress; rejection does not prove direct pathology measurement effect
+Q02246,WEAK,True,True,4000,0,0,0.0,5.421010862427522e-20,0.0009594432897014865,0,Weak-signal null check
+Q13231,CORR12,True,False,4000,0,14,0.0035,0.002086067159781169,0.0058666600268924085,0,Assumption stress; rejection does not prove direct pathology measurement effect
+Q13231,WEAK,True,True,4000,0,0,0.0,5.421010862427522e-20,0.0009594432897014865,0,Weak-signal null check
+Q13231,NONLINEAR,True,False,4000,0,4,0.001,0.00038894703739082324,0.0025685773657312607,0,Assumption stress; rejection does not prove direct pathology measurement effect
+Q13231,OMITTED_TECH,True,False,4000,0,3193,0.79825,0.785530130278832,0.810397561798861,0,Assumption stress; rejection does not prove direct pathology measurement effect
+Q13421,CORR12,True,False,4000,0,15,0.00375,0.002273916270746389,0.006178331194282336,0,Assumption stress; rejection does not prove direct pathology measurement effect
+Q13421,WEAK,True,True,4000,0,0,0.0,5.421010862427522e-20,0.0009594432897014865,0,Weak-signal null check
+Q13421,OMITTED_TECH,True,False,4000,0,2560,0.64,0.6249971280315599,0.6547342278473237,0,Assumption stress; rejection does not prove direct pathology measurement effect
+Q13421,NONLINEAR,True,False,4000,0,4,0.001,0.00038894703739082324,0.0025685773657312607,0,Assumption stress; rejection does not prove direct pathology measurement effect
+Q15818,WEAK,True,True,4000,0,0,0.0,5.421010862427522e-20,0.0009594432897014865,0,Weak-signal null check
+Q15818,CORR12,True,False,4000,0,20,0.005,0.0032391284674616835,0.007710720389342788,0,Assumption stress; rejection does not prove direct pathology measurement effect
+Q15818,OMITTED_TECH,True,False,4000,0,2444,0.611,0.595792148758752,0.6259948548309343,0,Assumption stress; rejection does not prove direct pathology measurement effect
+Q15818,NONLINEAR,True,False,4000,0,3,0.00075,0.0002550997283718515,0.002202904396395083,0,Assumption stress; rejection does not prove direct pathology measurement effect
+Q16270,CORR12,True,False,4000,0,17,0.00425,0.002655247608755385,0.006796040412983639,0,Assumption stress; rejection does not prove direct pathology measurement effect
+Q16270,WEAK,True,True,4000,0,0,0.0,5.421010862427522e-20,0.0009594432897014865,0,Weak-signal null check
+Q16270,NONLINEAR,True,False,4000,0,8,0.002,0.0010137862685910268,0.003941819247951654,0,Assumption stress; rejection does not prove direct pathology measurement effect
+Q16270,OMITTED_TECH,True,False,4000,0,2527,0.63175,0.6166829533174681,0.6465642333756957,0,Assumption stress; rejection does not prove direct pathology measurement effect
+Q7Z5A7,CORR12,True,False,4000,0,25,0.00625,0.004237069176935509,0.00921038107164471,0,Assumption stress; rejection does not prove direct pathology measurement effect
+Q7Z5A7,WEAK,True,True,4000,0,0,0.0,5.421010862427522e-20,0.0009594432897014865,0,Weak-signal null check
+Q7Z5A7,OMITTED_TECH,True,False,4000,0,2523,0.63075,0.6156754947358134,0.6455736108439298,0,Assumption stress; rejection does not prove direct pathology measurement effect
+Q7Z5A7,NONLINEAR,True,False,4000,0,8,0.002,0.0010137862685910268,0.003941819247951654,0,Assumption stress; rejection does not prove direct pathology measurement effect
+Q92686,WEAK,True,True,4000,0,0,0.0,5.421010862427522e-20,0.0009594432897014865,0,Weak-signal null check
+Q92686,CORR12,True,False,4000,0,18,0.0045,0.0028484168010197756,0.007102391499074396,0,Assumption stress; rejection does not prove direct pathology measurement effect
+Q92686,OMITTED_TECH,True,False,4000,0,2326,0.5815,0.5661412924670743,0.5967023182767044,0,Assumption stress; rejection does not prove direct pathology measurement effect
+Q92686,NONLINEAR,True,False,4000,0,5,0.00125,0.0005340397696758721,0.002923004911801361,0,Assumption stress; rejection does not prove direct pathology measurement effect
+Q92876,WEAK,True,True,4000,0,0,0.0,5.421010862427522e-20,0.0009594432897014865,0,Weak-signal null check
+Q92876,CORR12,True,False,4000,0,20,0.005,0.0032391284674616835,0.007710720389342788,0,Assumption stress; rejection does not prove direct pathology measurement effect
+Q92876,NONLINEAR,True,False,4000,0,9,0.00225,0.0011842040470210458,0.0042709217478767835,0,Assumption stress; rejection does not prove direct pathology measurement effect
+Q92876,OMITTED_TECH,True,False,4000,0,2412,0.603,0.5877455891149378,0.6180567655673838,0,Assumption stress; rejection does not prove direct pathology measurement effect
+Q99988,CORR12,True,False,4000,0,22,0.0055,0.0036349976110497673,0.008313891802465003,0,Assumption stress; rejection does not prove direct pathology measurement effect
+Q99988,WEAK,True,True,4000,0,0,0.0,5.421010862427522e-20,0.0009594432897014865,0,Weak-signal null check
+Q99988,NONLINEAR,True,False,4000,0,5,0.00125,0.0005340397696758721,0.002923004911801361,0,Assumption stress; rejection does not prove direct pathology measurement effect
+Q99988,OMITTED_TECH,True,False,4000,0,1758,0.4395,0.42418428980022543,0.4549318028378286,0,Assumption stress; rejection does not prove direct pathology measurement effect

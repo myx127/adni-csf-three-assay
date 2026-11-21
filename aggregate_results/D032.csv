@@ -1,0 +1,85 @@
+﻿gene,analysis,test,n,p_computed,p_used,q,qualified
+AGRN,Memory: no p-tau181 adjustment,Assay differences,545.0,0.7669727365152103,0.7669727365152103,1.0,Yes
+AGRN,Memory: no p-tau181 adjustment,Shared direction,545.0,0.38918822532908515,0.38918822532908515,1.0,Yes
+CALB2,Memory: no p-tau181 adjustment,Assay differences,546.0,0.39311895809559744,0.39311895809559744,1.0,Yes
+CALB2,Memory: no p-tau181 adjustment,Shared direction,546.0,1.0,1.0,1.0,Yes
+CNTN2,Memory: no p-tau181 adjustment,Assay differences,554.0,0.22182519401965556,0.22182519401965556,1.0,Yes
+CNTN2,Memory: no p-tau181 adjustment,Shared direction,554.0,1.0,1.0,1.0,Yes
+CX3CL1,Memory: no p-tau181 adjustment,Assay differences,519.0,0.6415383555709256,0.6415383555709256,1.0,Yes
+CX3CL1,Memory: no p-tau181 adjustment,Shared direction,519.0,1.0,1.0,1.0,Yes
+KLK6,Memory: no p-tau181 adjustment,Assay differences,540.0,0.9832721460779232,0.9832721460779232,1.0,Yes
+KLK6,Memory: no p-tau181 adjustment,Shared direction,540.0,0.8536099365885276,0.8536099365885276,1.0,Yes
+MDH1,Memory: no p-tau181 adjustment,Assay differences,552.0,0.302199447975901,0.302199447975901,1.0,Yes
+MDH1,Memory: no p-tau181 adjustment,Shared direction,552.0,0.7786654941429667,0.7786654941429667,1.0,Yes
+NEFL,Memory: no p-tau181 adjustment,Assay differences,552.0,0.6376212971529199,0.6376212971529199,1.0,Yes
+NEFL,Memory: no p-tau181 adjustment,Shared direction,552.0,0.12594796970044145,0.12594796970044145,1.0,Yes
+NPTX1,Memory: no p-tau181 adjustment,Assay differences,552.0,0.9419618688812746,0.9419618688812746,1.0,Yes
+NPTX1,Memory: no p-tau181 adjustment,Shared direction,552.0,0.6326903168783671,0.6326903168783671,1.0,Yes
+NPTX2,Memory: no p-tau181 adjustment,Assay differences,553.0,0.2378799894299713,0.2378799894299713,1.0,Yes
+NPTX2,Memory: no p-tau181 adjustment,Shared direction,553.0,0.21110488804319838,0.21110488804319838,1.0,Yes
+NRGN,Memory: no p-tau181 adjustment,Assay differences,550.0,0.7009684009787833,0.7009684009787833,1.0,Yes
+NRGN,Memory: no p-tau181 adjustment,Shared direction,550.0,0.4037315836422706,0.4037315836422706,1.0,Yes
+PGK1,Memory: no p-tau181 adjustment,Assay differences,552.0,0.22957199287939226,0.22957199287939226,1.0,Yes
+PGK1,Memory: no p-tau181 adjustment,Shared direction,552.0,0.7661821141464616,0.7661821141464616,1.0,Yes
+SLIT2,Memory: no p-tau181 adjustment,Assay differences,499.0,0.9521463699569244,0.9521463699569244,1.0,Yes
+SLIT2,Memory: no p-tau181 adjustment,Shared direction,499.0,1.0,1.0,1.0,Yes
+TAFA5,Memory: no p-tau181 adjustment,Assay differences,557.0,0.1483076568957991,0.1483076568957991,1.0,Yes
+TAFA5,Memory: no p-tau181 adjustment,Shared direction,557.0,0.7623672380183417,0.7623672380183417,1.0,Yes
+TIMP3,Memory: no p-tau181 adjustment,Assay differences,552.0,0.24645571204738034,0.24645571204738034,1.0,Yes
+TIMP3,Memory: no p-tau181 adjustment,Shared direction,552.0,1.0,1.0,1.0,Yes
+AGRN,Memory: higher-information follow-up,Assay differences,401.0,0.822234195257828,0.822234195257828,1.0,Yes
+AGRN,Memory: higher-information follow-up,Shared direction,401.0,0.009950267672791396,0.009950267672791396,0.18235654749456506,Yes
+CALB2,Memory: higher-information follow-up,Assay differences,403.0,0.1531937037480047,0.1531937037480047,1.0,Yes
+CALB2,Memory: higher-information follow-up,Shared direction,403.0,0.82974876012651,0.82974876012651,1.0,Yes
+CNTN2,Memory: higher-information follow-up,Assay differences,407.0,0.10524494538156418,0.10524494538156418,0.9644014368335109,Yes
+CNTN2,Memory: higher-information follow-up,Shared direction,407.0,0.5839038731405903,0.5839038731405903,1.0,Yes
+CX3CL1,Memory: higher-information follow-up,Assay differences,383.0,0.20386304796952404,0.20386304796952404,1.0,Yes
+CX3CL1,Memory: higher-information follow-up,Shared direction,383.0,0.2699624761899171,0.2699624761899171,1.0,Yes
+KLK6,Memory: higher-information follow-up,Assay differences,399.0,0.5692751336055187,0.5692751336055187,1.0,Yes
+KLK6,Memory: higher-information follow-up,Shared direction,399.0,0.1003150439796278,0.1003150439796278,0.9644014368335109,Yes
+MDH1,Memory: higher-information follow-up,Assay differences,407.0,0.008474748325349172,0.008474748325349172,0.18235654749456506,Yes
+MDH1,Memory: higher-information follow-up,Shared direction,407.0,0.6327845264239522,0.6327845264239522,1.0,Yes
+NEFL,Memory: higher-information follow-up,Assay differences,405.0,0.4268578559728735,0.4268578559728735,1.0,Yes
+NEFL,Memory: higher-information follow-up,Shared direction,405.0,0.9707926543889885,0.9707926543889885,1.0,Yes
+NPTX1,Memory: higher-information follow-up,Assay differences,406.0,0.9872114211579961,0.9872114211579961,1.0,Yes
+NPTX1,Memory: higher-information follow-up,Shared direction,406.0,0.03780278489545746,0.03780278489545746,0.5196030071180052,Yes
+NPTX2,Memory: higher-information follow-up,Assay differences,408.0,5.8153510148554636e-05,5.8153510148554636e-05,0.003197302932174968,Yes
+NPTX2,Memory: higher-information follow-up,Shared direction,408.0,0.007289759219365531,0.007289759219365531,0.18235654749456506,Yes
+NRGN,Memory: higher-information follow-up,Assay differences,405.0,0.0374095871129999,0.0374095871129999,0.5196030071180052,Yes
+NRGN,Memory: higher-information follow-up,Shared direction,405.0,0.8224597446381037,0.8224597446381037,1.0,Yes
+PGK1,Memory: higher-information follow-up,Assay differences,407.0,0.2593048044450786,0.2593048044450786,1.0,Yes
+PGK1,Memory: higher-information follow-up,Shared direction,407.0,1.0,1.0,1.0,Yes
+SLIT2,Memory: higher-information follow-up,Assay differences,366.0,0.06050076754911781,0.06050076754911781,0.7391902378128542,Yes
+SLIT2,Memory: higher-information follow-up,Shared direction,366.0,0.5595714059391244,0.5595714059391244,1.0,Yes
+TAFA5,Memory: higher-information follow-up,Assay differences,410.0,1.7116324031666675e-05,1.7116324031666675e-05,0.0018821244968603122,Yes
+TAFA5,Memory: higher-information follow-up,Shared direction,410.0,0.09217546846405711,0.09217546846405711,0.9644014368335109,Yes
+TIMP3,Memory: higher-information follow-up,Assay differences,405.0,0.000944910614685597,0.000944910614685597,0.0346343722704484,Yes
+TIMP3,Memory: higher-information follow-up,Shared direction,405.0,0.838110028313251,0.838110028313251,1.0,Yes
+AGRN,Memory: equal participant weighting,Assay differences,545.0,0.7654899657736968,0.7654899657736968,1.0,Yes
+AGRN,Memory: equal participant weighting,Shared direction,545.0,0.005433898969139363,0.005433898969139363,0.13189913407555623,Yes
+CALB2,Memory: equal participant weighting,Assay differences,546.0,0.054812792441663725,0.054812792441663725,0.6260035582604732,Yes
+CALB2,Memory: equal participant weighting,Shared direction,546.0,1.0,1.0,1.0,Yes
+CNTN2,Memory: equal participant weighting,Assay differences,554.0,0.18578200461743044,0.18578200461743044,1.0,Yes
+CNTN2,Memory: equal participant weighting,Shared direction,554.0,0.5192590285483865,0.5192590285483865,1.0,Yes
+CX3CL1,Memory: equal participant weighting,Assay differences,519.0,0.05317507499057513,0.05317507499057513,0.6260035582604732,Yes
+CX3CL1,Memory: equal participant weighting,Shared direction,519.0,0.28078212201621144,0.28078212201621144,1.0,Yes
+KLK6,Memory: equal participant weighting,Assay differences,540.0,0.7773945148923859,0.7773945148923859,1.0,Yes
+KLK6,Memory: equal participant weighting,Shared direction,540.0,0.25379681513023344,0.25379681513023344,1.0,Yes
+MDH1,Memory: equal participant weighting,Assay differences,552.0,0.049545834289381786,0.049545834289381786,0.6260035582604732,Yes
+MDH1,Memory: equal participant weighting,Shared direction,552.0,1.0,1.0,1.0,Yes
+NEFL,Memory: equal participant weighting,Assay differences,552.0,0.7222470620885826,0.7222470620885826,1.0,Yes
+NEFL,Memory: equal participant weighting,Shared direction,552.0,0.1683700402473408,0.1683700402473408,1.0,Yes
+NPTX1,Memory: equal participant weighting,Assay differences,552.0,0.9951864440503218,0.9951864440503218,1.0,Yes
+NPTX1,Memory: equal participant weighting,Shared direction,552.0,0.10977871409302949,0.10977871409302949,1.0,Yes
+NPTX2,Memory: equal participant weighting,Assay differences,553.0,1.81554435113218e-05,1.81554435113218e-05,0.0019963868948030795,Yes
+NPTX2,Memory: equal participant weighting,Shared direction,553.0,0.005997553089871463,0.005997553089871463,0.13189913407555623,Yes
+NRGN,Memory: equal participant weighting,Assay differences,550.0,0.002257929097974319,0.002257929097974319,0.08276122177497254,Yes
+NRGN,Memory: equal participant weighting,Shared direction,550.0,0.8910528540959904,0.8910528540959904,1.0,Yes
+PGK1,Memory: equal participant weighting,Assay differences,552.0,0.18360906165933596,0.18360906165933596,1.0,Yes
+PGK1,Memory: equal participant weighting,Shared direction,552.0,1.0,1.0,1.0,Yes
+SLIT2,Memory: equal participant weighting,Assay differences,499.0,0.05692970771081689,0.05692970771081689,0.6260035582604732,Yes
+SLIT2,Memory: equal participant weighting,Shared direction,499.0,0.4546710058752411,0.4546710058752411,1.0,Yes
+TAFA5,Memory: equal participant weighting,Assay differences,557.0,0.001337424011466222,0.001337424011466222,0.0735320998250772,Yes
+TAFA5,Memory: equal participant weighting,Shared direction,557.0,0.08213586321674982,0.08213586321674982,0.8210658483626401,Yes
+TIMP3,Memory: equal participant weighting,Assay differences,552.0,0.02439839090474795,0.02439839090474795,0.4471443860730308,Yes
+TIMP3,Memory: equal participant weighting,Shared direction,552.0,1.0,1.0,1.0,Yes

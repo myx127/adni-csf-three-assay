@@ -1,0 +1,71 @@
+﻿gene,accession,single,n,df,det_index,det_analysis,nclusters,sclusters,tclusters,eligible,reason,membership
+ACHE,P22303,No,437.0,313.0,1.0,1.0,19.0,36.0,65.0,No,Multiple features or composite annotation,Not in formal family
+AGRN,O00468,Yes,548.0,424.0,1.0,1.0,19.0,36.0,65.0,Yes,Eligible,Formal 34-protein family
+ANXA5,P08758,Yes,518.0,394.0,1.0,1.0,19.0,36.0,65.0,Yes,Eligible,Formal 34-protein family
+ARSA,P15289,No,549.0,425.0,0.4991243432574431,0.5009107468123861,19.0,36.0,65.0,No,Multiple features or composite annotation; NULISA detection <80%,Not in formal family
+BASP1,P80723,Yes,554.0,430.0,0.050788091068301226,0.052346570397111915,19.0,36.0,65.0,No,NULISA detection <80%,Not in formal family
+BDNF,P23560,No,527.0,403.0,0.43257443082311736,0.42125237191650855,19.0,36.0,65.0,No,Multiple features or composite annotation; NULISA detection <80%,Not in formal family
+CALB2,P22676,Yes,549.0,425.0,1.0,1.0,19.0,36.0,65.0,Yes,Eligible,Formal 34-protein family
+CCL2,P13500,Yes,421.0,313.0,1.0,1.0,19.0,36.0,49.0,Yes,Eligible,Formal 34-protein family
+CHI3L1,P36222,Yes,560.0,436.0,1.0,1.0,19.0,36.0,65.0,Yes,Eligible,Formal 34-protein family
+CHIT1,Q13231,Yes,530.0,406.0,0.9807355516637478,0.9943396226415094,19.0,36.0,65.0,Yes,Eligible,Formal 34-protein family
+CNTN2,Q02246,Yes,557.0,433.0,1.0,1.0,19.0,36.0,65.0,Yes,Eligible,Formal 34-protein family
+CRH,P06850,No,321.0,223.0,0.87215411558669,0.8598130841121495,19.0,36.0,39.0,No,Multiple features or composite annotation,Not in formal family
+CST3,P01034,Yes,557.0,433.0,1.0,1.0,19.0,36.0,65.0,Yes,Eligible,Formal 34-protein family
+CX3CL1,P78423,Yes,522.0,398.0,1.0,1.0,19.0,36.0,65.0,Yes,Eligible,Formal 34-protein family
+ENO2,P09104,No,555.0,431.0,1.0,1.0,19.0,36.0,65.0,No,Multiple features or composite annotation,Not in formal family
+FABP3,P05413,No,538.0,414.0,1.0,1.0,19.0,36.0,65.0,No,Multiple features or composite annotation,Not in formal family
+FCN2,Q15485,No,535.0,411.0,0.7985989492119089,0.7962616822429907,19.0,36.0,65.0,No,Multiple features or composite annotation; NULISA detection <80%,Not in formal family
+FLT1,P17948,No,104.0,34.0,1.0,1.0,19.0,35.0,12.0,No,Multiple features or composite annotation; Fewer than 200 complete cases; Residual df <100,Not in formal family
+FOLR1,P15328,Yes,555.0,431.0,1.0,1.0,19.0,36.0,65.0,Yes,Eligible,Formal 34-protein family
+GDF15,Q99988,Yes,466.0,352.0,0.9614711033274956,0.9570815450643777,19.0,36.0,55.0,Yes,Eligible,Formal 34-protein family
+GDI1,P31150,No,544.0,420.0,0.9947460595446584,0.9944852941176471,19.0,36.0,65.0,No,Multiple features or composite annotation,Not in formal family
+GFAP,P14136,No,553.0,429.0,1.0,1.0,19.0,36.0,65.0,No,Multiple features or composite annotation,Not in formal family
+HBA1,P69905,No,546.0,422.0,0.7373029772329247,0.7289377289377289,19.0,36.0,65.0,No,Multiple features or composite annotation; NULISA detection <80%,Not in formal family
+ICAM1,P05362,Yes,556.0,432.0,1.0,1.0,19.0,36.0,65.0,Yes,Eligible,Formal 34-protein family
+IGF1R,P08069,Yes,426.0,317.0,1.0,1.0,19.0,36.0,50.0,Yes,Eligible,Formal 34-protein family
+IGFBP7,Q16270,Yes,543.0,419.0,1.0,1.0,19.0,36.0,65.0,Yes,Eligible,Formal 34-protein family
+IL6R,P08887,No,553.0,429.0,0.9719789842381786,0.9710669077757685,19.0,36.0,65.0,No,Multiple features or composite annotation,Not in formal family
+KDR,P35968,Yes,535.0,413.0,0.9842381786339754,0.983177570093458,19.0,36.0,63.0,Yes,Eligible,Formal 34-protein family
+KLK6,Q92876,Yes,542.0,418.0,1.0,1.0,19.0,36.0,65.0,Yes,Eligible,Formal 34-protein family
+MAPT,P10636,Yes,555.0,431.0,1.0,1.0,19.0,36.0,65.0,Yes,Eligible,MAPT reference
+MDH1,P40925,Yes,555.0,431.0,1.0,1.0,19.0,36.0,65.0,Yes,Eligible,Formal 34-protein family
+MME,P08473,Yes,60.0,3.0,0.18388791593695272,0.3333333333333333,16.0,31.0,7.0,No,Fewer than 200 complete cases; Residual df <100; Fewer than 10 clusters on at least one axis; NULISA detection <80%,Not in formal family
+MSLN,Q13421,Yes,549.0,425.0,1.0,1.0,19.0,36.0,65.0,Yes,Eligible,Formal 34-protein family
+NEFH,P12036,Yes,409.0,301.0,1.0,1.0,19.0,36.0,49.0,Yes,Eligible,Formal 34-protein family
+NEFL,P07196,Yes,554.0,430.0,1.0,1.0,19.0,36.0,65.0,Yes,Eligible,Formal 34-protein family
+NGF,P01138,Yes,343.0,243.0,0.9299474605954466,0.9125364431486881,19.0,36.0,41.0,Yes,Eligible,Formal 34-protein family
+NPTX1,Q15818,Yes,554.0,430.0,1.0,1.0,19.0,36.0,65.0,Yes,Eligible,Formal 34-protein family
+NPTX2,P47972,Yes,556.0,432.0,1.0,1.0,19.0,36.0,65.0,Yes,Eligible,Formal 34-protein family
+NPTXR,O95502,No,552.0,428.0,1.0,1.0,19.0,36.0,65.0,No,Multiple features or composite annotation,Not in formal family
+NPY,P01303,Yes,548.0,424.0,1.0,1.0,19.0,36.0,65.0,Yes,Eligible,Formal 34-protein family
+NRGN,Q92686,Yes,553.0,430.0,0.8441330998248686,0.8499095840867993,19.0,36.0,64.0,Yes,Eligible,Formal 34-protein family
+PARK7,Q99497,No,541.0,417.0,0.28021015761821366,0.2846580406654344,19.0,36.0,65.0,No,Multiple features or composite annotation; NULISA detection <80%,Not in formal family
+PDGFRB,P09619,Yes,555.0,431.0,1.0,1.0,19.0,36.0,65.0,Yes,Eligible,Formal 34-protein family
+PDLIM5,Q96HC4,Yes,253.0,166.0,0.7583187390542907,0.7628458498023716,19.0,36.0,28.0,No,NULISA detection <80%,Not in formal family
+PGK1,P00558,Yes,555.0,431.0,0.9527145359019265,0.9585585585585585,19.0,36.0,65.0,Yes,Eligible,Formal 34-protein family
+POSTN,Q15063,No,558.0,434.0,0.9299474605954466,0.931899641577061,19.0,36.0,65.0,No,Multiple features or composite annotation,Not in formal family
+PRDX6,P30041,Yes,532.0,408.0,0.9982486865148862,0.9981203007518797,19.0,36.0,65.0,Yes,Eligible,Formal 34-protein family
+PTN,P21246,Yes,557.0,433.0,0.9982486865148862,0.9982046678635548,19.0,36.0,65.0,Yes,Eligible,Formal 34-protein family
+S100A12,P80511,Yes,51.0,,0.38353765323992994,0.39215686274509803,,,,No,Fewer than 200 complete cases; Residual df <100; NULISA detection <80%,Not in formal family
+SAA1,P0DJI8,No,520.0,396.0,0.4133099824868651,0.40384615384615385,19.0,36.0,65.0,No,Multiple features or composite annotation; NULISA detection <80%,Not in formal family
+SFRP1,Q8N474,No,556.0,432.0,0.9859894921190894,0.987410071942446,19.0,36.0,65.0,No,Multiple features or composite annotation,Not in formal family
+SFTPD,P35247,Yes,535.0,414.0,0.9877408056042032,0.9887850467289719,19.0,36.0,62.0,Yes,Eligible,Formal 34-protein family
+SLIT2,O94813,Yes,502.0,384.0,1.0,1.0,19.0,36.0,59.0,Yes,Eligible,Formal 34-protein family
+SMOC1,Q9H4F8,No,558.0,434.0,1.0,1.0,19.0,36.0,65.0,No,Multiple features or composite annotation,Not in formal family
+SNAP25,P60880,Yes,503.0,384.0,0.7828371278458844,0.7872763419483101,19.0,36.0,60.0,No,NULISA detection <80%,Not in formal family
+SNCA,P37840,No,308.0,210.0,0.9947460595446584,1.0,19.0,36.0,39.0,No,Multiple features or composite annotation,Not in formal family
+SOD1,P00441,Yes,538.0,414.0,1.0,1.0,19.0,36.0,65.0,Yes,Eligible,Formal 34-protein family
+SQSTM1,Q13501,No,533.0,409.0,1.0,1.0,19.0,36.0,65.0,No,Multiple features or composite annotation,Not in formal family
+TAFA5,Q7Z5A7,Yes,560.0,436.0,1.0,1.0,19.0,36.0,65.0,Yes,Eligible,Formal 34-protein family
+TEK,Q02763,Yes,91.0,26.0,1.0,1.0,19.0,34.0,11.0,No,Fewer than 200 complete cases; Residual df <100,Not in formal family
+TIMP3,P35625,Yes,555.0,431.0,0.9982486865148862,0.9981981981981982,19.0,36.0,65.0,Yes,Eligible,Formal 34-protein family
+TREM2,Q9NZC2,No,553.0,429.0,1.0,1.0,19.0,36.0,65.0,No,Multiple features or composite annotation,Not in formal family
+UBB,P0CG47,No,504.0,380.0,0.08056042031523643,0.08333333333333333,19.0,36.0,65.0,No,Multiple features or composite annotation; NULISA detection <80%,Not in formal family
+UCHL1,P09936,Yes,560.0,436.0,0.6304728546409807,0.6339285714285714,19.0,36.0,65.0,No,NULISA detection <80%,Not in formal family
+VCAM1,P19320,No,554.0,430.0,1.0,1.0,19.0,36.0,65.0,No,Multiple features or composite annotation,Not in formal family
+VEGFA,P15692,No,487.0,369.0,1.0,1.0,19.0,36.0,59.0,No,Multiple features or composite annotation,Not in formal family
+VEGFD,O43915,No,533.0,410.0,0.957968476357268,0.9568480300187617,19.0,36.0,64.0,No,Multiple features or composite annotation,Not in formal family
+VSNL1,P62760,No,556.0,432.0,1.0,1.0,19.0,36.0,65.0,No,Multiple features or composite annotation,Not in formal family
+YWHAG,P61981,No,558.0,434.0,0.5954465849387041,0.6021505376344086,19.0,36.0,65.0,No,Multiple features or composite annotation; NULISA detection <80%,Not in formal family
+YWHAZ,P63104,Yes,560.0,436.0,0.0070052539404553416,0.005357142857142857,19.0,36.0,65.0,No,NULISA detection <80%,Not in formal family

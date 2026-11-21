@@ -1,0 +1,17 @@
+**Supplementary Figure S14. Sensitivity of candidate memory associations to individual technical batches.**
+
+Columns show NPTX2, TAFA5 and TIMP3, selected using the preceding memory-trajectory analysis. Panel headings give full-sample participant counts: 553, 557 and 552, respectively. The analyses used eligible ADNI-MEM assessments within five years after CSF collection; baseline could precede collection by up to 90 days.
+
+Each colored point represents a pair of model estimates after omitting all participants assigned to one technical batch. Deletion removed those participants from all three assay models, irrespective of which assay defined the batch. Within each deletion, the models with and without linear log₂ p-tau181 used identical remaining participants, cognitive observations and original within-person time-information weights. The fixed assay-specific protein residual standard deviations (SDs) were retained after every deletion. Both models excluded background scores.
+
+Circles, squares and diamonds identify omission of a NULISA plate, SomaScan plate or TMT-MS plex, respectively. Colors identify the assay defining the omitted batch. Each candidate had 19 NULISA plates, 36 SomaScan plates and 65 TMT-MS plexes omitted individually: 120 deletions per candidate and 360 in total. Legend counts are numbers of batches per candidate. Retained participant counts ranged from 502 to 550 for NPTX2, 505 to 554 for TAFA5, and 500 to 549 for TIMP3.
+
+(A–C) Coordinates are the SomaScan minus NULISA contrast in standardized protein–memory associations. (D–F) Coordinates are the TMT-MS minus NULISA contrast. The horizontal axis gives the contrast without p-tau181; the vertical axis gives the contrast after linear log₂ p-tau181 adjustment. Both axes use annual ADNI-MEM score change per original protein residual SD. Stars mark the corresponding full-sample estimates. Displacement from a star shows how the estimates change when a batch is omitted. The diagonal denotes an unchanged contrast after adjustment. Points above or below it indicate an increase or decrease in the signed contrast; Axes have equal scales within each panel, with common limits across candidates within each row. The two rows use different ranges.
+
+All models retained participant-specific fixed intercepts and time interactions with age, sex, education, APOE ε4 carrier status, the remaining NULISA plates, SomaScan plates and TMT plexes, and ADNI Elecsys data release. The adjusted model additionally included the linear log₂ p-tau181 term interacted with time. Each deletion pair contributes one point to each contrast row, giving 720 displayed points. Overlapping point estimates are displayed at their actual coordinates.
+
+Across the batch-omission analyses, p-tau181 adjustment consistently increased the signed SomaScan minus NULISA contrast and decreased the signed TMT-MS minus NULISA contrast. These analyses summarize point estimates after removing individual batches; the full-sample paired inference is provided in Supplementary Table S15.
+
+Full-sample estimates and paired-change inference are presented in Supplementary Figs. S11–S12 and Tables S14–S15. Complete deletion estimates are provided in the accompanying figure data. Methods are described in Supplementary Methods Section 7.4 and Appendix D.
+
+Abbreviations: ADNI-MEM, Alzheimer’s Disease Neuroimaging Initiative memory composite; APOE, apolipoprotein E gene; CSF, cerebrospinal fluid; SD, standard deviation; TMT-MS, tandem mass tag mass spectrometry.

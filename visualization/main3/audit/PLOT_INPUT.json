@@ -1,0 +1,689 @@
+{
+  "date": "2026-11-01",
+  "figure": 3,
+  "assays": [
+    "NULISA",
+    "SomaScan",
+    "TMT-MS"
+  ],
+  "genes": [
+    "NPTX2",
+    "TAFA5",
+    "TIMP3"
+  ],
+  "shared_p_tau_proteins": [
+    "AGRN",
+    "CALB2",
+    "CNTN2",
+    "CX3CL1",
+    "KLK6",
+    "MDH1",
+    "NEFL",
+    "NPTX1",
+    "NPTX2",
+    "NRGN",
+    "PGK1",
+    "SLIT2",
+    "TAFA5",
+    "TIMP3"
+  ],
+  "memory_evidence": [
+    {
+      "Protein": "AGRN",
+      "Participants": 545,
+      "Shared p-tau181": true,
+      "Qualified": true,
+      "Shared memory q": 0.2570606038104264,
+      "Assay difference q": 1.0,
+      "Shared evidence": 0.5899644766778198,
+      "Difference evidence": -0.0,
+      "Primary family": 68
+    },
+    {
+      "Protein": "ANXA5",
+      "Participants": 515,
+      "Shared p-tau181": false,
+      "Qualified": true,
+      "Shared memory q": 1.0,
+      "Assay difference q": 1.0,
+      "Shared evidence": -0.0,
+      "Difference evidence": -0.0,
+      "Primary family": 68
+    },
+    {
+      "Protein": "CALB2",
+      "Participants": 546,
+      "Shared p-tau181": true,
+      "Qualified": true,
+      "Shared memory q": 1.0,
+      "Assay difference q": 1.0,
+      "Shared evidence": -0.0,
+      "Difference evidence": -0.0,
+      "Primary family": 68
+    },
+    {
+      "Protein": "CCL2",
+      "Participants": 419,
+      "Shared p-tau181": false,
+      "Qualified": true,
+      "Shared memory q": 1.0,
+      "Assay difference q": 1.0,
+      "Shared evidence": -0.0,
+      "Difference evidence": -0.0,
+      "Primary family": 68
+    },
+    {
+      "Protein": "CHI3L1",
+      "Participants": 557,
+      "Shared p-tau181": false,
+      "Qualified": true,
+      "Shared memory q": 1.0,
+      "Assay difference q": 1.0,
+      "Shared evidence": -0.0,
+      "Difference evidence": -0.0,
+      "Primary family": 68
+    },
+    {
+      "Protein": "CHIT1",
+      "Participants": 527,
+      "Shared p-tau181": false,
+      "Qualified": true,
+      "Shared memory q": 1.0,
+      "Assay difference q": 1.0,
+      "Shared evidence": -0.0,
+      "Difference evidence": -0.0,
+      "Primary family": 68
+    },
+    {
+      "Protein": "CNTN2",
+      "Participants": 554,
+      "Shared p-tau181": true,
+      "Qualified": true,
+      "Shared memory q": 1.0,
+      "Assay difference q": 1.0,
+      "Shared evidence": -0.0,
+      "Difference evidence": -0.0,
+      "Primary family": 68
+    },
+    {
+      "Protein": "CST3",
+      "Participants": 554,
+      "Shared p-tau181": false,
+      "Qualified": false,
+      "Shared memory q": 1.0,
+      "Assay difference q": 1.0,
+      "Shared evidence": null,
+      "Difference evidence": null,
+      "Primary family": 68
+    },
+    {
+      "Protein": "CX3CL1",
+      "Participants": 519,
+      "Shared p-tau181": true,
+      "Qualified": true,
+      "Shared memory q": 1.0,
+      "Assay difference q": 1.0,
+      "Shared evidence": -0.0,
+      "Difference evidence": -0.0,
+      "Primary family": 68
+    },
+    {
+      "Protein": "FOLR1",
+      "Participants": 552,
+      "Shared p-tau181": false,
+      "Qualified": true,
+      "Shared memory q": 1.0,
+      "Assay difference q": 1.0,
+      "Shared evidence": -0.0,
+      "Difference evidence": -0.0,
+      "Primary family": 68
+    },
+    {
+      "Protein": "GDF15",
+      "Participants": 463,
+      "Shared p-tau181": false,
+      "Qualified": true,
+      "Shared memory q": 1.0,
+      "Assay difference q": 1.0,
+      "Shared evidence": -0.0,
+      "Difference evidence": -0.0,
+      "Primary family": 68
+    },
+    {
+      "Protein": "ICAM1",
+      "Participants": 553,
+      "Shared p-tau181": false,
+      "Qualified": true,
+      "Shared memory q": 1.0,
+      "Assay difference q": 1.0,
+      "Shared evidence": -0.0,
+      "Difference evidence": -0.0,
+      "Primary family": 68
+    },
+    {
+      "Protein": "IGF1R",
+      "Participants": 424,
+      "Shared p-tau181": false,
+      "Qualified": true,
+      "Shared memory q": 1.0,
+      "Assay difference q": 0.0556506577855552,
+      "Shared evidence": -0.0,
+      "Difference evidence": 1.254529697978894,
+      "Primary family": 68
+    },
+    {
+      "Protein": "IGFBP7",
+      "Participants": 540,
+      "Shared p-tau181": false,
+      "Qualified": true,
+      "Shared memory q": 1.0,
+      "Assay difference q": 1.0,
+      "Shared evidence": -0.0,
+      "Difference evidence": -0.0,
+      "Primary family": 68
+    },
+    {
+      "Protein": "KDR",
+      "Participants": 532,
+      "Shared p-tau181": false,
+      "Qualified": true,
+      "Shared memory q": 1.0,
+      "Assay difference q": 1.0,
+      "Shared evidence": -0.0,
+      "Difference evidence": -0.0,
+      "Primary family": 68
+    },
+    {
+      "Protein": "KLK6",
+      "Participants": 540,
+      "Shared p-tau181": true,
+      "Qualified": true,
+      "Shared memory q": 1.0,
+      "Assay difference q": 1.0,
+      "Shared evidence": -0.0,
+      "Difference evidence": -0.0,
+      "Primary family": 68
+    },
+    {
+      "Protein": "MDH1",
+      "Participants": 552,
+      "Shared p-tau181": true,
+      "Qualified": true,
+      "Shared memory q": 1.0,
+      "Assay difference q": 0.2529868087871298,
+      "Shared evidence": -0.0,
+      "Difference evidence": 0.5969021231732479,
+      "Primary family": 68
+    },
+    {
+      "Protein": "MSLN",
+      "Participants": 546,
+      "Shared p-tau181": false,
+      "Qualified": true,
+      "Shared memory q": 1.0,
+      "Assay difference q": 1.0,
+      "Shared evidence": -0.0,
+      "Difference evidence": -0.0,
+      "Primary family": 68
+    },
+    {
+      "Protein": "NEFH",
+      "Participants": 407,
+      "Shared p-tau181": false,
+      "Qualified": true,
+      "Shared memory q": 1.0,
+      "Assay difference q": 1.0,
+      "Shared evidence": -0.0,
+      "Difference evidence": -0.0,
+      "Primary family": 68
+    },
+    {
+      "Protein": "NEFL",
+      "Participants": 552,
+      "Shared p-tau181": true,
+      "Qualified": true,
+      "Shared memory q": 1.0,
+      "Assay difference q": 1.0,
+      "Shared evidence": -0.0,
+      "Difference evidence": -0.0,
+      "Primary family": 68
+    },
+    {
+      "Protein": "NGF",
+      "Participants": 342,
+      "Shared p-tau181": false,
+      "Qualified": true,
+      "Shared memory q": 1.0,
+      "Assay difference q": 1.0,
+      "Shared evidence": -0.0,
+      "Difference evidence": -0.0,
+      "Primary family": 68
+    },
+    {
+      "Protein": "NPTX1",
+      "Participants": 552,
+      "Shared p-tau181": true,
+      "Qualified": true,
+      "Shared memory q": 0.7408127587734594,
+      "Assay difference q": 1.0,
+      "Shared evidence": 0.13029154655129346,
+      "Difference evidence": -0.0,
+      "Primary family": 68
+    },
+    {
+      "Protein": "NPTX2",
+      "Participants": 553,
+      "Shared p-tau181": true,
+      "Qualified": true,
+      "Shared memory q": 0.2570606038104264,
+      "Assay difference q": 0.0019509243319186,
+      "Shared evidence": 0.5899644766778198,
+      "Difference evidence": 2.709759574720035,
+      "Primary family": 68
+    },
+    {
+      "Protein": "NPY",
+      "Participants": 545,
+      "Shared p-tau181": false,
+      "Qualified": true,
+      "Shared memory q": 1.0,
+      "Assay difference q": 1.0,
+      "Shared evidence": -0.0,
+      "Difference evidence": -0.0,
+      "Primary family": 68
+    },
+    {
+      "Protein": "NRGN",
+      "Participants": 550,
+      "Shared p-tau181": true,
+      "Qualified": true,
+      "Shared memory q": 1.0,
+      "Assay difference q": 0.6849969178755363,
+      "Shared evidence": -0.0,
+      "Difference evidence": 0.1643113825990467,
+      "Primary family": 68
+    },
+    {
+      "Protein": "PDGFRB",
+      "Participants": 552,
+      "Shared p-tau181": false,
+      "Qualified": true,
+      "Shared memory q": 1.0,
+      "Assay difference q": 1.0,
+      "Shared evidence": -0.0,
+      "Difference evidence": -0.0,
+      "Primary family": 68
+    },
+    {
+      "Protein": "PGK1",
+      "Participants": 552,
+      "Shared p-tau181": true,
+      "Qualified": true,
+      "Shared memory q": 1.0,
+      "Assay difference q": 1.0,
+      "Shared evidence": -0.0,
+      "Difference evidence": -0.0,
+      "Primary family": 68
+    },
+    {
+      "Protein": "PRDX6",
+      "Participants": 529,
+      "Shared p-tau181": false,
+      "Qualified": true,
+      "Shared memory q": 1.0,
+      "Assay difference q": 1.0,
+      "Shared evidence": -0.0,
+      "Difference evidence": -0.0,
+      "Primary family": 68
+    },
+    {
+      "Protein": "PTN",
+      "Participants": 554,
+      "Shared p-tau181": false,
+      "Qualified": true,
+      "Shared memory q": 1.0,
+      "Assay difference q": 0.759761938614553,
+      "Shared evidence": -0.0,
+      "Difference evidence": 0.11932246685356723,
+      "Primary family": 68
+    },
+    {
+      "Protein": "SFTPD",
+      "Participants": 532,
+      "Shared p-tau181": false,
+      "Qualified": true,
+      "Shared memory q": 1.0,
+      "Assay difference q": 1.0,
+      "Shared evidence": -0.0,
+      "Difference evidence": -0.0,
+      "Primary family": 68
+    },
+    {
+      "Protein": "SLIT2",
+      "Participants": 499,
+      "Shared p-tau181": true,
+      "Qualified": true,
+      "Shared memory q": 1.0,
+      "Assay difference q": 1.0,
+      "Shared evidence": -0.0,
+      "Difference evidence": -0.0,
+      "Primary family": 68
+    },
+    {
+      "Protein": "SOD1",
+      "Participants": 535,
+      "Shared p-tau181": false,
+      "Qualified": true,
+      "Shared memory q": 1.0,
+      "Assay difference q": 1.0,
+      "Shared evidence": -0.0,
+      "Difference evidence": -0.0,
+      "Primary family": 68
+    },
+    {
+      "Protein": "TAFA5",
+      "Participants": 557,
+      "Shared p-tau181": true,
+      "Qualified": true,
+      "Shared memory q": 1.0,
+      "Assay difference q": 0.0010178137835299,
+      "Shared evidence": -0.0,
+      "Difference evidence": 2.9923316720808772,
+      "Primary family": 68
+    },
+    {
+      "Protein": "TIMP3",
+      "Participants": 552,
+      "Shared p-tau181": true,
+      "Qualified": true,
+      "Shared memory q": 1.0,
+      "Assay difference q": 0.0348899891706072,
+      "Shared evidence": -0.0,
+      "Difference evidence": 1.4572991653511516,
+      "Primary family": 68
+    }
+  ],
+  "origin_overlap_count": 24,
+  "memory_effects": [
+    {
+      "Protein": "NPTX2",
+      "Assay": "NULISA",
+      "Participants": 553,
+      "Effect": 0.0514423790357859,
+      "CI lower": 0.0140815875371183,
+      "CI upper": 0.0888031705344535,
+      "Unit": "ADNI-MEM units/year per original fixed protein residual SD"
+    },
+    {
+      "Protein": "NPTX2",
+      "Assay": "SomaScan",
+      "Participants": 553,
+      "Effect": 0.127109789504327,
+      "CI lower": 0.0886186479644606,
+      "CI upper": 0.1656009310441934,
+      "Unit": "ADNI-MEM units/year per original fixed protein residual SD"
+    },
+    {
+      "Protein": "NPTX2",
+      "Assay": "TMT-MS",
+      "Participants": 553,
+      "Effect": 0.0581753990546191,
+      "CI lower": 0.0260983166416574,
+      "CI upper": 0.0902524814675808,
+      "Unit": "ADNI-MEM units/year per original fixed protein residual SD"
+    },
+    {
+      "Protein": "TAFA5",
+      "Assay": "NULISA",
+      "Participants": 557,
+      "Effect": 0.0570430847014705,
+      "CI lower": 0.01641790875324,
+      "CI upper": 0.097668260649701,
+      "Unit": "ADNI-MEM units/year per original fixed protein residual SD"
+    },
+    {
+      "Protein": "TAFA5",
+      "Assay": "SomaScan",
+      "Participants": 557,
+      "Effect": 0.1284884326027933,
+      "CI lower": 0.0874747838526446,
+      "CI upper": 0.169502081352942,
+      "Unit": "ADNI-MEM units/year per original fixed protein residual SD"
+    },
+    {
+      "Protein": "TAFA5",
+      "Assay": "TMT-MS",
+      "Participants": 557,
+      "Effect": 0.0300905646105959,
+      "CI lower": -0.002343647558738,
+      "CI upper": 0.0625247767799298,
+      "Unit": "ADNI-MEM units/year per original fixed protein residual SD"
+    },
+    {
+      "Protein": "TIMP3",
+      "Assay": "NULISA",
+      "Participants": 552,
+      "Effect": 0.0313262473181055,
+      "CI lower": 0.0038978952136135,
+      "CI upper": 0.0587545994225975,
+      "Unit": "ADNI-MEM units/year per original fixed protein residual SD"
+    },
+    {
+      "Protein": "TIMP3",
+      "Assay": "SomaScan",
+      "Participants": 552,
+      "Effect": 0.0838183513267167,
+      "CI lower": 0.0504255568807928,
+      "CI upper": 0.1172111457726407,
+      "Unit": "ADNI-MEM units/year per original fixed protein residual SD"
+    },
+    {
+      "Protein": "TIMP3",
+      "Assay": "TMT-MS",
+      "Participants": 552,
+      "Effect": -0.0005359061179541,
+      "CI lower": -0.0341011230143813,
+      "CI upper": 0.0330293107784729,
+      "Unit": "ADNI-MEM units/year per original fixed protein residual SD"
+    }
+  ],
+  "secondary_map": [
+    {
+      "Protein": "NPTX2",
+      "Assay": "NULISA",
+      "Participants": 553,
+      "Baseline effect": 0.2483038322628925,
+      "Baseline CI lower": 0.1287041699517247,
+      "Baseline CI upper": 0.3679034945740603,
+      "EF change effect": 0.0473869903145082,
+      "EF change CI lower": 0.0041802080730436,
+      "EF change CI upper": 0.0905937725559729
+    },
+    {
+      "Protein": "NPTX2",
+      "Assay": "SomaScan",
+      "Participants": 553,
+      "Baseline effect": 0.4416341469207364,
+      "Baseline CI lower": 0.3100975476644155,
+      "Baseline CI upper": 0.5731707461770574,
+      "EF change effect": 0.1258990868538552,
+      "EF change CI lower": 0.0820748742987987,
+      "EF change CI upper": 0.1697232994089117
+    },
+    {
+      "Protein": "NPTX2",
+      "Assay": "TMT-MS",
+      "Participants": 553,
+      "Baseline effect": 0.2372127975055457,
+      "Baseline CI lower": 0.1103439462603313,
+      "Baseline CI upper": 0.3640816487507602,
+      "EF change effect": 0.063138095841765,
+      "EF change CI lower": 0.0292671810586762,
+      "EF change CI upper": 0.0970090106248538
+    }
+  ],
+  "secondary_tests": [
+    {
+      "Protein": "NPTX2",
+      "Outcome": "Baseline memory",
+      "Test": "Shared direction",
+      "q": 0.165627921880276,
+      "Family": 136
+    },
+    {
+      "Protein": "NPTX2",
+      "Outcome": "Baseline memory",
+      "Test": "Assay differences",
+      "q": 0.3343105666822839,
+      "Family": 136
+    },
+    {
+      "Protein": "NPTX2",
+      "Outcome": "Executive function change",
+      "Test": "Shared direction",
+      "q": 1.0,
+      "Family": 136
+    },
+    {
+      "Protein": "NPTX2",
+      "Outcome": "Executive function change",
+      "Test": "Assay differences",
+      "q": 0.0205850880626706,
+      "Family": 136
+    }
+  ],
+  "robustness": [
+    {
+      "Protein": "NPTX2",
+      "Analysis": "Primary",
+      "q": 0.0019509243319186,
+      "Family": 68,
+      "Participants": 553
+    },
+    {
+      "Protein": "NPTX2",
+      "Analysis": "All outcomes",
+      "q": 0.0071852572501682,
+      "Family": 204,
+      "Participants": 553
+    },
+    {
+      "Protein": "NPTX2",
+      "Analysis": "Longer follow-up",
+      "q": 0.0031973029321749,
+      "Family": 28,
+      "Participants": 408
+    },
+    {
+      "Protein": "NPTX2",
+      "Analysis": "Equal weighting",
+      "q": 0.001996386894803,
+      "Family": 28,
+      "Participants": 553
+    },
+    {
+      "Protein": "TAFA5",
+      "Analysis": "Primary",
+      "q": 0.0010178137835299,
+      "Family": 68,
+      "Participants": 557
+    },
+    {
+      "Protein": "TAFA5",
+      "Analysis": "All outcomes",
+      "q": 0.0037486096963266,
+      "Family": 204,
+      "Participants": 557
+    },
+    {
+      "Protein": "TAFA5",
+      "Analysis": "Longer follow-up",
+      "q": 0.0018821244968603,
+      "Family": 28,
+      "Participants": 410
+    },
+    {
+      "Protein": "TAFA5",
+      "Analysis": "Equal weighting",
+      "q": 0.0735320998250772,
+      "Family": 28,
+      "Participants": 557
+    },
+    {
+      "Protein": "TIMP3",
+      "Analysis": "Primary",
+      "q": 0.0348899891706072,
+      "Family": 68,
+      "Participants": 552
+    },
+    {
+      "Protein": "TIMP3",
+      "Analysis": "All outcomes",
+      "q": 0.0963749119628278,
+      "Family": 204,
+      "Participants": 552
+    },
+    {
+      "Protein": "TIMP3",
+      "Analysis": "Longer follow-up",
+      "q": 0.0346343722704484,
+      "Family": 28,
+      "Participants": 405
+    },
+    {
+      "Protein": "TIMP3",
+      "Analysis": "Equal weighting",
+      "q": 0.4471443860730308,
+      "Family": 28,
+      "Participants": 552
+    }
+  ],
+  "robustness_analyses": [
+    "Primary",
+    "All outcomes",
+    "Longer follow-up",
+    "Equal weighting"
+  ],
+  "threshold": 0.05,
+  "evidence_threshold": 1.3010299956639813,
+  "primary_family": 68,
+  "secondary_family": 136,
+  "primary_diff_tests": {
+    "NPTX2": {
+      "Protein": "NPTX2",
+      "Participants": 553,
+      "Shared p-tau181": true,
+      "Qualified": true,
+      "Shared memory q": 0.2570606038104264,
+      "Assay difference q": 0.0019509243319186,
+      "Shared evidence": 0.5899644766778198,
+      "Difference evidence": 2.709759574720035,
+      "Primary family": 68
+    },
+    "TAFA5": {
+      "Protein": "TAFA5",
+      "Participants": 557,
+      "Shared p-tau181": true,
+      "Qualified": true,
+      "Shared memory q": 1.0,
+      "Assay difference q": 0.0010178137835299,
+      "Shared evidence": -0.0,
+      "Difference evidence": 2.9923316720808772,
+      "Primary family": 68
+    },
+    "TIMP3": {
+      "Protein": "TIMP3",
+      "Participants": 552,
+      "Shared p-tau181": true,
+      "Qualified": true,
+      "Shared memory q": 1.0,
+      "Assay difference q": 0.0348899891706072,
+      "Shared evidence": -0.0,
+      "Difference evidence": 1.4572991653511516,
+      "Primary family": 68
+    }
+  },
+  "minimum_shared_memory_q": 0.2570606038104264,
+  "no_p_or_q_recalculation": true,
+  "no_joint_secondary_ellipse": true
+}

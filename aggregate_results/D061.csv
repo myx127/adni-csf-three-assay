@@ -1,0 +1,6 @@
+﻿gene,accession,peptide,start,end,region,exact,exact_specific,il,il_specific
+NPTX1,Q15818,FQLTFPLR,228.0,235.0,Chain: Neuronal pentraxin-1; Domain: Pentraxin (PTX),1.0,Yes,1.0,Yes
+NPTX1,Q15818,LENLEQYSR,144.0,152.0,Chain: Neuronal pentraxin-1,1.0,Yes,1.0,Yes
+KLK6,Q92876,ESSQEQSSVVR,81.0,91.0,Chain: Kallikrein-6; Domain: Peptidase S1; Alternative sequence: in isoform 2; Alternative sequence: in isoform 3,1.0,Yes,1.0,Yes
+KLK6,Q92876,LSELIQPLPLER,118.0,129.0,Chain: Kallikrein-6; Domain: Peptidase S1; Alternative sequence: in isoform 3,2.0,Yes,2.0,Yes
+KLK6,Q92876,YTNWIQK,233.0,239.0,Chain: Kallikrein-6; Domain: Peptidase S1; Alternative sequence: in isoform 3,2.0,Yes,2.0,Yes

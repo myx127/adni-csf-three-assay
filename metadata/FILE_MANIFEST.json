@@ -1,0 +1,2160 @@
+{
+  "files": [
+    {
+      "path": ".gitignore",
+      "sha256": "bfe941d2b1a0bbb9bbdd91b98dd6fbbe520846d4e4113a13cb1128455f14eff6",
+      "bytes": 198
+    },
+    {
+      "path": ".zenodo.json",
+      "sha256": "b627d2ef5afe99ff8673ba8410a38aec78c5a1f060e2b3350f32f3d4a69bd80d",
+      "bytes": 928
+    },
+    {
+      "path": "aggregate_results/D001.csv",
+      "sha256": "e3913f8e0b60e77432555f18349fd7fe160dea6b06c3f02bb4b1dbcc4f06522f",
+      "bytes": 1890
+    },
+    {
+      "path": "aggregate_results/D002.csv",
+      "sha256": "172d1520d4efb25325326647b8d02063fad7b8fbf22aaf4e1c85dbf643b9571e",
+      "bytes": 693
+    },
+    {
+      "path": "aggregate_results/D003.csv",
+      "sha256": "64fa10e7db09b1a2dc96addb22beb96baa58a46775eff22b3498785b038db994",
+      "bytes": 3881
+    },
+    {
+      "path": "aggregate_results/D004.csv",
+      "sha256": "4d8aec05883ff29b811f64a0c2012b315dd912ca68b5ddf073ca15af5fd258bd",
+      "bytes": 5637
+    },
+    {
+      "path": "aggregate_results/D005.csv",
+      "sha256": "1b427b31718484c3a71f3fee50373044b200dc9f03b5b41fb271b0d2aa895404",
+      "bytes": 392
+    },
+    {
+      "path": "aggregate_results/D006.csv",
+      "sha256": "6283b30a977b717644c99d74e7fb495353bedf8485e10f1b6292aa6a0ccb5871",
+      "bytes": 8567
+    },
+    {
+      "path": "aggregate_results/D007.csv",
+      "sha256": "28ba4544b296257aaa70ad41e62029d34cb8749df044f86bbc82d71ba906a6cb",
+      "bytes": 3855
+    },
+    {
+      "path": "aggregate_results/D008.csv",
+      "sha256": "d9dfd1a330df4c6a53469cb68e081da71355da53dbc01cc3f523a95c7cdc4478",
+      "bytes": 280
+    },
+    {
+      "path": "aggregate_results/D009.csv",
+      "sha256": "be11eced871ab09f8dd8e821ac1253cf3d3172e015cd2cf62a040d53c81dc522",
+      "bytes": 6819
+    },
+    {
+      "path": "aggregate_results/D010.csv",
+      "sha256": "e3be6bd0b67996adf8d20f9a9cbf03601bd3e5ba5aecdb287dbc9ff415db0788",
+      "bytes": 2669
+    },
+    {
+      "path": "aggregate_results/D011.csv",
+      "sha256": "678af2862dc2b1ae546b9f0e16a94a79f73acee7639669e6afcf0f6c8908c816",
+      "bytes": 2105
+    },
+    {
+      "path": "aggregate_results/D012.csv",
+      "sha256": "ebcb276f36c6bf0437bcc2d6dbf6637f3af2b68d407a7f1a6225582e91529e09",
+      "bytes": 61550
+    },
+    {
+      "path": "aggregate_results/D013.csv",
+      "sha256": "388f21b8ab4e3bdef870b3ed5e749552918aaa5df50a8cf98971e4752201792f",
+      "bytes": 11454
+    },
+    {
+      "path": "aggregate_results/D014.csv",
+      "sha256": "6f80fb9ba6f5ac46fb2d3a010d6a4517d23cfd682e6324c0d2556bb3f9dd7499",
+      "bytes": 1916
+    },
+    {
+      "path": "aggregate_results/D015.csv",
+      "sha256": "a217dc4e685497f8aaeac169bfff8ed439bc968bdd7a90baa1ae5e68b6861896",
+      "bytes": 256
+    },
+    {
+      "path": "aggregate_results/D016.csv",
+      "sha256": "86bb79eb052a7e0d1ce29c8434556aed46e60305b8de5c1d3156de3bcc7fb803",
+      "bytes": 9988
+    },
+    {
+      "path": "aggregate_results/D017.csv",
+      "sha256": "f7bab7b8d13c977eefb146b6840626bc6d04edcdbe851dd0bec630bd55cc5e1d",
+      "bytes": 7965
+    },
+    {
+      "path": "aggregate_results/D018.csv",
+      "sha256": "451f67dcfa8534823243777755e6fb406399412e9d0c11055e018e92eb88b46a",
+      "bytes": 20971
+    },
+    {
+      "path": "aggregate_results/D019.csv",
+      "sha256": "512ba6b38bf9c0b1c5256e6ab73ba2de664ecc65c602535deee12765f55b8642",
+      "bytes": 12344
+    },
+    {
+      "path": "aggregate_results/D020.csv",
+      "sha256": "2efe38c44b54e0c36075bf1f370487edb922288c7fb21ac54ddc5d1457db8957",
+      "bytes": 12438
+    },
+    {
+      "path": "aggregate_results/D021.csv",
+      "sha256": "f423681ac7faac9422d8a3e8f980d678a49e05420fb80d187dc9f4e61619d1d7",
+      "bytes": 4673
+    },
+    {
+      "path": "aggregate_results/D022.csv",
+      "sha256": "bb488a8a77ae455d1c6c348ca17a6b248a9003165baf5bed00221a556a398074",
+      "bytes": 14907
+    },
+    {
+      "path": "aggregate_results/D023.csv",
+      "sha256": "0b944a10e0c47c076e182c1fbfee56a53d40d31a2be1036b5fa650b9489d1ed0",
+      "bytes": 7114
+    },
+    {
+      "path": "aggregate_results/D024.csv",
+      "sha256": "f82dfc5278aa426124df6ba8f7ad4303e20422cc382d3b282d5fc4382690fc99",
+      "bytes": 20622
+    },
+    {
+      "path": "aggregate_results/D025.csv",
+      "sha256": "ceac326f07e9ae7f9fc7eabfab1ba17245b2e3617f37a7f1a09f3bba91549746",
+      "bytes": 31012
+    },
+    {
+      "path": "aggregate_results/D026.csv",
+      "sha256": "a0fcbc5aedc7a7d43a2a03efbab8d3ee6788930ebd2c3a82bbcbdcc887c6301f",
+      "bytes": 15069
+    },
+    {
+      "path": "aggregate_results/D027.csv",
+      "sha256": "fb8cece87d190ce8bcf804c066432260051c52b527778df2835150bdffb68ea0",
+      "bytes": 42078
+    },
+    {
+      "path": "aggregate_results/D028.csv",
+      "sha256": "0fbdb8505e5af61d59dfb1bd33a648f3e26890fa7b18320a0d8bff6d458cebce",
+      "bytes": 15543
+    },
+    {
+      "path": "aggregate_results/D029.csv",
+      "sha256": "0cf3f2f056410cac2a3a982c2f72ac2c13b4f53f9d8b5f010d9fa03eebd6de6c",
+      "bytes": 114908
+    },
+    {
+      "path": "aggregate_results/D030.csv",
+      "sha256": "8b8c6ab95f9b502a015b7d1b9e9e92885a0f5778d3bf966371643192878c6fb0",
+      "bytes": 12331
+    },
+    {
+      "path": "aggregate_results/D031.csv",
+      "sha256": "9eca6ada8a028b2ab212ff828003f7f5f6935ec4026cc6257816cace5d8e2a9b",
+      "bytes": 20998
+    },
+    {
+      "path": "aggregate_results/D032.csv",
+      "sha256": "baada92c3e2424e2f118f6c6cb60de1a1932623a534b05ca4dd207523a3e7374",
+      "bytes": 9514
+    },
+    {
+      "path": "aggregate_results/D033.csv",
+      "sha256": "4ee78c9533cf83f857dafecfdf04885968275459719fea9ea84bd4e3ad2d39cb",
+      "bytes": 28000
+    },
+    {
+      "path": "aggregate_results/D034.csv",
+      "sha256": "2b431afb4ac0f36185fb3d59ab5e00f6b0c0928bd602d18329fb001c537f2b14",
+      "bytes": 12840
+    },
+    {
+      "path": "aggregate_results/D035.csv",
+      "sha256": "bb4194c2b8f916b88b7c5f86451f8a450c53800faff09313ab2208853a6b94de",
+      "bytes": 3535
+    },
+    {
+      "path": "aggregate_results/D036.csv",
+      "sha256": "a262f4d1196df837db19246a1b6b106fd327d34974760237607d7127abb34cce",
+      "bytes": 8702
+    },
+    {
+      "path": "aggregate_results/D037.csv",
+      "sha256": "997b117ba9d386c5380b3817f58d2887ebdb24f729985f43076f57db8e5cbfcb",
+      "bytes": 2252
+    },
+    {
+      "path": "aggregate_results/D038.csv",
+      "sha256": "c48716970ab86234402373ab7613d9ee4d026ccdbdb4a6a13014263523c6bef6",
+      "bytes": 5004
+    },
+    {
+      "path": "aggregate_results/D039.csv",
+      "sha256": "2e8384091dbba525a05129a99844e078a79b115cda953e0ec9b1bbb4ea92717f",
+      "bytes": 9999
+    },
+    {
+      "path": "aggregate_results/D040.csv",
+      "sha256": "7e1fe9843da77fec66b5f4c0da7190daa45f33fe9fe67b2f00b94adf9aecdabe",
+      "bytes": 5677
+    },
+    {
+      "path": "aggregate_results/D041.csv",
+      "sha256": "7e98006f520faf833ebde878a968b7d09dfde538e785ce2785ff8a30c6dba34b",
+      "bytes": 1436
+    },
+    {
+      "path": "aggregate_results/D042.csv",
+      "sha256": "c6623ce1094fe30af8c019d89668248af34943b44790cc97268810c789ff0104",
+      "bytes": 7444
+    },
+    {
+      "path": "aggregate_results/D043.csv",
+      "sha256": "8784de8d226085614bcccb4a7f21029db55199f912f995a4a392e0228590c300",
+      "bytes": 8223
+    },
+    {
+      "path": "aggregate_results/D044.csv",
+      "sha256": "79cf22cc991150ad6039e59cead77e5ed1f192f3ffdf655e2c5732805e8aeffd",
+      "bytes": 12389
+    },
+    {
+      "path": "aggregate_results/D045.csv",
+      "sha256": "5660647e72bca3492d0bd2ddebacfa4d5e7827398935ac917d1db4c0d9657ae7",
+      "bytes": 79
+    },
+    {
+      "path": "aggregate_results/D046.csv",
+      "sha256": "a316e7338773f5b5bf888eb1f9614a3e479daee77b325b2764134c6a9e8df1fb",
+      "bytes": 358
+    },
+    {
+      "path": "aggregate_results/D047.csv",
+      "sha256": "49c2d19ec057324d2f8c4913da031f8d97e5fa7de78ee16bc40a71c3f36537cd",
+      "bytes": 137
+    },
+    {
+      "path": "aggregate_results/D048.csv",
+      "sha256": "ba45fcf79f3ea07a9fab2a5020df3f3df648c8dac2fe9da7ac0dc31450803c46",
+      "bytes": 700320
+    },
+    {
+      "path": "aggregate_results/D049.csv",
+      "sha256": "8888045cb10b398dae3038eda11e274dcca59f94a6832026d2d1b0b201f0c579",
+      "bytes": 5353
+    },
+    {
+      "path": "aggregate_results/D050.csv",
+      "sha256": "a4c8be07be7f56493f1cdbd5034eb09cc0d7de0c5f69f8929344d368cd9c673f",
+      "bytes": 18876
+    },
+    {
+      "path": "aggregate_results/D051.csv",
+      "sha256": "83434f8fe4840aa4179560f230bc839c311c78f836205af618c5c339d02f0803",
+      "bytes": 38872
+    },
+    {
+      "path": "aggregate_results/D052.csv",
+      "sha256": "45ad63a9f8dd0497ee585d77ff3fb8bcc6601c3d842e3ecb054eb0aaddba7b27",
+      "bytes": 3758
+    },
+    {
+      "path": "aggregate_results/D053.csv",
+      "sha256": "7b767facde5b920210ecc2d528c11e825194d1cecb191f677707c2ed07c8fd49",
+      "bytes": 16872
+    },
+    {
+      "path": "aggregate_results/D054.csv",
+      "sha256": "a0184de4996f2eb55b3e8004ad3f97373a5f2195bc27ac66986f7529130d5c63",
+      "bytes": 12847
+    },
+    {
+      "path": "aggregate_results/D055.csv",
+      "sha256": "f595739ccf3d204aaf50b3946191f93417111d1ab1d81a5a0522c4a01dd1b539",
+      "bytes": 1454
+    },
+    {
+      "path": "aggregate_results/D056.csv",
+      "sha256": "17aba011fb2860b83975c7ac3a62725538d6c2b1f4ab14e87a8c559885b07c54",
+      "bytes": 200
+    },
+    {
+      "path": "aggregate_results/D057.csv",
+      "sha256": "4dbfadf7deee473381c948744c38713c51e0f2b894cf963d2d7328e8db0d2dd6",
+      "bytes": 6474
+    },
+    {
+      "path": "aggregate_results/D058.csv",
+      "sha256": "7d80c4bbdd2be6555b79e246ae29d9aab56f63401ea7d27c4bf6a0dc1b158454",
+      "bytes": 7644
+    },
+    {
+      "path": "aggregate_results/D059.csv",
+      "sha256": "0a8a8c951617abde8bb9979498ad31ac2deeddb8f0f3b66bbc146be83ad51e73",
+      "bytes": 15554
+    },
+    {
+      "path": "aggregate_results/D060.csv",
+      "sha256": "0add62bd304c69241d17a7a01821b267ddfd73f8d6518d16f8cf27226572c565",
+      "bytes": 13648
+    },
+    {
+      "path": "aggregate_results/D061.csv",
+      "sha256": "063426cecbbe56a91828a8fa6a16c8285c8a356a526c91bf0df7711b0d987e48",
+      "bytes": 688
+    },
+    {
+      "path": "aggregate_results/D062.csv",
+      "sha256": "ee7f726f065ed57855dd65523fd94892ab1e25798812ea92a9c0b1689990a423",
+      "bytes": 979
+    },
+    {
+      "path": "aggregate_results/D063.csv",
+      "sha256": "d5271d746151222e73501042932ed90451a326e142695157da19446b455de3c9",
+      "bytes": 516
+    },
+    {
+      "path": "aggregate_results/D064.csv",
+      "sha256": "615f96b0aef9ce26e42a8583c1d8ee0dffa4c8e81ab1947c19f24e471bb217eb",
+      "bytes": 170
+    },
+    {
+      "path": "aggregate_results/D065.csv",
+      "sha256": "3ddc95c4ac04455f5bbda2bdf93e116ef13d5d2595ce800e2027b3bcb076762d",
+      "bytes": 1678
+    },
+    {
+      "path": "aggregate_results/D066.csv",
+      "sha256": "c2f09f61d81b9e05471979b895cca13bf8be3bb571e57e4d03302b2f5e0e4d30",
+      "bytes": 1249
+    },
+    {
+      "path": "aggregate_results/D067.csv",
+      "sha256": "602de2943277ae3cfaa0d73c22240c73f8eb5acc8c856cc9dada8c2723e0228c",
+      "bytes": 1833
+    },
+    {
+      "path": "aggregate_results/D068.csv",
+      "sha256": "267d59df08cbc7aec67e716936860fc0ad5549783973392283a3836c01c2f40b",
+      "bytes": 1738
+    },
+    {
+      "path": "aggregate_results/D069.csv",
+      "sha256": "586130a43a62699d0d1166c8ffdf7d48a855740253a79236de635b9d8d7a95cf",
+      "bytes": 765
+    },
+    {
+      "path": "aggregate_results/D070.csv",
+      "sha256": "565c1a2f79850be06dfaee0197bcbc69cfc504b83bcad6d343cc50ac9cace2a4",
+      "bytes": 906
+    },
+    {
+      "path": "aggregate_results/D071.csv",
+      "sha256": "da0ce759d6841f56d839e48ba59454489f0e03fa93997af10e70c4716891b978",
+      "bytes": 792
+    },
+    {
+      "path": "aggregate_results/D072.csv",
+      "sha256": "85f4493a2d60be389566ff95c2d6193032c17de20513e4226f3fb9ca2d5b60ed",
+      "bytes": 2325
+    },
+    {
+      "path": "aggregate_results/D073.csv",
+      "sha256": "dea534511921cb24160fa08fe4dab9eb9c89e3ebdac49c18ac7cb4ab0ce43ad1",
+      "bytes": 1419
+    },
+    {
+      "path": "aggregate_results/D074.csv",
+      "sha256": "f08913a3ce625ed501aeaf5755012b5f7b50103334cb9397be30aa7a98e4b13d",
+      "bytes": 416
+    },
+    {
+      "path": "aggregate_results/D075.csv",
+      "sha256": "defd53e86105bf5974327fcafefbba57eccf81721d7035b3170dd7ea572ed817",
+      "bytes": 1222
+    },
+    {
+      "path": "aggregate_results/D076.csv",
+      "sha256": "dc05ae7337e9a1d250a510716ab8d9b5b19ba98c21fa674d9bcbd6ee096b2915",
+      "bytes": 1551
+    },
+    {
+      "path": "aggregate_results/D077.csv",
+      "sha256": "c6185cb7706a35d8fecfd626acfcbb4af0484259c1942338b42c5766b9bfbf6b",
+      "bytes": 1050925
+    },
+    {
+      "path": "aggregate_results/D078.csv",
+      "sha256": "f3d4121ead0e5c6f336549c08dcfae4b1314147260a6750e798c422883e8a590",
+      "bytes": 6720456
+    },
+    {
+      "path": "aggregate_results/D079.csv",
+      "sha256": "d4ada7b86c8bca432a2b97ca543b4229482ca8b047b3c5cfbcb6f31c9cea18ce",
+      "bytes": 1892240
+    },
+    {
+      "path": "aggregate_results/D080.csv",
+      "sha256": "5add462dbea31c4b960d7ae9608a5d53b1cc0aecba1931999e5b4b41a0a4552e",
+      "bytes": 448076
+    },
+    {
+      "path": "aggregate_results/D081.csv",
+      "sha256": "25a619c328bcea0b68b849f8de0728e00cfcc1b72389da8f970aca3ff2fa85a5",
+      "bytes": 1175394
+    },
+    {
+      "path": "aggregate_results/D082.csv",
+      "sha256": "180ce4ea9d5fede98db5cc28414085d610ed171ed22a6eb461e641ef864e32f1",
+      "bytes": 493397
+    },
+    {
+      "path": "aggregate_results/D083.csv",
+      "sha256": "43df188799d17a16cd15c1f23c0df2c2b2ca1f488021de05e58eaec185c44e77",
+      "bytes": 105140
+    },
+    {
+      "path": "aggregate_results/D084.csv",
+      "sha256": "768e745d9c5c0979be12ad5626e42f2b7150f5246b2952aa0fd038f6591e350b",
+      "bytes": 21675
+    },
+    {
+      "path": "aggregate_results/D085.csv",
+      "sha256": "2655c21c134ae36ebf0cb709f24c914f356ba201c091deb74e2860bf565462e2",
+      "bytes": 25851
+    },
+    {
+      "path": "aggregate_results/D086.csv",
+      "sha256": "f205a1dfb584fd755285b5237a566e68f74fb210e39c93c6dea7ad506bb4f450",
+      "bytes": 11332
+    },
+    {
+      "path": "aggregate_results/D087.csv",
+      "sha256": "594a5fd7d95c226e53398ce778140ff218de9f2c1c01ca55b97d8acb03a1d19e",
+      "bytes": 72117
+    },
+    {
+      "path": "aggregate_results/D088.csv",
+      "sha256": "452cb5ce143f577e1fad0a2c4a0d658e12c94e9194bc9059f3d5c7356ed9416d",
+      "bytes": 4309
+    },
+    {
+      "path": "aggregate_results/D089.csv",
+      "sha256": "fcd222fcc85892dd480a27b1e9213c9ca9669304d838561e9c970a6d76d20b71",
+      "bytes": 5588
+    },
+    {
+      "path": "aggregate_results/D090.csv",
+      "sha256": "3ce0abd66e07eddfc1a4898714afcda2f0a9812297f9c8c6d30e7b4a01328d7a",
+      "bytes": 6211
+    },
+    {
+      "path": "aggregate_results/D091.csv",
+      "sha256": "69487fcd94e4d0a6a00c865f04f2d96c70e422225b03a0a43b9c107c4781dcdb",
+      "bytes": 3507
+    },
+    {
+      "path": "aggregate_results/D092.csv",
+      "sha256": "7529fef3ca66f2acf9245e5ae0a3ad0b5239ae70b27da7077cdb344bdfd05570",
+      "bytes": 448
+    },
+    {
+      "path": "aggregate_results/DATA_DICTIONARY.csv",
+      "sha256": "c9dadde8e18147d5377f7723e85929e3fd6eef62e72d5d04fdf7f798032ac84a",
+      "bytes": 445518
+    },
+    {
+      "path": "aggregate_results/FILE_INDEX.csv",
+      "sha256": "46d99a0c24646734984a670b0fe96ca4180b687309e8f65b57a0d841469bbfc3",
+      "bytes": 25085
+    },
+    {
+      "path": "aggregate_results/README_EN.md",
+      "sha256": "0fe77ae2d5bfa0a23c306e12b4f73bbc198fb07b9c515ff4c5de5ff689e7a6f9",
+      "bytes": 2912
+    },
+    {
+      "path": "aggregate_results/VALUE_CODES.csv",
+      "sha256": "a423d31d9cbf9e54fab698288cb7347eb35ae362815259350b61d3979fe860eb",
+      "bytes": 7752
+    },
+    {
+      "path": "CITATION.cff",
+      "sha256": "7b1bd1493ead9a067763f631881e1c61234100599436e54d7f0f7be29a0db922",
+      "bytes": 609
+    },
+    {
+      "path": "config/paths.example.yaml",
+      "sha256": "58e8fb5dd79f39c735f55086fc97c7481a4a2982fa8b7e5e262b295ce19c5b2b",
+      "bytes": 1425
+    },
+    {
+      "path": "docs/CHANGELOG.md",
+      "sha256": "cb045fd5622ee0d7576fe1f86a4cea1ea418d163e5130775807cf5e9f4fb0898",
+      "bytes": 1171
+    },
+    {
+      "path": "docs/DATA_ACCESS.md",
+      "sha256": "594bccdb69704da38b1c2a38050f89e7066364db340bbbd4a188b808eadfb5ed",
+      "bytes": 1110
+    },
+    {
+      "path": "docs/INPUT_SCHEMAS.md",
+      "sha256": "578decf271ce26f3e0a1b655bb52d109bf0ddfc527a397af2888532a3499c7b5",
+      "bytes": 1506
+    },
+    {
+      "path": "docs/REPRODUCIBILITY.md",
+      "sha256": "b290dc47685891f7b47099621c58c1a36729f44c9447858d301cc5523ec65f74",
+      "bytes": 3140
+    },
+    {
+      "path": "environment.yml",
+      "sha256": "59d38188ae6ecf3a187d373437a86f75077d75e321a71cb94770f5c7311367ac",
+      "bytes": 455
+    },
+    {
+      "path": "examples/run_synthetic_demo.py",
+      "sha256": "1556cd7218d3de29d984ec24935033dce8c56d97d034ca91b39dd6b84b7de818",
+      "bytes": 3869
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "0907ae3877f1faad503dfc3051479c92a96290f5adac16a0948314c5f9eea8df",
+      "bytes": 1257
+    },
+    {
+      "path": "metadata/figure_code_crosswalk.csv",
+      "sha256": "6962222f75fa640b71dbd2c22a9076d26e0ca9d973cee15c1a19b8eb775ff852",
+      "bytes": 6278
+    },
+    {
+      "path": "metadata/input_files.csv",
+      "sha256": "00e1670b2e17522b6cd20d252aaeb90646c01e6a57c892512c2b2572ec7c4c23",
+      "bytes": 2777
+    },
+    {
+      "path": "metadata/input_manifest_templates.json",
+      "sha256": "4b892af9a829ad1986d1490519f8405c69172c8423112838ef2a1fc2b4f3ad73",
+      "bytes": 7812
+    },
+    {
+      "path": "metadata/RELEASE_VERIFICATION.json",
+      "sha256": "93ddfb092b4cee0a4eeccf3cafd3d605185fefad133006372e33b577d75474db",
+      "bytes": 1057
+    },
+    {
+      "path": "metadata/source_code_crosswalk.csv",
+      "sha256": "c288f23d2ea91d0726c8c92ec7d4c903e82a5f34b8c8a758263e24f65f12710c",
+      "bytes": 79549
+    },
+    {
+      "path": "metadata/verified_environment.json",
+      "sha256": "3836653a77990a273aae9b005bdffa5fc0dd19ea3c20b3d52fbed96986a9d30a",
+      "bytes": 477
+    },
+    {
+      "path": "metadata/workflow_catalog.csv",
+      "sha256": "9616581e724d19a7920f2b3a3b981958db8dbb9cd897810e53c4300549b10efa",
+      "bytes": 2769
+    },
+    {
+      "path": "pyproject.toml",
+      "sha256": "632d4b48ff6415e716017af980da6be6fa0780dc9fe49768fab3f482038573a2",
+      "bytes": 387
+    },
+    {
+      "path": "README.md",
+      "sha256": "75743fca5a2364851bc0869df46a4b082d95f704eb9995b74a4785770dfc7b4d",
+      "bytes": 3938
+    },
+    {
+      "path": "requirements.txt",
+      "sha256": "52d04b164d3521e61d8f7197ccde52f74eaf33e5511c00912977aa164842b525",
+      "bytes": 286
+    },
+    {
+      "path": "scripts/check_published_results.py",
+      "sha256": "e14e2f4716709a42d04c0b985f28bc56f7e37cdf4ae8846506c11fb1a0ac0df0",
+      "bytes": 1513
+    },
+    {
+      "path": "scripts/prepare_private_workspace.py",
+      "sha256": "6b3cb9bf816a2ce9d5f1406a8f7f228432295629960087efd2a3d99a72db6363",
+      "bytes": 3135
+    },
+    {
+      "path": "scripts/render_figures.py",
+      "sha256": "786725aacce270b3f0712d7a15368012fbe2e9777ecc8090a5dfa2d54081700e",
+      "bytes": 2646
+    },
+    {
+      "path": "src/adni_csf/__init__.py",
+      "sha256": "661cd029667c445ad32248fbcfcec1d78e0323de5ef0b31f039c3c3435900ed8",
+      "bytes": 23
+    },
+    {
+      "path": "src/adni_csf/clinical.py",
+      "sha256": "33d899f87d80786522259561c56df8d1945935ffa804f637c74fa80a19c64f3d",
+      "bytes": 3920
+    },
+    {
+      "path": "src/adni_csf/conditioning.py",
+      "sha256": "41aa0e8d3433f36a32986e13129aa1db963ef84b2c1978bd2108b6edc3239d6a",
+      "bytes": 2956
+    },
+    {
+      "path": "src/adni_csf/multiplicity.py",
+      "sha256": "8a519d73bd80bfb7e538c2808dac47235ac0d5cee90472fde841653b3470f63f",
+      "bytes": 241
+    },
+    {
+      "path": "src/adni_csf/pathology.py",
+      "sha256": "d6ebf3499fa048232bf8c66be2ebd88ac75896af514d61306e13a6ca284d2ee5",
+      "bytes": 2647
+    },
+    {
+      "path": "tests/conftest.py",
+      "sha256": "50919e549def3d28ded17a2e53f91d15757d8243a6077739b08e9317629e83a0",
+      "bytes": 203
+    },
+    {
+      "path": "tests/test_numerical_methods.py",
+      "sha256": "ca8a7754ca8e73ef738c773baa04c69b59e8d293de4d68b6c450e229970d2de2",
+      "bytes": 3145
+    },
+    {
+      "path": "visualization/main1/audit/PLOT_INPUT.json",
+      "sha256": "f03e1bbff1c517e0f6c17736806ab33bd06af05353e76b8660a2dc0efca61125",
+      "bytes": 1493
+    },
+    {
+      "path": "visualization/main1/Figure_1_Legend_EN.md",
+      "sha256": "c00a10393ef0a827ab2b641245e1310248c5c049ad8b5f6494086c61423d9b87",
+      "bytes": 2567
+    },
+    {
+      "path": "visualization/main1/source/draw_figure_1.py",
+      "sha256": "a396d65cd554c8f33df4b10e6956e61ba20d52324a5db91290607e87b08322e8",
+      "bytes": 18694
+    },
+    {
+      "path": "visualization/main2/audit/PLOT_INPUT.json",
+      "sha256": "cb267268a169e13920d2be9b7638104b7072d516264590609dbc42486472d731",
+      "bytes": 150963
+    },
+    {
+      "path": "visualization/main2/Figure_2_Legend_EN.md",
+      "sha256": "56dc14af35570fc0b6f327262204e9628e1a4ac89fbe99c8e54c2ecd09f87569",
+      "bytes": 2387
+    },
+    {
+      "path": "visualization/main2/source/draw_figure_2.py",
+      "sha256": "2d8a2bd267ef2a5292b999368729ac08cc60b68468e5123172e91fb8659f5371",
+      "bytes": 14737
+    },
+    {
+      "path": "visualization/main3/audit/PLOT_INPUT.json",
+      "sha256": "def1d76e667671c5acb263d6b76e9385fe8d9d125ef7751f6506642deaa87a20",
+      "bytes": 18391
+    },
+    {
+      "path": "visualization/main3/Figure_3_Legend_EN.md",
+      "sha256": "2c8806496fa2f936cb411ce97f97da20419c5e6089d17080e59f307f71b3e1fd",
+      "bytes": 2815
+    },
+    {
+      "path": "visualization/main3/source/draw_figure_3.py",
+      "sha256": "ae1e4e664c6a0cb08e982cee68b518b46f2ebe561455f3e006340f030a1871a5",
+      "bytes": 14957
+    },
+    {
+      "path": "visualization/main4/audit/PLOT_INPUT.json",
+      "sha256": "53c1ad7d797aea5f56c60834ea9911a1214598519c74c3f67bc04b9449b899e4",
+      "bytes": 11238
+    },
+    {
+      "path": "visualization/main4/Figure_4_Legend_EN.md",
+      "sha256": "31fba40328e8855f64bbbafbab2f1307896f331a195b761f3f746dedd6ce1327",
+      "bytes": 2560
+    },
+    {
+      "path": "visualization/main4/source/draw_figure_4.py",
+      "sha256": "08245dd81836221a46c30d1d76789c66de4ef12165402660c10eff29b32aed7c",
+      "bytes": 15700
+    },
+    {
+      "path": "visualization/main5/audit/PLOT_INPUT.json",
+      "sha256": "22ce4883553cc53b0d7246d2b5356efd2554807c1a1555c07e438dce38e06f30",
+      "bytes": 16799
+    },
+    {
+      "path": "visualization/main5/Figure_5_Legend_EN.md",
+      "sha256": "62a19e45762e60bf59034a69557ef7edd4098005cc70e58ecbd83db9a1ceb1a8",
+      "bytes": 2481
+    },
+    {
+      "path": "visualization/main5/source/draw_figure_5.py",
+      "sha256": "6c418d0567ae516fcb1d2c2f3094cff90bde861bc8e745f9580d98a043e8ce4e",
+      "bytes": 16313
+    },
+    {
+      "path": "visualization/supp1/audit/STUDY_FLOW_VALUES.json",
+      "sha256": "52451644c969453c305f055fed942719fd9ac7655d3f3881cd1ea3db9f6eb323",
+      "bytes": 1701
+    },
+    {
+      "path": "visualization/supp1/Figure_S1_Legend_EN.md",
+      "sha256": "3b2a4d910442b1bd8715fb2e68fbc7d6349dd1bcad2c9ce0120ebc7122afb731",
+      "bytes": 3185
+    },
+    {
+      "path": "visualization/supp1/source/draw_figure_s1.py",
+      "sha256": "d5be874ce01382d33cff72f2566cbea261a75b04a66212c637bca70d81f84793",
+      "bytes": 17200
+    },
+    {
+      "path": "visualization/supp10/audit/PLOT_INPUT.json",
+      "sha256": "a82b93735f720d8a7fef542a9f902b2b76f7b9ab32915f6698e8b10a8c29e370",
+      "bytes": 182828
+    },
+    {
+      "path": "visualization/supp10/Figure_S10_Legend_EN.md",
+      "sha256": "ad7197b10dfc2f7f450a95db641e24f195e944a6ae7cfa312d1c4db574f1b126",
+      "bytes": 3449
+    },
+    {
+      "path": "visualization/supp10/source/draw_figure_s10.py",
+      "sha256": "a9fb0f2fcc9d85f262da06de946bb6b6a1ac6d2ebb4da7a7d496799a9d64a294",
+      "bytes": 13330
+    },
+    {
+      "path": "visualization/supp11/audit/PLOT_INPUT.json",
+      "sha256": "380f8edef7fc5192b39aad78e3a19084007b646b7cc7fb964d4831232a318f59",
+      "bytes": 17742
+    },
+    {
+      "path": "visualization/supp11/Figure_S11_Legend_EN.md",
+      "sha256": "501ef54ece240b73eb4f3b2d0f8ead484b51ad4534081474b1d289e56058498d",
+      "bytes": 3502
+    },
+    {
+      "path": "visualization/supp11/source/draw_figure_s11.py",
+      "sha256": "85c3f3809dc1976ab93193c4fd63e7fe4765fbd3acce1dccf1c6746f820d227e",
+      "bytes": 11062
+    },
+    {
+      "path": "visualization/supp12/audit/PLOT_INPUT.json",
+      "sha256": "cb693e2b1689de0edf38cddce06eb1284522d463a5b7ae117081e94d67907ee4",
+      "bytes": 8038
+    },
+    {
+      "path": "visualization/supp12/Figure_S12_Legend_EN.md",
+      "sha256": "85f6c7dc219b0b8ce96dafca74b434692b184376b2096b81baa008af73286ef1",
+      "bytes": 3462
+    },
+    {
+      "path": "visualization/supp12/source/draw_figure_s12.py",
+      "sha256": "345b7ba163a1ccc4bdd16f44ddfcd60a3ea2ef85c1fc501012f66edb6909d9c4",
+      "bytes": 13447
+    },
+    {
+      "path": "visualization/supp13/audit/PLOT_INPUT.json",
+      "sha256": "643f0fdfd8969bb7dc3e82930c8318dfb6c1f16f6f0edeb478e67247bc6f75ee",
+      "bytes": 8623
+    },
+    {
+      "path": "visualization/supp13/Figure_S13_Legend_EN.md",
+      "sha256": "58e43e11fa14d54644a9b1647145c1729a27050ac81e03b231f5096a58acabd8",
+      "bytes": 3676
+    },
+    {
+      "path": "visualization/supp13/source/draw_figure_s13.py",
+      "sha256": "a715979c0d08416c2a2b1eabc7eb2b40c331fb313e984b9e4074e3b961a8cd8c",
+      "bytes": 15029
+    },
+    {
+      "path": "visualization/supp14/audit/PLOT_INPUT.json",
+      "sha256": "96641078ac860d040a223fcf9593c210e602716c58ce82cac587304fea38fc2e",
+      "bytes": 109475
+    },
+    {
+      "path": "visualization/supp14/Figure_S14_Legend_EN.md",
+      "sha256": "c51410040dad12cac57692bb3ea2e9d52e749cd3d30eda0d529867d081f8037f",
+      "bytes": 3557
+    },
+    {
+      "path": "visualization/supp14/source/draw_figure_s14.py",
+      "sha256": "71a3e8b4db6215c3d127198d72c7363d589386420cd34ac0033a5432243dff44",
+      "bytes": 11076
+    },
+    {
+      "path": "visualization/supp15/audit/PLOT_INPUT.json",
+      "sha256": "82d27edd6d19c66eaf3cd633a0062a027ae6dd7e39315503e6ef3ce45ec251a4",
+      "bytes": 9037
+    },
+    {
+      "path": "visualization/supp15/Figure_S15_Legend_EN.md",
+      "sha256": "a3f94b0c3e1dc9c79ed86b29358bdda32f8d5bae744d20ec9989e9c79ee88238",
+      "bytes": 2667
+    },
+    {
+      "path": "visualization/supp15/source/draw_figure_s15.py",
+      "sha256": "c12257f058dd89a09b4870a7cd108efd079d762a349ba30906586d0d92b9611b",
+      "bytes": 14208
+    },
+    {
+      "path": "visualization/supp16/audit/PLOT_INPUT.json",
+      "sha256": "77f210bdce1e62a835a8c351ec6edd5f73a32417a414af2b175af05196818075",
+      "bytes": 8440
+    },
+    {
+      "path": "visualization/supp16/Figure_S16_Legend_EN.md",
+      "sha256": "f48f62af91ce93b03c57f702f7816c40a0667c0dc0217ec33c3d41ab33a85503",
+      "bytes": 3311
+    },
+    {
+      "path": "visualization/supp16/source/draw_figure_s16.py",
+      "sha256": "50f424791c7ddc46ae82b16900f73205f24c57fc4a32ec234778abe5f1435864",
+      "bytes": 14296
+    },
+    {
+      "path": "visualization/supp2/audit/PLOT_INPUT.json",
+      "sha256": "c7333407818cba7897156f4f7c4cf7ec4e00f1ff274ab508d387b4f77c61e51c",
+      "bytes": 8747
+    },
+    {
+      "path": "visualization/supp2/Figure_S2_Legend_EN.md",
+      "sha256": "73dcb2a300c6888020335a3456078ab21d5adc88bd4e9d8bc3ac6fc28b43bd4a",
+      "bytes": 2675
+    },
+    {
+      "path": "visualization/supp2/source/draw_figure_s2.py",
+      "sha256": "d1003eeca53af441594ca594ddfd0e5e6f98a70823970cea6ff9f0df867dec61",
+      "bytes": 12257
+    },
+    {
+      "path": "visualization/supp3/audit/PLOT_INPUT.json",
+      "sha256": "d86e03e26c17de69194a581a37f32832b5e21d72d2a99c5dbaa76358e47bad39",
+      "bytes": 14093
+    },
+    {
+      "path": "visualization/supp3/Figure_S3_Legend_EN.md",
+      "sha256": "53c9d9b41bcca310e00d8a60c6c8781c631f484f94d4a2dba6742096a302c9ea",
+      "bytes": 2688
+    },
+    {
+      "path": "visualization/supp3/source/draw_figure_s3.py",
+      "sha256": "33a36d814d7b901c5989abca9511a30140885efb89d4a036ed882a2308b4bc8f",
+      "bytes": 11690
+    },
+    {
+      "path": "visualization/supp4/audit/PLOT_INPUT.json",
+      "sha256": "4f2c085880a70786bab75b306db3f8c095f461683b275387f2bff8f09201fcab",
+      "bytes": 12796
+    },
+    {
+      "path": "visualization/supp4/Figure_S4_Legend_EN.md",
+      "sha256": "c5a2bd80c47b248b47ec8988e434d593c445119b4a6dc238afe4035a87801fb8",
+      "bytes": 2709
+    },
+    {
+      "path": "visualization/supp4/source/draw_figure_s4.py",
+      "sha256": "485fda7402b887315b4e16a2ff7caf5b79896b258b468532eab07913ff90e9f7",
+      "bytes": 10623
+    },
+    {
+      "path": "visualization/supp5/audit/PLOT_INPUT.json",
+      "sha256": "db7a10e6522d7745731c38b21cd1c268e7f285974f409cc19912cfd0f8cbe549",
+      "bytes": 51470
+    },
+    {
+      "path": "visualization/supp5/Figure_S5_Legend_EN.md",
+      "sha256": "c8d63b5489e78181b442fc41cbb1140e2c5131869b71a543707ed21e84b3557b",
+      "bytes": 3025
+    },
+    {
+      "path": "visualization/supp5/source/draw_figure_s5.py",
+      "sha256": "ef05a1e1e67c0e26978588a3cb07dd4c4f531075b62db3879e8e4f73bd439374",
+      "bytes": 12276
+    },
+    {
+      "path": "visualization/supp6/audit/PLOT_INPUT.json",
+      "sha256": "5822952d147604e05702dd23e4fafcdfe0f2f90bdd41cbaa0c6c6d4a41fa8cad",
+      "bytes": 21452
+    },
+    {
+      "path": "visualization/supp6/Figure_S6_Legend_EN.md",
+      "sha256": "95575fdea379daa0d1ed3cf481fda7c484114ed401e7570e50e5947c03b2f843",
+      "bytes": 3425
+    },
+    {
+      "path": "visualization/supp6/source/draw_figure_s6.py",
+      "sha256": "4c971c29fcc299f929cb2ef20c6315e9f663e5dba9faa84a732f10d9843291b8",
+      "bytes": 12313
+    },
+    {
+      "path": "visualization/supp7/audit/PLOT_INPUT.json",
+      "sha256": "6414c3c368ada2bab5bf79ede0d65d606dad826f335e22f87dd5717b24ce4f9e",
+      "bytes": 110605
+    },
+    {
+      "path": "visualization/supp7/Figure_S7_Legend_EN.md",
+      "sha256": "21006882839b3419dd942e8e09a3981505e50d1b36d3bd9b5d1e97e518659811",
+      "bytes": 3327
+    },
+    {
+      "path": "visualization/supp7/source/draw_figure_s7.py",
+      "sha256": "f2bd3aa095b1455a9ced98e4879d339fb6132d075c22c00c1003eaa5d3c21be7",
+      "bytes": 14777
+    },
+    {
+      "path": "visualization/supp8/audit/PLOT_INPUT.json",
+      "sha256": "342f32b9aafd35dc144442cf6414121598d8d5fae7bf156263a4593e39d89b79",
+      "bytes": 44997
+    },
+    {
+      "path": "visualization/supp8/Figure_S8_Legend_EN.md",
+      "sha256": "2c1c83807518869b42ffefac82b0131c9282560785a3e61924785b49d580fefc",
+      "bytes": 3581
+    },
+    {
+      "path": "visualization/supp8/source/draw_figure_s8.py",
+      "sha256": "01470d2d9a744d79860d6abf5ebd14ccdfd19e345e220396a31050917c538cd4",
+      "bytes": 12560
+    },
+    {
+      "path": "visualization/supp9/audit/PLOT_INPUT.json",
+      "sha256": "4756df30765c91074da0bba61bc9499e300ffb70cbef5d3a5f2e369a36228bfa",
+      "bytes": 37155
+    },
+    {
+      "path": "visualization/supp9/Figure_S9_Legend_EN.md",
+      "sha256": "d04cbbe7fe75a03ecbe4b32b26ae7d4aeff67e59431a754d331e298a0f6c5c39",
+      "bytes": 3666
+    },
+    {
+      "path": "visualization/supp9/source/draw_figure_s9.py",
+      "sha256": "452baee74dc3e24af21fd6d4920ef1be809b4be5e7e664e258ddb166d546a4a6",
+      "bytes": 12223
+    },
+    {
+      "path": "workflows/10AD病理背景下的跨检测临床关联与五年认知进展分析/code/analyze_real.py",
+      "sha256": "8744fff16e73ed24757ada72056905181c8af5e2f328f727fec868feacbd6b04",
+      "bytes": 8313
+    },
+    {
+      "path": "workflows/10AD病理背景下的跨检测临床关联与五年认知进展分析/code/bootstrap.py",
+      "sha256": "35b0d6f21dc883d72456e6a3a459cabcee61e762369f31ba596e9d7f615b5c73",
+      "bytes": 1792
+    },
+    {
+      "path": "workflows/10AD病理背景下的跨检测临床关联与五年认知进展分析/code/build_delivery.py",
+      "sha256": "e45c878d3253a58d366b447e594c15ada67c39f67764df39e32d28f491d87d7d",
+      "bytes": 37968
+    },
+    {
+      "path": "workflows/10AD病理背景下的跨检测临床关联与五年认知进展分析/code/config.py",
+      "sha256": "e79b3f6dd42cd165c11d6dd2ce6182b581d073107a81381f4ed13f1466079f91",
+      "bytes": 3022
+    },
+    {
+      "path": "workflows/10AD病理背景下的跨检测临床关联与五年认知进展分析/code/describe_conditioning.py",
+      "sha256": "edded7769fd64f89c74f2cb952864fa7942409c7b85db3aaa7738a2824394b9f",
+      "bytes": 3057
+    },
+    {
+      "path": "workflows/10AD病理背景下的跨检测临床关联与五年认知进展分析/code/describe_followup.py",
+      "sha256": "310cdd8c1355d96dd478f7161250893fffeae40e2bd7d7e88f43fc4567674b9b",
+      "bytes": 3283
+    },
+    {
+      "path": "workflows/10AD病理背景下的跨检测临床关联与五年认知进展分析/code/engine.py",
+      "sha256": "35bb5f1b871e3116cad05eefd64ebbfd0390ea06a55f400f803cec5a566ee0e0",
+      "bytes": 3409
+    },
+    {
+      "path": "workflows/10AD病理背景下的跨检测临床关联与五年认知进展分析/code/make_figures.py",
+      "sha256": "aff59f0d406eebb1492f56e7c4cd3d89b3fbde1a569a266633b4ecdc35202829",
+      "bytes": 12538
+    },
+    {
+      "path": "workflows/10AD病理背景下的跨检测临床关联与五年认知进展分析/code/prepare_clinical.py",
+      "sha256": "58569e452620682bda501fca061e78bbbdc5f294e8de427cbf0fae6ed36f455a",
+      "bytes": 6907
+    },
+    {
+      "path": "workflows/10AD病理背景下的跨检测临床关联与五年认知进展分析/code/prepare_templates.py",
+      "sha256": "f5a0bf7d4a77f2f8f638d03530384b07130f11fdffbebdbc0e4c4005341b9abd",
+      "bytes": 11168
+    },
+    {
+      "path": "workflows/10AD病理背景下的跨检测临床关联与五年认知进展分析/code/reproduce_in_copy.py",
+      "sha256": "f475117e1f8476aa96dcf0d5746e0d3153e32d5fcf9e06615910e6d503db4e75",
+      "bytes": 2124
+    },
+    {
+      "path": "workflows/10AD病理背景下的跨检测临床关联与五年认知进展分析/code/run_all.ps1",
+      "sha256": "3352223849080e469e3db17427f23727d3ae9e79f5b423c06e68a0b99dc32f4d",
+      "bytes": 186
+    },
+    {
+      "path": "workflows/10AD病理背景下的跨检测临床关联与五年认知进展分析/code/run_calibration.py",
+      "sha256": "d0c7355d9a670fb0b52b1ccbc0a6f5cfc193a59b18aa24803dd826d47218aafd",
+      "bytes": 9243
+    },
+    {
+      "path": "workflows/10AD病理背景下的跨检测临床关联与五年认知进展分析/code/seal_delivery.py",
+      "sha256": "eb3e042a7aa6e05fe30eef9812439230225381929be058ef6fc1591e9e015ef2",
+      "bytes": 2253
+    },
+    {
+      "path": "workflows/10AD病理背景下的跨检测临床关联与五年认知进展分析/code/summarize_calibration.py",
+      "sha256": "e8242212f11c3c6b4a2f4acf01c6ae007541fc1e50f2441a9cca0e01521ba6f5",
+      "bytes": 2103
+    },
+    {
+      "path": "workflows/10AD病理背景下的跨检测临床关联与五年认知进展分析/code/validate_delivery.py",
+      "sha256": "57af35f9b341cf5bbf9df343b1b361ddecf8fd44d1aa71d4949e63929949ca1a",
+      "bytes": 4423
+    },
+    {
+      "path": "workflows/10AD病理背景下的跨检测临床关联与五年认知进展分析/code/validate_engine.py",
+      "sha256": "a3eca2bed35800d1da99e18692d4ef736b7556bd920f7b73d594b4b5af17b868",
+      "bytes": 3987
+    },
+    {
+      "path": "workflows/10AD病理背景下的跨检测临床关联与五年认知进展分析/code/validate_science.py",
+      "sha256": "1a787f6109acfc2ea5b0bb3b7eabdb8322ed2866209923e7ef9a19665f2d587b",
+      "bytes": 11142
+    },
+    {
+      "path": "workflows/10AD病理背景下的跨检测临床关联与五年认知进展分析/code/verify_delivery.py",
+      "sha256": "2d955b93189c3b412496801eb510d5b8ceed0817dd814471e462ebefd1c906e6",
+      "bytes": 1551
+    },
+    {
+      "path": "workflows/10AD病理背景下的跨检测临床关联与五年认知进展分析/STAGE10_PROTOCOL_v1.0.md",
+      "sha256": "84b51a261199f149457c8dfd6afd4e11ae386b20e683d6d4d407c65cdec448a8",
+      "bytes": 6221
+    },
+    {
+      "path": "workflows/11补齐14个共同病理关联蛋白的临床信息评价/code/analyze_real.py",
+      "sha256": "4c9f85aea3fd38491499a815725009eea3ccfbbbcd9dab19b73ff47f44b73f0b",
+      "bytes": 11095
+    },
+    {
+      "path": "workflows/11补齐14个共同病理关联蛋白的临床信息评价/code/bootstrap.py",
+      "sha256": "5d61a90ac41413a1dbdea90b25faa00b70966ade78423bf1007cb5cbe08b0d4f",
+      "bytes": 3073
+    },
+    {
+      "path": "workflows/11补齐14个共同病理关联蛋白的临床信息评价/code/build_delivery.py",
+      "sha256": "830c1f071928db8c93db5f9b9973d4e7b7423fcc8c2a3e6a38f166e5354e236a",
+      "bytes": 22173
+    },
+    {
+      "path": "workflows/11补齐14个共同病理关联蛋白的临床信息评价/code/config.py",
+      "sha256": "d81a31913b68b949a0e775f1fe10d6c393f640e3ffa4d8d689230120f7e59f7a",
+      "bytes": 3457
+    },
+    {
+      "path": "workflows/11补齐14个共同病理关联蛋白的临床信息评价/code/engine.py",
+      "sha256": "90ef79933bf477c43509838c8de7c5e93ba0dc599f3ca19b01810d7a327059a7",
+      "bytes": 3901
+    },
+    {
+      "path": "workflows/11补齐14个共同病理关联蛋白的临床信息评价/code/make_figures.py",
+      "sha256": "6373497b81d8e0e81eaedf37184c5c4fc1a31b877ee643e00827209cae8be9f6",
+      "bytes": 9550
+    },
+    {
+      "path": "workflows/11补齐14个共同病理关联蛋白的临床信息评价/code/prepare_templates.py",
+      "sha256": "308fca232f1d1066908502ac2896012173b7735c9fe06e1e0ed9638903c355b6",
+      "bytes": 11326
+    },
+    {
+      "path": "workflows/11补齐14个共同病理关联蛋白的临床信息评价/code/reproduce_in_copy.py",
+      "sha256": "037f77577d052fa3154ee924016b9d61e4e7a6e298f43ca634054aad0cdfa4c7",
+      "bytes": 1088
+    },
+    {
+      "path": "workflows/11补齐14个共同病理关联蛋白的临床信息评价/code/run_all.ps1",
+      "sha256": "9d6aa3c0f9bc3b98bd1076c052d5470a033189bb046229beeee2af343a4cf05a",
+      "bytes": 1148
+    },
+    {
+      "path": "workflows/11补齐14个共同病理关联蛋白的临床信息评价/code/run_calibration.py",
+      "sha256": "5350cf66335b88979ae6c437ddd8c1c6572463fa7535ec424f1e9e3b69d06446",
+      "bytes": 7658
+    },
+    {
+      "path": "workflows/11补齐14个共同病理关联蛋白的临床信息评价/code/seal_delivery.py",
+      "sha256": "0b7ae957e559665457652b5f5822f24d89c74aacd7fb989cb3a026c4a2e8ccc1",
+      "bytes": 1890
+    },
+    {
+      "path": "workflows/11补齐14个共同病理关联蛋白的临床信息评价/code/simulation_dgp.py",
+      "sha256": "4d7bcd92fbff6e34470a70fd6b7ec93e796225095a6b77c566b3aabfd6dd289e",
+      "bytes": 2264
+    },
+    {
+      "path": "workflows/11补齐14个共同病理关联蛋白的临床信息评价/code/summarize_and_describe.py",
+      "sha256": "b620577c7447426c14c76a1bbe3e6b77757df64973fa802559befb6af2eae185",
+      "bytes": 5099
+    },
+    {
+      "path": "workflows/11补齐14个共同病理关联蛋白的临床信息评价/code/validate_delivery.py",
+      "sha256": "f05260277927c690f535b21c12cc74ac6aaa6c622c428df34df5aeb72978beca",
+      "bytes": 3207
+    },
+    {
+      "path": "workflows/11补齐14个共同病理关联蛋白的临床信息评价/code/validate_engine.py",
+      "sha256": "419200397f42f74403aa0a3d31cb5c203359e28ead8ea8da40566fe2a4fd6ab4",
+      "bytes": 4470
+    },
+    {
+      "path": "workflows/11补齐14个共同病理关联蛋白的临床信息评价/code/validate_science.py",
+      "sha256": "765a21828a3de3ea0427ffb78f6fb58e3cde8c81cf7c586db864bc5b05ba8fcc",
+      "bytes": 10773
+    },
+    {
+      "path": "workflows/11补齐14个共同病理关联蛋白的临床信息评价/code/verify_delivery.py",
+      "sha256": "67a8ba097c4d86e37d6e8b647de0019b1644f7e338895cc3edf1532a9d651c1a",
+      "bytes": 1534
+    },
+    {
+      "path": "workflows/11补齐14个共同病理关联蛋白的临床信息评价/STAGE11_PROTOCOL_v1.0.md",
+      "sha256": "1ea891c74dd2ae92b86a3e3f268a3919691e74867985ac2d89b5149fd57e2dbc",
+      "bytes": 5138
+    },
+    {
+      "path": "workflows/12解决“为什么差异依赖pTau条件化”/code/analyze.py",
+      "sha256": "6909fa5db92862622ce8295ffd964443765e3f3fc6e5627edabe6d68387abbb2",
+      "bytes": 4644
+    },
+    {
+      "path": "workflows/12解决“为什么差异依赖pTau条件化”/code/background.py",
+      "sha256": "858111fb7a0c9ab0f88497e4e703235120e5fcb197a78c7cdabbefd17d38fbbc",
+      "bytes": 7472
+    },
+    {
+      "path": "workflows/12解决“为什么差异依赖pTau条件化”/code/bootstrap.py",
+      "sha256": "8f3526dfebbe7c9cfd1df9f54b9bc679b5091cf8fd2a21dc13d436ab5dfdfb72",
+      "bytes": 2861
+    },
+    {
+      "path": "workflows/12解决“为什么差异依赖pTau条件化”/code/build_delivery.py",
+      "sha256": "1a92b33e23aee1b1d5551992409f34530aeaa68f3f0ba5836c68f78a6f4a69eb",
+      "bytes": 29242
+    },
+    {
+      "path": "workflows/12解决“为什么差异依赖pTau条件化”/code/calibrate.py",
+      "sha256": "4b7586e0f4c9cfe39ad8c1116536e06708714874910b84a12a564e662bf33dce",
+      "bytes": 6790
+    },
+    {
+      "path": "workflows/12解决“为什么差异依赖pTau条件化”/code/config.py",
+      "sha256": "8ab28c5e85e884e15b3499fd33811ea6292f828262b0caaec36ac3634f93cda0",
+      "bytes": 3013
+    },
+    {
+      "path": "workflows/12解决“为什么差异依赖pTau条件化”/code/diagnostics.py",
+      "sha256": "ed93a069abc0912f9afd8ace051b1d26bf720bc7c9eb13bd7cbcee5588846c57",
+      "bytes": 7996
+    },
+    {
+      "path": "workflows/12解决“为什么差异依赖pTau条件化”/code/engine.py",
+      "sha256": "65de6a28af02af546b7450f6d738de0a935eaeb97e6e58a2f4a7ede32b0d7cd9",
+      "bytes": 2889
+    },
+    {
+      "path": "workflows/12解决“为什么差异依赖pTau条件化”/code/make_figures.py",
+      "sha256": "b9a77a14ab0bce27546b29616b4f1a0425a431d11dac5b66ea65f269f9742b57",
+      "bytes": 11397
+    },
+    {
+      "path": "workflows/12解决“为什么差异依赖pTau条件化”/code/prepare.py",
+      "sha256": "69d81cc2c8756a339dbe1897f3f9e3b756c9ba72ae305b3a2e0aea410c5eaa7b",
+      "bytes": 7883
+    },
+    {
+      "path": "workflows/12解决“为什么差异依赖pTau条件化”/code/reproduce_in_copy.py",
+      "sha256": "46ef67eb301637030db12e6ae66df2906e4b93224a1e318f6cbc7f8fb8c85c66",
+      "bytes": 1572
+    },
+    {
+      "path": "workflows/12解决“为什么差异依赖pTau条件化”/code/seal_delivery.py",
+      "sha256": "0f37aec9364d18787729692271b9007c20871358b0e25fd4efc040c70589036d",
+      "bytes": 1632
+    },
+    {
+      "path": "workflows/12解决“为什么差异依赖pTau条件化”/code/toy_and_summary.py",
+      "sha256": "b71e9175556dd1091266d6ad4ebc8a8c7123a022df3bf136e7106b37660f7b9c",
+      "bytes": 3406
+    },
+    {
+      "path": "workflows/12解决“为什么差异依赖pTau条件化”/code/validate_delivery.py",
+      "sha256": "24eda9680d8aa20bc70a3822c52dfd2c9d0fdce16b49856d1531f7075f1245c8",
+      "bytes": 4592
+    },
+    {
+      "path": "workflows/12解决“为什么差异依赖pTau条件化”/code/validate_engine.py",
+      "sha256": "1d822b8f23ae6afb6a647cc3ec9d69ec67c11df3fd6e14f0406e12b06dd1e44b",
+      "bytes": 3516
+    },
+    {
+      "path": "workflows/12解决“为什么差异依赖pTau条件化”/code/validate_science.py",
+      "sha256": "d0307501fecdb37e03c71cef441ded64ad6d9e7d27dc39cebec0d34d9e5c9c3c",
+      "bytes": 9942
+    },
+    {
+      "path": "workflows/12解决“为什么差异依赖pTau条件化”/code/verify_delivery.py",
+      "sha256": "3ee9694dc26a95c789ac075fda3b245390d12981b0b20fa3b0ed0e890c18f356",
+      "bytes": 2245
+    },
+    {
+      "path": "workflows/12解决“为什么差异依赖pTau条件化”/run_all.ps1",
+      "sha256": "21f8fdcdc032d26a82a57232ea2810826cad2bbcd55ecd9892c426e94bb0479c",
+      "bytes": 149
+    },
+    {
+      "path": "workflows/12解决“为什么差异依赖pTau条件化”/STAGE12_PROTOCOL_v1.0.md",
+      "sha256": "6c86ce92ae62a2dc8563aa8075d2e20d673e9735c358c5f58a49d85023b039aa",
+      "bytes": 6827
+    },
+    {
+      "path": "workflows/1候选逐蛋白可评价性审计/code/audit_helpers.py",
+      "sha256": "cf55d7438ba58e061cb57e72856b6806d788a1073da75708e7c99211dffa1541",
+      "bytes": 6838
+    },
+    {
+      "path": "workflows/1候选逐蛋白可评价性审计/code/audit_inputs.py",
+      "sha256": "191b6181200c899b94f4fdeaf14e5c8d1fbdc5ee75d4b8c03a9a82c5e674b559",
+      "bytes": 21196
+    },
+    {
+      "path": "workflows/1候选逐蛋白可评价性审计/code/audit_measurements.py",
+      "sha256": "b38be7ad68ac403a81c967cc09b02c27ba1ba0f26d14722573e9041f0e9c018c",
+      "bytes": 21881
+    },
+    {
+      "path": "workflows/1候选逐蛋白可评价性审计/code/build_deliverables.py",
+      "sha256": "0f596b70cbb5ef32f06b94d6baabd9b4959be284dfa6226b71f2c3c6bad7c9b7",
+      "bytes": 53864
+    },
+    {
+      "path": "workflows/1候选逐蛋白可评价性审计/code/finalize_audit.py",
+      "sha256": "ed77d998d0b522b13473e41d232c87dcf8a17a4d55611cfe03b458ce2c344b80",
+      "bytes": 9329
+    },
+    {
+      "path": "workflows/1候选逐蛋白可评价性审计/code/run_all.ps1",
+      "sha256": "9c182911f84ce21006f44ae116185cfb194145579d889ae48fe70cb4bbccf6b1",
+      "bytes": 380
+    },
+    {
+      "path": "workflows/1候选逐蛋白可评价性审计/code/run_audit.py",
+      "sha256": "7cde73c010bbf538a2b28ce8836f37f6d0a9a1c9498a7ba0a966ed71765b0662",
+      "bytes": 9575
+    },
+    {
+      "path": "workflows/1候选逐蛋白可评价性审计/code/validate_independently.py",
+      "sha256": "bdfcae6bdccb20956803c072a40940468fdca54bd9091e9af48b5bcf6e044471",
+      "bytes": 10682
+    },
+    {
+      "path": "workflows/2候选模型的识别模拟/code/build_simulation_delivery.py",
+      "sha256": "c5ed4168b413d9a2e8a7ed9be201ae2abc83a759aa7734530edf99827d864823",
+      "bytes": 29611
+    },
+    {
+      "path": "workflows/2候选模型的识别模拟/code/candidate_models.py",
+      "sha256": "71d250c9852c76dd016df983efa3862abe406fc801eaf3fc28df2e01169b01c3",
+      "bytes": 7593
+    },
+    {
+      "path": "workflows/2候选模型的识别模拟/code/finalize_delivery.py",
+      "sha256": "726b8b7130cedb44408c5242ed52f0eb1aebcaefd3a1b2d7bb4b257618fcf082",
+      "bytes": 8587
+    },
+    {
+      "path": "workflows/2候选模型的识别模拟/code/parameter_diagnostics.py",
+      "sha256": "0d85e992c8497a9594809bc288ef6019fa8a401f2a6a6cc15205597e819aa2c4",
+      "bytes": 4243
+    },
+    {
+      "path": "workflows/2候选模型的识别模拟/code/run_all.ps1",
+      "sha256": "342172ad3796194668fb8db7ac45d21018f84be77f575577224b8e0619f01ad9",
+      "bytes": 452
+    },
+    {
+      "path": "workflows/2候选模型的识别模拟/code/run_simulations.py",
+      "sha256": "7965b3cdf4cb190b0d02524bd37c2c6ceedbe3efacd4bbe83e201806c4166ff2",
+      "bytes": 6402
+    },
+    {
+      "path": "workflows/2候选模型的识别模拟/code/sim_config.py",
+      "sha256": "fa4afa1acb2b082ef45715a98e4a9e11a314f9913bc8751f96ea87e94b92a59f",
+      "bytes": 6585
+    },
+    {
+      "path": "workflows/2候选模型的识别模拟/code/summarize_simulations.py",
+      "sha256": "71d99ab2887a2d835fb3c1c9256a0a7155a1aee564cd774c449ef3ffe67266c4",
+      "bytes": 6781
+    },
+    {
+      "path": "workflows/2候选模型的识别模拟/code/synthetic_data.py",
+      "sha256": "c9e3c693e6245ca49366378d1794308d13d1bc9e94058eb777f4cd0a198a705e",
+      "bytes": 3540
+    },
+    {
+      "path": "workflows/2候选模型的识别模拟/code/validate_simulations.py",
+      "sha256": "a13753afd13ca4c20983aa73f28e804700b775c6374b8ba6e810b36d963b5889",
+      "bytes": 7001
+    },
+    {
+      "path": "workflows/3有限簇推断校准＋识别假设敏感性验证/code/analyze_calibration.py",
+      "sha256": "61d85a5b8b55ae070612c4a3d186aa538dedc88e3898577d520d7b8759110bf1",
+      "bytes": 3927
+    },
+    {
+      "path": "workflows/3有限簇推断校准＋识别假设敏感性验证/code/bootstrap_resolution.py",
+      "sha256": "676d8b7a2bf70b770b453c4ea069260df047c601fbf74b90a160f555283099df",
+      "bytes": 2204
+    },
+    {
+      "path": "workflows/3有限簇推断校准＋识别假设敏感性验证/code/build_delivery.py",
+      "sha256": "ada485a582d28f4666268d97b06e84e9491782d9687e6bf850fbcae72eb21e7b",
+      "bytes": 25607
+    },
+    {
+      "path": "workflows/3有限簇推断校准＋识别假设敏感性验证/code/cal_config.py",
+      "sha256": "4ae4b08e22bc868ffba1d8fb8de9b884dcc120e2163fe91354201f642985656a",
+      "bytes": 5144
+    },
+    {
+      "path": "workflows/3有限簇推断校准＋识别假设敏感性验证/code/cal_data.py",
+      "sha256": "52b71091f5bf15c69fc224773554b29692fb382c84430341a1c8a3e4ddf42577",
+      "bytes": 2865
+    },
+    {
+      "path": "workflows/3有限簇推断校准＋识别假设敏感性验证/code/cal_inference.py",
+      "sha256": "e6bf109b0644c00e20760787e7d7b6780f699920e764f85eacf0582e10f53dfc",
+      "bytes": 6689
+    },
+    {
+      "path": "workflows/3有限簇推断校准＋识别假设敏感性验证/code/finalize_delivery.py",
+      "sha256": "697174d7c860130c4cf917f33106bb03cb8f7b3d7099c1d7237d16f72769fa56",
+      "bytes": 6308
+    },
+    {
+      "path": "workflows/3有限簇推断校准＋识别假设敏感性验证/code/finish_analysis.py",
+      "sha256": "359e883f8bf24656dc77fee4c14830c512710e76278f881817bc0684d4e25f22",
+      "bytes": 4941
+    },
+    {
+      "path": "workflows/3有限簇推断校准＋识别假设敏感性验证/code/mean_followup.py",
+      "sha256": "f81915e58206ed4d9b34fd24c7d54934f9b31d5d3d44be951419e24b70492877",
+      "bytes": 8472
+    },
+    {
+      "path": "workflows/3有限簇推断校准＋识别假设敏感性验证/code/reference_stage2_data.py",
+      "sha256": "c9e3c693e6245ca49366378d1794308d13d1bc9e94058eb777f4cd0a198a705e",
+      "bytes": 3540
+    },
+    {
+      "path": "workflows/3有限簇推断校准＋识别假设敏感性验证/code/reference_stage2_models.py",
+      "sha256": "71d250c9852c76dd016df983efa3862abe406fc801eaf3fc28df2e01169b01c3",
+      "bytes": 7593
+    },
+    {
+      "path": "workflows/3有限簇推断校准＋识别假设敏感性验证/code/run_all.ps1",
+      "sha256": "8708dbc6df62829366f466deee7da7d94c8b8f2dca865a12f86f45349ef4b82f",
+      "bytes": 1270
+    },
+    {
+      "path": "workflows/3有限簇推断校准＋识别假设敏感性验证/code/run_calibration.py",
+      "sha256": "820ed330d259dde9377437d260d1dd1a5a98623fdeb851400951a57aacb2bb73",
+      "bytes": 5756
+    },
+    {
+      "path": "workflows/3有限簇推断校准＋识别假设敏感性验证/code/sim_config.py",
+      "sha256": "c5e5bd2f9ba296a0e1347dc74056fd12a7fc31907ae19e7ce3c1c93271f811b4",
+      "bytes": 130
+    },
+    {
+      "path": "workflows/3有限簇推断校准＋识别假设敏感性验证/code/validate_completed.py",
+      "sha256": "ab1fbadca0b7c17852c655f031779ed410e2aa402c587d5a4fc8614ebb9c88b7",
+      "bytes": 8200
+    },
+    {
+      "path": "workflows/3有限簇推断校准＋识别假设敏感性验证/code/validate_mean_preflight.py",
+      "sha256": "cb37417d710b4d9c76992a1757be75058ac77196f1960a0b112bae30638f3e48",
+      "bytes": 2030
+    },
+    {
+      "path": "workflows/3有限簇推断校准＋识别假设敏感性验证/code/validate_preflight.py",
+      "sha256": "9317168a0456668ff50bddfa3e9a288ba4d9f142e8b75bff5a55a78ec7ee15e7",
+      "bytes": 3211
+    },
+    {
+      "path": "workflows/4真实预处理规则决策＋独立病理和认知覆盖审计/code/audit_common.py",
+      "sha256": "0e58f35d654103d8ce4157318590f82782a79d641bd1514956d30556cf31cff7",
+      "bytes": 6620
+    },
+    {
+      "path": "workflows/4真实预处理规则决策＋独立病理和认知覆盖审计/code/build_deliverables.py",
+      "sha256": "d20ebe24122176f2bb4f62aa33b63f053445e481f96731a2635371e73b7775c9",
+      "bytes": 34961
+    },
+    {
+      "path": "workflows/4真实预处理规则决策＋独立病理和认知覆盖审计/code/clinical_reduce.py",
+      "sha256": "70e25686487acbfc659748f5ac7e5c20c1bd9a24fe844f9fb7f2eaec5d8da6bd",
+      "bytes": 7904
+    },
+    {
+      "path": "workflows/4真实预处理规则决策＋独立病理和认知覆盖审计/code/covariate_reduce.py",
+      "sha256": "45ca2ca42b0b1edd861d00ba93be18901e173b338fe0c8334ebe7bd32b3235dc",
+      "bytes": 6206
+    },
+    {
+      "path": "workflows/4真实预处理规则决策＋独立病理和认知覆盖审计/code/finalize_audit.py",
+      "sha256": "148d5cf00fa5a1c142e4daa3f10c59b50a1a5a734b3a31560279db6461751d94",
+      "bytes": 5013
+    },
+    {
+      "path": "workflows/4真实预处理规则决策＋独立病理和认知覆盖审计/code/inspect_formats.py",
+      "sha256": "b20dd6002ae6cef6fbc6b02d8908a9fcf4932f6c66228019a6394e33c995ba55",
+      "bytes": 617
+    },
+    {
+      "path": "workflows/4真实预处理规则决策＋独立病理和认知覆盖审计/code/inspect_inputs.py",
+      "sha256": "68c6e8de420f139ea0ba9f0162b64ec7210f1b40f9b84e8da5885744cc84911f",
+      "bytes": 1919
+    },
+    {
+      "path": "workflows/4真实预处理规则决策＋独立病理和认知覆盖审计/code/inspect_metadata.py",
+      "sha256": "e3e988fb67d8216028e88fe0182bfdceadd04c352b2b6c6e9518e0b266fabf2b",
+      "bytes": 1279
+    },
+    {
+      "path": "workflows/4真实预处理规则决策＋独立病理和认知覆盖审计/code/inspect_methods.py",
+      "sha256": "ae9be5f4743646272cef4eb953f88968e4f652765b654b60b3e0088f6bcc6a4d",
+      "bytes": 3537
+    },
+    {
+      "path": "workflows/4真实预处理规则决策＋独立病理和认知覆盖审计/code/inspect_stage1_flags.py",
+      "sha256": "af4779755abdb4a7708d419b9375e8595e73cc1e2c49d1d37c575f5c786664c8",
+      "bytes": 411
+    },
+    {
+      "path": "workflows/4真实预处理规则决策＋独立病理和认知覆盖审计/code/prepare_tables.py",
+      "sha256": "f0a8ead916973293d9273ae4b8e3092aa1f513bd4af54431195f1171c20f32c0",
+      "bytes": 69
+    },
+    {
+      "path": "workflows/4真实预处理规则决策＋独立病理和认知覆盖审计/code/protein_coverage.py",
+      "sha256": "34aa330ea046225eff56b16b4f8a387e56c8ce2ab3b347a3c66ba371aaf4f98f",
+      "bytes": 6808
+    },
+    {
+      "path": "workflows/4真实预处理规则决策＋独立病理和认知覆盖审计/code/run_all.ps1",
+      "sha256": "33f5fa84c21a529f22e87719670309bd27ccdf1d76bb653ba562ad04b0c9db9c",
+      "bytes": 1736
+    },
+    {
+      "path": "workflows/4真实预处理规则决策＋独立病理和认知覆盖审计/code/run_coverage.py",
+      "sha256": "1ca1c9c3e547d336f7f779b222bfb0fa7589e8fafb1a98a10feb90c46807b060",
+      "bytes": 10432
+    },
+    {
+      "path": "workflows/4真实预处理规则决策＋独立病理和认知覆盖审计/code/supplement_coverage.py",
+      "sha256": "93421afb4a39ce420209fd31f75edfbfd8c18abad6de9cd96ed7c537926064cb",
+      "bytes": 2930
+    },
+    {
+      "path": "workflows/4真实预处理规则决策＋独立病理和认知覆盖审计/code/validate_independently.py",
+      "sha256": "6a6ff63e825ee78a16f15a14627071a6b7d363b9a1fb0b945cd81d965c71ee77",
+      "bytes": 10684
+    },
+    {
+      "path": "workflows/5真实设计下完整模型校准＋逐蛋白功效与主分析/code/analyze_main.py",
+      "sha256": "91af8898451a05ac09c6f80f0d91d005038296650e5ad7afdf251a20b015768b",
+      "bytes": 6212
+    },
+    {
+      "path": "workflows/5真实设计下完整模型校准＋逐蛋白功效与主分析/code/build_delivery.py",
+      "sha256": "c2225438237f86e11637cf50d7f00bd1898919a96ed29aa52aa2b91062543856",
+      "bytes": 32652
+    },
+    {
+      "path": "workflows/5真实设计下完整模型校准＋逐蛋白功效与主分析/code/calibration_decision.py",
+      "sha256": "f93a9d78e22b7a113e58ac0f03b69bf80931a041ff77ed114a87bbfa4e199f47",
+      "bytes": 3691
+    },
+    {
+      "path": "workflows/5真实设计下完整模型校准＋逐蛋白功效与主分析/code/config.py",
+      "sha256": "9e93f63d4f9d132d17611f07aa6e7b4967b8da4c4523fedc6328fbe60da6b7e2",
+      "bytes": 2030
+    },
+    {
+      "path": "workflows/5真实设计下完整模型校准＋逐蛋白功效与主分析/code/diagnostics.py",
+      "sha256": "5451c0148352efb1c0f09bbb580f559cf72a7efc1575708880da2f5c54e27a6f",
+      "bytes": 2934
+    },
+    {
+      "path": "workflows/5真实设计下完整模型校准＋逐蛋白功效与主分析/code/finalize_delivery.py",
+      "sha256": "c536b19766fc680804792531bf32cf01b50a62182c8f8ffc4c4dd195c779dd90",
+      "bytes": 4792
+    },
+    {
+      "path": "workflows/5真实设计下完整模型校准＋逐蛋白功效与主分析/code/freeze_design.py",
+      "sha256": "e3479ec3c4426f4be74b27efddc5d40e0b453ea547ebe1a803e9c9e18df13f71",
+      "bytes": 2784
+    },
+    {
+      "path": "workflows/5真实设计下完整模型校准＋逐蛋白功效与主分析/code/freeze_variants.py",
+      "sha256": "e5be76cfb64332064cddb08552997fb85e04f653774ec0badb15195850f3bb23",
+      "bytes": 1879
+    },
+    {
+      "path": "workflows/5真实设计下完整模型校准＋逐蛋白功效与主分析/code/load_proteins.py",
+      "sha256": "5199db3fb96dd3e2cac9e0ece8d015c1dfc810da0dbc6c27aac5605afac46594",
+      "bytes": 5341
+    },
+    {
+      "path": "workflows/5真实设计下完整模型校准＋逐蛋白功效与主分析/code/model.py",
+      "sha256": "e64277d5a9d4bc3be5d982201faaca8e4fc5449b01f1e824d96ff05b33207b56",
+      "bytes": 4412
+    },
+    {
+      "path": "workflows/5真实设计下完整模型校准＋逐蛋白功效与主分析/code/post_analysis_diagnostics.py",
+      "sha256": "55c4fd067170db1006a806705fbd05ebce186dcc18fccea4b2c194a707a150b0",
+      "bytes": 3963
+    },
+    {
+      "path": "workflows/5真实设计下完整模型校准＋逐蛋白功效与主分析/code/prepare_design.py",
+      "sha256": "cd46492d93b8f30828e9374971f83ba1c8934923d2f60026039e025132f3e954",
+      "bytes": 7100
+    },
+    {
+      "path": "workflows/5真实设计下完整模型校准＋逐蛋白功效与主分析/code/prepare_variants.py",
+      "sha256": "901d6513662da731109be72f1af283f26ef567829b05421a4237566ce1c73612",
+      "bytes": 2824
+    },
+    {
+      "path": "workflows/5真实设计下完整模型校准＋逐蛋白功效与主分析/code/run_all.ps1",
+      "sha256": "ea3985bcb98c6c0daf5fe0e0e75e677f91dad77cd43450c51b21edad0ac9f62f",
+      "bytes": 1790
+    },
+    {
+      "path": "workflows/5真实设计下完整模型校准＋逐蛋白功效与主分析/code/run_variants.py",
+      "sha256": "b20cd90b082c5856a087917c8c799d3ff295374bdf3661eea9d5709eda3d6141",
+      "bytes": 887
+    },
+    {
+      "path": "workflows/5真实设计下完整模型校准＋逐蛋白功效与主分析/code/simulation.py",
+      "sha256": "cab9280cac7a70d677bae2c0af003b1d11acb28f56b7b874e5adbcac853237dd",
+      "bytes": 5906
+    },
+    {
+      "path": "workflows/5真实设计下完整模型校准＋逐蛋白功效与主分析/code/stress_analysis.py",
+      "sha256": "ef7b3ea4761e6d0aa802ee41655fce44a8b5f5418942200ef83d6a5cae43e392",
+      "bytes": 2408
+    },
+    {
+      "path": "workflows/5真实设计下完整模型校准＋逐蛋白功效与主分析/code/summarize_power.py",
+      "sha256": "7f01733bcac6822ad33579e53c74dd9183cea8259435abd0d4d071ace08bf543",
+      "bytes": 2539
+    },
+    {
+      "path": "workflows/5真实设计下完整模型校准＋逐蛋白功效与主分析/code/validate_completed.py",
+      "sha256": "a77bced610d955e37e37434ac5a833247f5a1062a6d2e436cd8fd963555c9b76",
+      "bytes": 7809
+    },
+    {
+      "path": "workflows/5真实设计下完整模型校准＋逐蛋白功效与主分析/code/validate_diagnostics.py",
+      "sha256": "a2ea461564bded3742d4f3abc1bc24c8a02a0f4e1d125ddb9acbd17dbc0be957",
+      "bytes": 1339
+    },
+    {
+      "path": "workflows/5真实设计下完整模型校准＋逐蛋白功效与主分析/code/validate_preflight.py",
+      "sha256": "af874b74e91959803ca77f84b2bcb771e9795fa27755dba6297247f83a6c67e7",
+      "bytes": 3163
+    },
+    {
+      "path": "workflows/5真实设计下完整模型校准＋逐蛋白功效与主分析/code/verify_reproducibility.py",
+      "sha256": "f6fdef05f2ae8b1d8b7a47f382a382d8568fab15cf66d0db971202211110aecc",
+      "bytes": 1715
+    },
+    {
+      "path": "workflows/5真实设计下完整模型校准＋逐蛋白功效与主分析/code/verify_sources.py",
+      "sha256": "fa238c53aca1fa2521a38927b6e52f78d4524ac2298362f4cfb36039fdff71de",
+      "bytes": 643
+    },
+    {
+      "path": "workflows/5真实设计下完整模型校准＋逐蛋白功效与主分析/STAGE5_PROTOCOL_v1.0.md",
+      "sha256": "9cd77735d2a2336dd77241b2a690c7602a9659b28f336f1b6784070d46d47b51",
+      "bytes": 7262
+    },
+    {
+      "path": "workflows/6候选信号归因＋分子映射与正交验证/code/analyze_equivalence.py",
+      "sha256": "cfc99a050c93683a57362c54bae8ed0b2a3e5127e9d9f44baacb49ba4ddd2260",
+      "bytes": 2989
+    },
+    {
+      "path": "workflows/6候选信号归因＋分子映射与正交验证/code/analyze_legacy.py",
+      "sha256": "65b31d25ba0cde2e2bc127e552fe6cd8fcd9299c67b37adb600d5c0eefbe75b6",
+      "bytes": 3805
+    },
+    {
+      "path": "workflows/6候选信号归因＋分子映射与正交验证/code/analyze_support.py",
+      "sha256": "df02dc97ddec469f09ac3be2c70ca4578d520ba0a64842abf9354a05ae7fdf18",
+      "bytes": 5222
+    },
+    {
+      "path": "workflows/6候选信号归因＋分子映射与正交验证/code/attribution.py",
+      "sha256": "e51c2ae7ec7b5c57ddfd26cfca2f4922c94650795128dcec2c3c8625de772efb",
+      "bytes": 5768
+    },
+    {
+      "path": "workflows/6候选信号归因＋分子映射与正交验证/code/build_report.py",
+      "sha256": "fb34d68a346e8dc15e72090f7ea69449d6b9e21b377fc94adc60989e70f6719b",
+      "bytes": 19828
+    },
+    {
+      "path": "workflows/6候选信号归因＋分子映射与正交验证/code/build_workbook.py",
+      "sha256": "4782e6d3257067e534b278220fbd7d5b80227c7b9a0d7555a6b4cf0c825ad8f4",
+      "bytes": 5275
+    },
+    {
+      "path": "workflows/6候选信号归因＋分子映射与正交验证/code/calibrate_attribution.py",
+      "sha256": "c439f2c415d73910c65d2bf36bff09769368d9c109cc81a69a656ae3e87d013f",
+      "bytes": 1425
+    },
+    {
+      "path": "workflows/6候选信号归因＋分子映射与正交验证/code/calibrate_equivalence.py",
+      "sha256": "745f823b076166ef9ac78301670b87bc344c3380bc02f7b552995a250373bb83",
+      "bytes": 2350
+    },
+    {
+      "path": "workflows/6候选信号归因＋分子映射与正交验证/code/calibrate_legacy.py",
+      "sha256": "069d22e39c93f9abfd4d8322c97928d59bb77201966ea63006599838ee92037f",
+      "bytes": 3245
+    },
+    {
+      "path": "workflows/6候选信号归因＋分子映射与正交验证/code/calibrate_support.py",
+      "sha256": "5fd30a63614fe5ca562e4eea28fb3d8a7427d1171644a9168e8f3c7464c34f12",
+      "bytes": 1284
+    },
+    {
+      "path": "workflows/6候选信号归因＋分子映射与正交验证/code/check_legacy_rank.py",
+      "sha256": "26833d2014ecdce86d5c84f17285abba2c0f415bdafe582e8fa82bccb4802314",
+      "bytes": 1393
+    },
+    {
+      "path": "workflows/6候选信号归因＋分子映射与正交验证/code/config.py",
+      "sha256": "7de23b16c9eb3f7b5373a995ab42166cbda1b83e32e7d732f78a8a292344b2f8",
+      "bytes": 2148
+    },
+    {
+      "path": "workflows/6候选信号归因＋分子映射与正交验证/code/delivery_qa.py",
+      "sha256": "176a40499076828c15a631eacbca65cac77958dc5335bfc1a4075ba3fa1a999f",
+      "bytes": 4255
+    },
+    {
+      "path": "workflows/6候选信号归因＋分子映射与正交验证/code/designs.py",
+      "sha256": "85bf5ff77c378d0c0234ca84491cae8567ce25ea5e638a3266604c8458e8129c",
+      "bytes": 1603
+    },
+    {
+      "path": "workflows/6候选信号归因＋分子映射与正交验证/code/diagnostics.py",
+      "sha256": "5451c0148352efb1c0f09bbb580f559cf72a7efc1575708880da2f5c54e27a6f",
+      "bytes": 2934
+    },
+    {
+      "path": "workflows/6候选信号归因＋分子映射与正交验证/code/download_uniprot.py",
+      "sha256": "7a9d9468cde37c3dd3c49c3e5ed57665711a29c89cc2ece3c9ed04c1fd9a298b",
+      "bytes": 1106
+    },
+    {
+      "path": "workflows/6候选信号归因＋分子映射与正交验证/code/equivalence.py",
+      "sha256": "d42302bd0dfc09ac486667d268337b0d815e817f5081e46898c79492c2deff58",
+      "bytes": 2574
+    },
+    {
+      "path": "workflows/6候选信号归因＋分子映射与正交验证/code/extract_published_qc.py",
+      "sha256": "8f4903f6eb7db1c98fc815381a29ffcf5f291fdc05a586940cc780c33065014c",
+      "bytes": 1554
+    },
+    {
+      "path": "workflows/6候选信号归因＋分子映射与正交验证/code/finalize_evidence.py",
+      "sha256": "ce483ea55a98c44510dd979a32766d700ade7f95f21e9f115fb2ff27b7be157a",
+      "bytes": 6590
+    },
+    {
+      "path": "workflows/6候选信号归因＋分子映射与正交验证/code/four_assay.py",
+      "sha256": "bcde0b7c783f6d05be179a884799389bb7a7d142216e025f8d0000d0aa736c85",
+      "bytes": 7501
+    },
+    {
+      "path": "workflows/6候选信号归因＋分子映射与正交验证/code/four_direction_boundary.py",
+      "sha256": "2a9b1e2f492d12fc9f80ca5b6ef3607b838a1052a7970ca768d3c8aa0ec1a2b0",
+      "bytes": 2836
+    },
+    {
+      "path": "workflows/6候选信号归因＋分子映射与正交验证/code/inspect_legacy.py",
+      "sha256": "bcf148b7aa07226f53fff321e5cdbce5a4500e59532d1fa4da78783e3fc55974",
+      "bytes": 2843
+    },
+    {
+      "path": "workflows/6候选信号归因＋分子映射与正交验证/code/inspect_sources.py",
+      "sha256": "2624c0d7e60a48e49684b64993d3e90978ae726f80a0d53c486bc2757828a1ce",
+      "bytes": 3928
+    },
+    {
+      "path": "workflows/6候选信号归因＋分子映射与正交验证/code/legacy_assay.py",
+      "sha256": "4417e0e18149cbd72439d6562eadf3ddf1c2fd87ac29e97b0b19e804038a1666",
+      "bytes": 961
+    },
+    {
+      "path": "workflows/6候选信号归因＋分子映射与正交验证/code/legacy_designs.py",
+      "sha256": "0b22d257f85aec2056cf69569b24300163e9ad6f3afa8a86e55059b7dcda0169",
+      "bytes": 8739
+    },
+    {
+      "path": "workflows/6候选信号归因＋分子映射与正交验证/code/legacy_metadata.py",
+      "sha256": "e20c3f40f72ae8e4c4d6b9757db2e8755e095ed3e0c0ccce8eeabf4933840752",
+      "bytes": 4610
+    },
+    {
+      "path": "workflows/6候选信号归因＋分子映射与正交验证/code/load_legacy_values.py",
+      "sha256": "455de2e15f3685f3b7f471c11786b038bc057044c55ca01d01eea51d749ff3c9",
+      "bytes": 2281
+    },
+    {
+      "path": "workflows/6候选信号归因＋分子映射与正交验证/code/load_targeted_values.py",
+      "sha256": "731b9ffe38dbc6869e28495e4ce46c7fa074a35c4210e1fb93572a774b8e036a",
+      "bytes": 4237
+    },
+    {
+      "path": "workflows/6候选信号归因＋分子映射与正交验证/code/make_figures.py",
+      "sha256": "400f4e81db511424f7f4595179aa7808023e90ad0b3adb934ff83aa618bcea0e",
+      "bytes": 13372
+    },
+    {
+      "path": "workflows/6候选信号归因＋分子映射与正交验证/code/model.py",
+      "sha256": "e64277d5a9d4bc3be5d982201faaca8e4fc5449b01f1e824d96ff05b33207b56",
+      "bytes": 4412
+    },
+    {
+      "path": "workflows/6候选信号归因＋分子映射与正交验证/code/molecular_mapping.py",
+      "sha256": "1059b4cb30ead4b1068bb151604733bb8f8a6b007fe055667e30d43a18596328",
+      "bytes": 4863
+    },
+    {
+      "path": "workflows/6候选信号归因＋分子映射与正交验证/code/multiplicity_attribution.py",
+      "sha256": "72676d9418e4096e5b91be3bfce8694a1bbcab722485128e6342f8a2037b6fe0",
+      "bytes": 1226
+    },
+    {
+      "path": "workflows/6候选信号归因＋分子映射与正交验证/code/prepare_targeted_design.py",
+      "sha256": "886ca5ed8066d6429316f7751254e20040261237da7eabe7ad54821cdd152c81",
+      "bytes": 10304
+    },
+    {
+      "path": "workflows/6候选信号归因＋分子映射与正交验证/code/reference_peptide_uniqueness.py",
+      "sha256": "9d7428389eb334dae0375c3397492ef1d59aab55ae3cd0760a893402f0bda5b0",
+      "bytes": 4382
+    },
+    {
+      "path": "workflows/6候选信号归因＋分子映射与正交验证/code/reproduce_results.py",
+      "sha256": "9ca80495c5958b6291ebe7c5e7b1d85e684397fcfad2213c8dd8c9158e473deb",
+      "bytes": 1897
+    },
+    {
+      "path": "workflows/6候选信号归因＋分子映射与正交验证/code/run_all.ps1",
+      "sha256": "3a80fd8a7e6b825327e1b4d35b927120e36b8c5f05480e56452c73d79d93df1b",
+      "bytes": 716
+    },
+    {
+      "path": "workflows/6候选信号归因＋分子映射与正交验证/code/seal_delivery.py",
+      "sha256": "c1438209d24d8d21ad78d1563403921a5c848210b729fb69f65cb36d6955b522",
+      "bytes": 2415
+    },
+    {
+      "path": "workflows/6候选信号归因＋分子映射与正交验证/code/simulation_reference.py",
+      "sha256": "cab9280cac7a70d677bae2c0af003b1d11acb28f56b7b874e5adbcac853237dd",
+      "bytes": 5906
+    },
+    {
+      "path": "workflows/6候选信号归因＋分子映射与正交验证/code/targeted_inventory.py",
+      "sha256": "63e5a43813d8b2795da60843a64bf531e9ba540aa29bc2b52407fdbabb839699",
+      "bytes": 6862
+    },
+    {
+      "path": "workflows/6候选信号归因＋分子映射与正交验证/code/validate_legacy.py",
+      "sha256": "a47ad5391e88f0cf6526c7bf635fe73cde81ebda29a3999fda26c3cf76e82e8e",
+      "bytes": 8512
+    },
+    {
+      "path": "workflows/6候选信号归因＋分子映射与正交验证/code/validate_stage6.py",
+      "sha256": "8cdf82248e0270c6b7813d7f4c69e7739c7392acc51003f6eafd17141d68a90e",
+      "bytes": 16452
+    },
+    {
+      "path": "workflows/6候选信号归因＋分子映射与正交验证/code/verify_delivery.py",
+      "sha256": "2c650b5cd0f3d1a6ee179aef5c260fa48c141cf49a2c1d3949fa18f9555fb750",
+      "bytes": 1275
+    },
+    {
+      "path": "workflows/6候选信号归因＋分子映射与正交验证/STAGE6_PROTOCOL_v1.0.md",
+      "sha256": "dcae55125c4cbd480d94e1cd6b0556f99457c8192e94eb90ab7df893d0068d58",
+      "bytes": 4744
+    },
+    {
+      "path": "workflows/7共识证据信息量评估＋验证缺口审计＋论文结论定界/code/analyze_power.py",
+      "sha256": "2981d11027558daf30ebf3402facd3908c5e9d964ce8cf4e4d05c199d4e0910a",
+      "bytes": 5991
+    },
+    {
+      "path": "workflows/7共识证据信息量评估＋验证缺口审计＋论文结论定界/code/audit_external_annotations.py",
+      "sha256": "6b2837d072952da92ba55fc3b7be18a9f53e287e64db55a88166c8e5febf80fa",
+      "bytes": 3275
+    },
+    {
+      "path": "workflows/7共识证据信息量评估＋验证缺口审计＋论文结论定界/code/audit_local_metadata.py",
+      "sha256": "85c3ba976d25b68d6ba91b49da7723425e8581916a971da31450131470a5bd75",
+      "bytes": 3431
+    },
+    {
+      "path": "workflows/7共识证据信息量评估＋验证缺口审计＋论文结论定界/code/bootstrap.py",
+      "sha256": "0efa9e0924fb400227fabdec6fb59c30f9ffdee8c29865507ac5058bb97a4cff",
+      "bytes": 2254
+    },
+    {
+      "path": "workflows/7共识证据信息量评估＋验证缺口审计＋论文结论定界/code/build_delivery.py",
+      "sha256": "8243836f274b7e77c5df0045c4f9d056ebe94423c3b1088a88eb086d4307b768",
+      "bytes": 26541
+    },
+    {
+      "path": "workflows/7共识证据信息量评估＋验证缺口审计＋论文结论定界/code/build_gap_registry.py",
+      "sha256": "ded2a43051672f61e098eb7c8de2ab8acd105d5ac404b201217130afeae3e94b",
+      "bytes": 7706
+    },
+    {
+      "path": "workflows/7共识证据信息量评估＋验证缺口审计＋论文结论定界/code/close_2014_identity.py",
+      "sha256": "7b32fb8f5b8d1d13e7d49bd938c2f3a1b9a07ed88c3411c4a8c591e29b40fdcc",
+      "bytes": 7566
+    },
+    {
+      "path": "workflows/7共识证据信息量评估＋验证缺口审计＋论文结论定界/code/config.py",
+      "sha256": "27f5cb85e7709b8ab90fab84ac3122501c11db36fef77bbc3916e5dc49c6dd17",
+      "bytes": 2446
+    },
+    {
+      "path": "workflows/7共识证据信息量评估＋验证缺口审计＋论文结论定界/code/designs.py",
+      "sha256": "85bf5ff77c378d0c0234ca84491cae8567ce25ea5e638a3266604c8458e8129c",
+      "bytes": 1603
+    },
+    {
+      "path": "workflows/7共识证据信息量评估＋验证缺口审计＋论文结论定界/code/diagnostics.py",
+      "sha256": "5451c0148352efb1c0f09bbb580f559cf72a7efc1575708880da2f5c54e27a6f",
+      "bytes": 2934
+    },
+    {
+      "path": "workflows/7共识证据信息量评估＋验证缺口审计＋论文结论定界/code/equivalence.py",
+      "sha256": "d42302bd0dfc09ac486667d268337b0d815e817f5081e46898c79492c2deff58",
+      "bytes": 2574
+    },
+    {
+      "path": "workflows/7共识证据信息量评估＋验证缺口审计＋论文结论定界/code/information_audit.py",
+      "sha256": "d9999c2b53d575ca30f1bd74f0e8d313d94d4b66a73b0a7239efa4e6a05fcd49",
+      "bytes": 8031
+    },
+    {
+      "path": "workflows/7共识证据信息量评估＋验证缺口审计＋论文结论定界/code/inspect_2014_keys.py",
+      "sha256": "a922f74d80cc98e52f28dce285e52ca76caa0c4f08751f4987cb7767d3895d26",
+      "bytes": 1254
+    },
+    {
+      "path": "workflows/7共识证据信息量评估＋验证缺口审计＋论文结论定界/code/make_figures.py",
+      "sha256": "664ea477e545dda0c323e9b77f090c7fb9d45307dec6e9fafaf9fde61916a32c",
+      "bytes": 12802
+    },
+    {
+      "path": "workflows/7共识证据信息量评估＋验证缺口审计＋论文结论定界/code/model.py",
+      "sha256": "e64277d5a9d4bc3be5d982201faaca8e4fc5449b01f1e824d96ff05b33207b56",
+      "bytes": 4412
+    },
+    {
+      "path": "workflows/7共识证据信息量评估＋验证缺口审计＋论文结论定界/code/power_engine.py",
+      "sha256": "835498bb9abc5e51c5d2fa21e21d1e067bfec1cde08bd168d05683fafd509556",
+      "bytes": 3542
+    },
+    {
+      "path": "workflows/7共识证据信息量评估＋验证缺口审计＋论文结论定界/code/profile_release_precision.py",
+      "sha256": "4d6707087b7cedec2ff5458e33d1913c209b3169e599ff9b2823fc8662b2024d",
+      "bytes": 1066
+    },
+    {
+      "path": "workflows/7共识证据信息量评估＋验证缺口审计＋论文结论定界/code/resolve_2014_crosswalk.py",
+      "sha256": "3271305b54666f50c616870e4511a40a4184eaf3fa78f01fda70b4afcf8c3fbc",
+      "bytes": 7579
+    },
+    {
+      "path": "workflows/7共识证据信息量评估＋验证缺口审计＋论文结论定界/code/resolve_release_identity.py",
+      "sha256": "27874ee1dc6ef9a368db4958aa0246b52119cdfabd0fa1f4394d3bd0b53bd35e",
+      "bytes": 2668
+    },
+    {
+      "path": "workflows/7共识证据信息量评估＋验证缺口审计＋论文结论定界/code/run_all.ps1",
+      "sha256": "7b1b7646269f7f4b1333de13ae0b1212670a2e586034bfd1329d4c5bdc6ebdd3",
+      "bytes": 161
+    },
+    {
+      "path": "workflows/7共识证据信息量评估＋验证缺口审计＋论文结论定界/code/run_power.py",
+      "sha256": "7923b07a2fa9d004e76db1d4e5978e33e808c95c5865ac31c1545425425e21e1",
+      "bytes": 4063
+    },
+    {
+      "path": "workflows/7共识证据信息量评估＋验证缺口审计＋论文结论定界/code/seal_delivery.py",
+      "sha256": "136cc2c488a0b803c7091bdecb4a553df5eb57d686de12a6b0c0642f4eee1ea4",
+      "bytes": 2394
+    },
+    {
+      "path": "workflows/7共识证据信息量评估＋验证缺口审计＋论文结论定界/code/validate_delivery.py",
+      "sha256": "5927af3ff2ab3085e2d54fd49696d455956a10922f81af64a055df44ce333a8c",
+      "bytes": 6214
+    },
+    {
+      "path": "workflows/7共识证据信息量评估＋验证缺口审计＋论文结论定界/code/validate_engine.py",
+      "sha256": "77865558f4f23688656f4828fcbe0862f51b99b66753c7c272a001228f8b8fac",
+      "bytes": 2923
+    },
+    {
+      "path": "workflows/7共识证据信息量评估＋验证缺口审计＋论文结论定界/code/validate_stage7.py",
+      "sha256": "52d49645b597a73dd586a67c6c75a846969e3f706a0a68fb1e4686c6f9e7b207",
+      "bytes": 11619
+    },
+    {
+      "path": "workflows/7共识证据信息量评估＋验证缺口审计＋论文结论定界/code/verify_delivery.py",
+      "sha256": "3183212b4ec2888fb8146f065151008dd9f358dfe28539a6379c678c8d6846c9",
+      "bytes": 1584
+    },
+    {
+      "path": "workflows/7共识证据信息量评估＋验证缺口审计＋论文结论定界/STAGE7_PROTOCOL_v1.0.md",
+      "sha256": "3c06795253b09fcd4fa92cef8082b9d63c8eb15b38530d196b26eb7f3fd4e284",
+      "bytes": 4683
+    },
+    {
+      "path": "workflows/8三检测同向病理关联联合检验/code/analyze_real.py",
+      "sha256": "4f736e89f662b4b1f29f6f6540b82ba4a435ef02f68fedf88e09115917ce978a",
+      "bytes": 9953
+    },
+    {
+      "path": "workflows/8三检测同向病理关联联合检验/code/analyze_simulation.py",
+      "sha256": "463b6cee870cc2d2d8aec289584fa09a31b2248178bc6f844cb0b7911f5a765f",
+      "bytes": 3093
+    },
+    {
+      "path": "workflows/8三检测同向病理关联联合检验/code/bootstrap.py",
+      "sha256": "0db53601a00324c55c57725bcf630c63d839a04b369c94b48d4fab421d2a6999",
+      "bytes": 2362
+    },
+    {
+      "path": "workflows/8三检测同向病理关联联合检验/code/build_delivery.py",
+      "sha256": "f7b51679ca471afd6b249ccd61bb6b9efc82758ffe82076781f60b7a71d877c9",
+      "bytes": 19088
+    },
+    {
+      "path": "workflows/8三检测同向病理关联联合检验/code/config.py",
+      "sha256": "f8a78223bc6198aa40b507589bb79a16002915141c2aac3823f480ebe0a77e02",
+      "bytes": 3370
+    },
+    {
+      "path": "workflows/8三检测同向病理关联联合检验/code/designs.py",
+      "sha256": "85bf5ff77c378d0c0234ca84491cae8567ce25ea5e638a3266604c8458e8129c",
+      "bytes": 1603
+    },
+    {
+      "path": "workflows/8三检测同向病理关联联合检验/code/diagnostics.py",
+      "sha256": "5451c0148352efb1c0f09bbb580f559cf72a7efc1575708880da2f5c54e27a6f",
+      "bytes": 2934
+    },
+    {
+      "path": "workflows/8三检测同向病理关联联合检验/code/engine.py",
+      "sha256": "b9a7a8686a944f3399fb6e5dd1de11c017e9f76a7c60c2bfa3badc2f41440e8d",
+      "bytes": 2577
+    },
+    {
+      "path": "workflows/8三检测同向病理关联联合检验/code/freeze_engine.py",
+      "sha256": "ae805c45c5336dd12e8f03fa79abe6e8238a3882df96eca57c4e47e02af35b59",
+      "bytes": 771
+    },
+    {
+      "path": "workflows/8三检测同向病理关联联合检验/code/make_figures.py",
+      "sha256": "8637bad4df180b43392ea5abf938818e6b3dfaac1b5ca442a913b1c3efef23d7",
+      "bytes": 11574
+    },
+    {
+      "path": "workflows/8三检测同向病理关联联合检验/code/model.py",
+      "sha256": "e64277d5a9d4bc3be5d982201faaca8e4fc5449b01f1e824d96ff05b33207b56",
+      "bytes": 4412
+    },
+    {
+      "path": "workflows/8三检测同向病理关联联合检验/code/prepare_templates.py",
+      "sha256": "61594b57e59e67cf2d210817446309425cf691bbe8b964ee4e358deb6f232c5c",
+      "bytes": 2189
+    },
+    {
+      "path": "workflows/8三检测同向病理关联联合检验/code/run_all.ps1",
+      "sha256": "f59a77cf529f3a9bfdf3b2c22f057db8a4857c7618205eca5166e8a1eda930e5",
+      "bytes": 115
+    },
+    {
+      "path": "workflows/8三检测同向病理关联联合检验/code/run_simulations.py",
+      "sha256": "e311b6df906d22c221d958eda23fe6d3ceca8c559d80cef5df14d258583d8dfd",
+      "bytes": 4466
+    },
+    {
+      "path": "workflows/8三检测同向病理关联联合检验/code/seal_delivery.py",
+      "sha256": "9a0e23fe104ddfaadbfd4a8c960fd0826e358225bba28c734606336b48b43450",
+      "bytes": 1931
+    },
+    {
+      "path": "workflows/8三检测同向病理关联联合检验/code/validate_delivery.py",
+      "sha256": "4e73632e3158f0232a683e7ef4d2fcddb716ed804370bc7f8a33cf7e4a1ca4ba",
+      "bytes": 6122
+    },
+    {
+      "path": "workflows/8三检测同向病理关联联合检验/code/validate_engine.py",
+      "sha256": "ecbae776123bb50d0da85b7aba8e6435bac8f3c5e6a5b718e2ba311cec24c8a9",
+      "bytes": 2736
+    },
+    {
+      "path": "workflows/8三检测同向病理关联联合检验/code/validate_science.py",
+      "sha256": "9c6e74f5761c942807eb73391a11cb1fbc0666a18091c810d5627e80e50f5c3e",
+      "bytes": 9390
+    },
+    {
+      "path": "workflows/8三检测同向病理关联联合检验/code/verify_delivery.py",
+      "sha256": "c9288ae624524d98a727b29f1a73a0af3fa6d5f1bc54dabee143c58bf1b6aba0",
+      "bytes": 1412
+    },
+    {
+      "path": "workflows/8三检测同向病理关联联合检验/STAGE8_PROTOCOL_v1.0.md",
+      "sha256": "2d765442c7ea5a3689c41a2e635598e08522cc38181c8057aa3c6d5d10fc0ae7",
+      "bytes": 5019
+    },
+    {
+      "path": "workflows/9核心候选的证据整合与验证/code/audit_metadata.py",
+      "sha256": "e95463c310aa2a8eb7421126c2a4d4ccb2e2e24d01a8b317ee7af72d6312828f",
+      "bytes": 9165
+    },
+    {
+      "path": "workflows/9核心候选的证据整合与验证/code/audit_molecular.py",
+      "sha256": "5dde749fdbca767ad6f682b8e1213408ad9867e67e19488d4d8c5e29eff8a00c",
+      "bytes": 6739
+    },
+    {
+      "path": "workflows/9核心候选的证据整合与验证/code/audit_public_sources.py",
+      "sha256": "7715f0a431fdfc714f406a60994792ceddb9dff02ecc05e269972e21272fe0eb",
+      "bytes": 4895
+    },
+    {
+      "path": "workflows/9核心候选的证据整合与验证/code/audit_replicates_qc.py",
+      "sha256": "c0d0843cd001d9b0a893c77dc81ec2f24f08157dc7b051daa8a6f95df4dbf1c3",
+      "bytes": 11966
+    },
+    {
+      "path": "workflows/9核心候选的证据整合与验证/code/bootstrap.py",
+      "sha256": "7edd827fbe2899ad455150580250d21b7f27c4b36eb9163f926f94aeb3cf225a",
+      "bytes": 3034
+    },
+    {
+      "path": "workflows/9核心候选的证据整合与验证/code/build_delivery.py",
+      "sha256": "f1c50e71eafddde0fc06736a55d1e518baf1d7bf4a775417506855beb83efc20",
+      "bytes": 42491
+    },
+    {
+      "path": "workflows/9核心候选的证据整合与验证/code/config.py",
+      "sha256": "60797a414cf71a925c589e757f8017c6378022c5d6509b72d92846f756e6506a",
+      "bytes": 2532
+    },
+    {
+      "path": "workflows/9核心候选的证据整合与验证/code/fetch_public_repository_files.py",
+      "sha256": "88d99a7b9c1ea2a10a3cb7fc17c91d171ecec8ed1b798057b0d70926d49414fd",
+      "bytes": 1644
+    },
+    {
+      "path": "workflows/9核心候选的证据整合与验证/code/independent_analysis.py",
+      "sha256": "7a2c184ac3c551941ddb0f5a936d9fed38a313d20b4165f036968881ab22f70c",
+      "bytes": 10112
+    },
+    {
+      "path": "workflows/9核心候选的证据整合与验证/code/integrate_evidence.py",
+      "sha256": "7f4782581d2e29ef01002ddae4e4f2b67d39f1a325f5a46d97d7fe371d70a181",
+      "bytes": 13015
+    },
+    {
+      "path": "workflows/9核心候选的证据整合与验证/code/make_figures.py",
+      "sha256": "91ce51c29df5137245161f25602507c717ea0844bf3790ca2e56dda0037ff9b2",
+      "bytes": 11499
+    },
+    {
+      "path": "workflows/9核心候选的证据整合与验证/code/reproduce_in_copy.py",
+      "sha256": "a206515342483cdee779e92f9e3fd0b93b9942db23daf1a45a8e4561d4dbaa32",
+      "bytes": 2004
+    },
+    {
+      "path": "workflows/9核心候选的证据整合与验证/code/run_all.ps1",
+      "sha256": "7577efb566992987f773e9bba86529dfeb062ee6baf03aad252a185bcd7310d4",
+      "bytes": 192
+    },
+    {
+      "path": "workflows/9核心候选的证据整合与验证/code/seal_delivery.py",
+      "sha256": "96717b4945e2468f84bb035929e630e6016ddda3e01de2b853fda16d01b0a0b9",
+      "bytes": 2182
+    },
+    {
+      "path": "workflows/9核心候选的证据整合与验证/code/triangulate_dates.py",
+      "sha256": "f603c7e990bb50c678b67d487154ad3d48037dac8bfa080263e0a2fb80d8a7b4",
+      "bytes": 3888
+    },
+    {
+      "path": "workflows/9核心候选的证据整合与验证/code/validate_delivery.py",
+      "sha256": "6fd64398c135abe10451d0b72a05cc537197c6d7646b61870fb9321dc3d91c86",
+      "bytes": 4885
+    },
+    {
+      "path": "workflows/9核心候选的证据整合与验证/code/validate_science.py",
+      "sha256": "f649be36189a79d45adeed842c9e9cb803d9669e9a18cf64d0e80c9ddb2766b1",
+      "bytes": 11932
+    },
+    {
+      "path": "workflows/9核心候选的证据整合与验证/code/verify_delivery.py",
+      "sha256": "dea822ea62f883f1055e525850b76ff52ed90377a44ca6dd53964ee8ea840250",
+      "bytes": 1659
+    },
+    {
+      "path": "workflows/9核心候选的证据整合与验证/STAGE9_PROTOCOL_v1.0.md",
+      "sha256": "2b7730ba7f32fbe866ddb52ec0d5c269a8456123d27426584ea7a3a5cbacbc77",
+      "bytes": 3431
+    }
+  ],
+  "manifest_excludes_itself": true
+}

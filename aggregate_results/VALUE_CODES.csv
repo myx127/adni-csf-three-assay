@@ -1,0 +1,65 @@
+﻿domain,code,definition_en,definition_zh
+pathology covariate model,M0,Age/sex plus all technical factors and Elecsys batch,年龄／性别及全部技术因素和Elecsys批次
+pathology covariate model,APOE,M0 plus APOE epsilon4 carriage,M0加APOE ε4携带
+pathology covariate model,BOTH,M0 plus education and APOE epsilon4,M0加教育与APOE ε4
+conditioning model,NO_P,Model 1: No p-tau181,模型1：不调整p-tau181
+conditioning model,LOG_P,Model 2: Linear log₂ p-tau181,模型2：线性log₂ p-tau181
+conditioning model,RAW_P,Model 3: Linear p-tau181,模型3：线性p-tau181
+conditioning model,RCS_P,Model 4: Spline log₂ p-tau181,模型4：log₂ p-tau181样条
+conditioning model,BG2_NO_P,Model 5: Two backgrounds; no p-tau181,模型5：两背景；不调整p-tau181
+conditioning model,BG2_LOG_P,Model 6: Two backgrounds + linear log₂,模型6：两背景＋线性log₂
+conditioning model,BG2_RCS_P,Model 7: Two backgrounds + spline log₂,模型7：两背景＋log₂样条
+conditioning model,BG3_NO_P,Model 8: Three backgrounds; no p-tau181,模型8：三背景；不调整p-tau181
+conditioning model,BG3_LOG_P,Model 9: Three backgrounds + linear log₂,模型9：三背景＋线性log₂
+cognitive sensitivity branch,MEM_NO_PTAU,No p-tau181 adjustment,不调整p-tau181
+cognitive sensitivity branch,MEM_HIGHINFO,≥2 follow-ups over ≥2 years,≥2次随访且跨度≥2年
+cognitive sensitivity branch,MEM_EQUAL_PERSON,Equal participant weighting,个体等权
+cognitive branch,MEM5Y,Primary five-year-window memory change,主要五年窗口记忆变化
+cognitive branch,MEM_BASE,Baseline memory association,基线记忆关联
+cognitive branch,EF5Y,Five-year-window executive-function change,五年窗口执行功能变化
+cognitive branch,MEM3Y,Three-year memory window,三年记忆窗口
+cognitive branch,MEM_BASE_ADJUSTED,Memory with baseline-score adjustment,调整基线分数的记忆分析
+cognitive branch,MEM_BATCH9,Memory restricted to largest Elecsys batch,限制最大Elecsys批次的记忆分析
+cognitive branch,MEM_PET_MAIN,Primary memory model in PET-available participants,PET可用参与者中的主要记忆模型
+cognitive branch,MEM_QUADRATIC,Memory model with common quadratic time,含共同二次时间项的记忆模型
+cognitive branch,MEM_RAW_P,Memory with untransformed p-tau181 adjustment,调整未转换p-tau181的记忆分析
+cognitive branch,AMY_CL,Cross-sectional amyloid-PET Centiloid association,横断面淀粉样PET Centiloid关联
+cognitive branch,MEM_AMY_INTERACTION,Memory association modified by 50-Centiloid increment,按50-Centiloid增量的记忆效应修饰
+cognitive branch,MEM_APOE_INTERACTION,Memory association modified by APOE epsilon4; original PDGFRB analysis,APOE ε4记忆效应修饰，仅原PDGFRB分析
+error/scenario,IID,Independent Gaussian assay errors,独立高斯检测误差
+error/scenario,HETERO,p-tau-related heteroskedastic errors,与p-tau相关的异方差误差
+error/scenario,SLOPE_N,Residual technical slope on NULISA axis,NULISA轴残余技术斜率
+error/scenario,SLOPES3,Residual technical slopes on three axes,三轴残余技术斜率
+error/scenario,T5_SLOPES3,t5 errors with three technical slope axes,t5误差与三轴技术斜率
+error/scenario,IID_VISITS,Independent Gaussian visit errors,独立高斯访视误差
+error/scenario,AR1_AND_PERSON_SLOPE,Correlated visit errors plus participant slope,访视相关误差加个体斜率
+error/scenario,HETERO_P,Heteroskedastic errors depending on p-tau181,依赖p-tau181的异方差误差
+error/scenario,TECHNICAL_AGE_SLOPES,Age-dependent slopes by technical clusters,技术簇特异的年龄斜率
+error/scenario,T5_TECHNICAL_SLOPES,t5 errors and technical age slopes,t5误差与技术年龄斜率
+error/scenario,WEAK,Weak-common-signal working null,弱共同信号工作零假设
+error/scenario,CORR12,Assay-error correlation stress scenario,检测误差相关压力情景
+error/scenario,NONLINEAR,Nonlinear response stress scenario,非线性反应压力情景
+error/scenario,OMITTED_TECH,Omitted technical-factor stress scenario,遗漏技术因素压力情景
+error/scenario,F01,Four-assay independent within-block errors,四检测块内独立误差
+error/scenario,F02,Within-block error correlations 0.4 and 0.6,块内误差相关0.4和0.6
+error/scenario,F03,Within-block error correlations -0.4 and 0.4,块内误差相关−0.4和0.4
+error/scenario,F04,Positive within-block correlations plus technical slopes,块内正相关加技术斜率
+error/scenario,F05,Positive within-block correlations plus p-tau heteroskedasticity,块内正相关加p-tau异方差
+error/scenario,F06,"t5 errors, within-block correlations and technical slopes",t5误差、块内相关与技术斜率
+test/mean/threshold,SAME,Shared-direction intersection–union hypothesis,共同方向交并假设
+test/mean/threshold,DIFF,Two-degree-of-freedom between-assay difference hypothesis,2自由度跨检测差异假设
+test/mean/threshold,ANY,"Joint interaction association in the supporting branch, not the shared-direction test",支持分支联合交互关联，不是共同方向检验
+test/mean/threshold,NOMINAL,P<0.05,P<0.05
+test/mean/threshold,NULL,Mean pattern satisfying the stated test's null; null status can differ by test,满足指定检验零假设的均值模式，零假设状态可随检验不同
+test/mean/threshold,POWER,Working alternative mean pattern for conditional power,条件功效的工作替代均值模式
+threshold,BY9_SUFFICIENT,Fixed first-step sufficient cutoff 0.05 / (9 * harmonic_sum(9)); not rank-adaptive family power,固定首步充分阈值0.05/(9×调和和(9))，不是依赖秩家族功效
+threshold,BY28_SUFFICIENT,Fixed first-step sufficient cutoff 0.05 / (28 * harmonic_sum(28)); not rank-adaptive family power,固定首步充分阈值0.05/(28×调和和(28))，不是依赖秩家族功效
+threshold,BY33_SUFFICIENT,Fixed first-step sufficient cutoff 0.05 / (33 * harmonic_sum(33)); not rank-adaptive family power,固定首步充分阈值0.05/(33×调和和(33))，不是依赖秩家族功效
+threshold,BY34_SUFFICIENT,Fixed first-step sufficient cutoff 0.05 / (34 * harmonic_sum(34)); not rank-adaptive family power,固定首步充分阈值0.05/(34×调和和(34))，不是依赖秩家族功效
+threshold,BY42_SUFFICIENT,Fixed first-step sufficient cutoff 0.05 / (42 * harmonic_sum(42)); not rank-adaptive family power,固定首步充分阈值0.05/(42×调和和(42))，不是依赖秩家族功效
+threshold,BY68_SUFFICIENT,Fixed first-step sufficient cutoff 0.05 / (68 * harmonic_sum(68)); not rank-adaptive family power,固定首步充分阈值0.05/(68×调和和(68))，不是依赖秩家族功效
+threshold,BY136_SUFFICIENT,Fixed first-step sufficient cutoff 0.05 / (136 * harmonic_sum(136)); not rank-adaptive family power,固定首步充分阈值0.05/(136×调和和(136))，不是依赖秩家族功效
+threshold,BY204_SUFFICIENT,Fixed first-step sufficient cutoff 0.05 / (204 * harmonic_sum(204)); not rank-adaptive family power,固定首步充分阈值0.05/(204×调和和(204))，不是依赖秩家族功效
+threshold,BY28_DIAGNOSTIC_SUFFICIENT,Same first-step cutoff for a 28-test sensitivity branch,28检验敏感性分支的相同首步阈值
+threshold,BY_RANK1_SUFFICIENT,First-step sufficient cutoff in the 34-protein equivalence family,34蛋白等效家族首步充分阈值
+pattern,BALANCED/WEAK/MIXED/ONE_ZERO/TWO_ZERO,Patterns identify equal/weak/opposite-sign/zero coefficients. The companion mean-pattern data give numerical truth; do not infer clinical MCID from the name.,模式表示相等／较弱／反向／零系数；配套均值数据给出真实数值，不从名称推断临床重要差异。

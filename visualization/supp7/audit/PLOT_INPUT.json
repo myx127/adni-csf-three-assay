@@ -1,0 +1,3498 @@
+{
+  "figure": "S13",
+  "groups": [
+    {
+      "key": "path_age",
+      "name": "Shared p-tau181: age/sex",
+      "reps": 40000,
+      "designs": 35,
+      "qualified": 35,
+      "rate": 0.00355,
+      "upper": 0.0041824455357993,
+      "tail_assessed": true,
+      "design_records": [
+        {
+          "group": "path_age",
+          "protein": "AGRN",
+          "model": "Age and sex",
+          "rate": 0.00275,
+          "upper": 0.0033131413870825,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_age",
+          "protein": "ANXA5",
+          "model": "Age and sex",
+          "rate": 0.002725,
+          "upper": 0.0032858225476978,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_age",
+          "protein": "CALB2",
+          "model": "Age and sex",
+          "rate": 0.00215,
+          "upper": 0.002654206358414,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_age",
+          "protein": "CCL2",
+          "model": "Age and sex",
+          "rate": 0.002875,
+          "upper": 0.0034495804894479,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_age",
+          "protein": "CHI3L1",
+          "model": "Age and sex",
+          "rate": 0.00245,
+          "upper": 0.0029845772137047,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_age",
+          "protein": "CHIT1",
+          "model": "Age and sex",
+          "rate": 0.00225,
+          "upper": 0.0027645520786394,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_age",
+          "protein": "CNTN2",
+          "model": "Age and sex",
+          "rate": 0.00245,
+          "upper": 0.0029845772137047,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_age",
+          "protein": "CST3",
+          "model": "Age and sex",
+          "rate": 0.002525,
+          "upper": 0.0030668750430271,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_age",
+          "protein": "CX3CL1",
+          "model": "Age and sex",
+          "rate": 0.002425,
+          "upper": 0.0029571198727698,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_age",
+          "protein": "FOLR1",
+          "model": "Age and sex",
+          "rate": 0.002125,
+          "upper": 0.0026265826752781,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_age",
+          "protein": "GDF15",
+          "model": "Age and sex",
+          "rate": 0.002625,
+          "upper": 0.0031764390340071,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_age",
+          "protein": "ICAM1",
+          "model": "Age and sex",
+          "rate": 0.002225,
+          "upper": 0.00273698750036,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_age",
+          "protein": "IGF1R",
+          "model": "Age and sex",
+          "rate": 0.0027,
+          "upper": 0.0032584930411953,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_age",
+          "protein": "IGFBP7",
+          "model": "Age and sex",
+          "rate": 0.002425,
+          "upper": 0.0029571198727698,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_age",
+          "protein": "KDR",
+          "model": "Age and sex",
+          "rate": 0.0026,
+          "upper": 0.0031490653565825,
+          "tail_ratio": 0.9252072185449761,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_age",
+          "protein": "KLK6",
+          "model": "Age and sex",
+          "rate": 0.002375,
+          "upper": 0.0029021669535184,
+          "tail_ratio": 0.9252072185449761,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_age",
+          "protein": "MAPT",
+          "model": "Age and sex",
+          "rate": 0.002025,
+          "upper": 0.0025159309824492,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": true
+        },
+        {
+          "group": "path_age",
+          "protein": "MDH1",
+          "model": "Age and sex",
+          "rate": 0.0023,
+          "upper": 0.0028196389602297,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_age",
+          "protein": "MSLN",
+          "model": "Age and sex",
+          "rate": 0.00215,
+          "upper": 0.002654206358414,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_age",
+          "protein": "NEFH",
+          "model": "Age and sex",
+          "rate": 0.002975,
+          "upper": 0.0035585535858392,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_age",
+          "protein": "NEFL",
+          "model": "Age and sex",
+          "rate": 0.00215,
+          "upper": 0.002654206358414,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_age",
+          "protein": "NGF",
+          "model": "Age and sex",
+          "rate": 0.00355,
+          "upper": 0.0041824455357993,
+          "tail_ratio": 0.9252072185449761,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_age",
+          "protein": "NPTX1",
+          "model": "Age and sex",
+          "rate": 0.0022,
+          "upper": 0.0027094085174016,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_age",
+          "protein": "NPTX2",
+          "model": "Age and sex",
+          "rate": 0.002275,
+          "upper": 0.0027921024886084,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_age",
+          "protein": "NPY",
+          "model": "Age and sex",
+          "rate": 0.0022,
+          "upper": 0.0027094085174016,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_age",
+          "protein": "NRGN",
+          "model": "Age and sex",
+          "rate": 0.0025,
+          "upper": 0.0030394546146484,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_age",
+          "protein": "PDGFRB",
+          "model": "Age and sex",
+          "rate": 0.00215,
+          "upper": 0.002654206358414,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_age",
+          "protein": "PGK1",
+          "model": "Age and sex",
+          "rate": 0.002225,
+          "upper": 0.00273698750036,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_age",
+          "protein": "PRDX6",
+          "model": "Age and sex",
+          "rate": 0.002375,
+          "upper": 0.0029021669535184,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_age",
+          "protein": "PTN",
+          "model": "Age and sex",
+          "rate": 0.0023,
+          "upper": 0.0028196389602297,
+          "tail_ratio": 0.9252072185449761,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_age",
+          "protein": "SFTPD",
+          "model": "Age and sex",
+          "rate": 0.002725,
+          "upper": 0.0032858225476978,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_age",
+          "protein": "SLIT2",
+          "model": "Age and sex",
+          "rate": 0.0022,
+          "upper": 0.0027094085174016,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_age",
+          "protein": "SOD1",
+          "model": "Age and sex",
+          "rate": 0.0024,
+          "upper": 0.0029296498514404,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_age",
+          "protein": "TAFA5",
+          "model": "Age and sex",
+          "rate": 0.0021,
+          "upper": 0.0025989435726758,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_age",
+          "protein": "TIMP3",
+          "model": "Age and sex",
+          "rate": 0.002175,
+          "upper": 0.0026818148867367,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        }
+      ]
+    },
+    {
+      "key": "path_apoe",
+      "name": "Shared p-tau181: + APOE ε4",
+      "reps": 40000,
+      "designs": 35,
+      "qualified": 35,
+      "rate": 0.003325,
+      "upper": 0.0039388248036647,
+      "tail_assessed": true,
+      "design_records": [
+        {
+          "group": "path_apoe",
+          "protein": "AGRN",
+          "model": "+ APOE ε4",
+          "rate": 0.0023,
+          "upper": 0.0028196389602297,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_apoe",
+          "protein": "ANXA5",
+          "model": "+ APOE ε4",
+          "rate": 0.00255,
+          "upper": 0.0030942835280742,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_apoe",
+          "protein": "CALB2",
+          "model": "+ APOE ε4",
+          "rate": 0.00205,
+          "upper": 0.0025436180110953,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_apoe",
+          "protein": "CCL2",
+          "model": "+ APOE ε4",
+          "rate": 0.003325,
+          "upper": 0.0039388248036647,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_apoe",
+          "protein": "CHI3L1",
+          "model": "+ APOE ε4",
+          "rate": 0.002125,
+          "upper": 0.0026265826752781,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_apoe",
+          "protein": "CHIT1",
+          "model": "+ APOE ε4",
+          "rate": 0.00255,
+          "upper": 0.0030942835280742,
+          "tail_ratio": 0.9252072185449761,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_apoe",
+          "protein": "CNTN2",
+          "model": "+ APOE ε4",
+          "rate": 0.0024,
+          "upper": 0.0029296498514404,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_apoe",
+          "protein": "CST3",
+          "model": "+ APOE ε4",
+          "rate": 0.002275,
+          "upper": 0.0027921024886084,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_apoe",
+          "protein": "CX3CL1",
+          "model": "+ APOE ε4",
+          "rate": 0.0023,
+          "upper": 0.0028196389602297,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_apoe",
+          "protein": "FOLR1",
+          "model": "+ APOE ε4",
+          "rate": 0.002275,
+          "upper": 0.0027921024886084,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_apoe",
+          "protein": "GDF15",
+          "model": "+ APOE ε4",
+          "rate": 0.002775,
+          "upper": 0.0033404497028349,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_apoe",
+          "protein": "ICAM1",
+          "model": "+ APOE ε4",
+          "rate": 0.002275,
+          "upper": 0.0027921024886084,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_apoe",
+          "protein": "IGF1R",
+          "model": "+ APOE ε4",
+          "rate": 0.0026,
+          "upper": 0.0031490653565825,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_apoe",
+          "protein": "IGFBP7",
+          "model": "+ APOE ε4",
+          "rate": 0.0022,
+          "upper": 0.0027094085174016,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_apoe",
+          "protein": "KDR",
+          "model": "+ APOE ε4",
+          "rate": 0.0024,
+          "upper": 0.0029296498514404,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_apoe",
+          "protein": "KLK6",
+          "model": "+ APOE ε4",
+          "rate": 0.002275,
+          "upper": 0.0027921024886084,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_apoe",
+          "protein": "MAPT",
+          "model": "+ APOE ε4",
+          "rate": 0.0022,
+          "upper": 0.0027094085174016,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": true
+        },
+        {
+          "group": "path_apoe",
+          "protein": "MDH1",
+          "model": "+ APOE ε4",
+          "rate": 0.002475,
+          "upper": 0.0030120220655019,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_apoe",
+          "protein": "MSLN",
+          "model": "+ APOE ε4",
+          "rate": 0.002275,
+          "upper": 0.0027921024886084,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_apoe",
+          "protein": "NEFH",
+          "model": "+ APOE ε4",
+          "rate": 0.00305,
+          "upper": 0.0036401846415224,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_apoe",
+          "protein": "NEFL",
+          "model": "+ APOE ε4",
+          "rate": 0.00245,
+          "upper": 0.0029845772137047,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_apoe",
+          "protein": "NGF",
+          "model": "+ APOE ε4",
+          "rate": 0.003325,
+          "upper": 0.0039388248036647,
+          "tail_ratio": 0.9252072185449761,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_apoe",
+          "protein": "NPTX1",
+          "model": "+ APOE ε4",
+          "rate": 0.0022,
+          "upper": 0.0027094085174016,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_apoe",
+          "protein": "NPTX2",
+          "model": "+ APOE ε4",
+          "rate": 0.002525,
+          "upper": 0.0030668750430271,
+          "tail_ratio": 0.9252072185449761,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_apoe",
+          "protein": "NPY",
+          "model": "+ APOE ε4",
+          "rate": 0.002225,
+          "upper": 0.00273698750036,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_apoe",
+          "protein": "NRGN",
+          "model": "+ APOE ε4",
+          "rate": 0.0024,
+          "upper": 0.0029296498514404,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_apoe",
+          "protein": "PDGFRB",
+          "model": "+ APOE ε4",
+          "rate": 0.002225,
+          "upper": 0.00273698750036,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_apoe",
+          "protein": "PGK1",
+          "model": "+ APOE ε4",
+          "rate": 0.002175,
+          "upper": 0.0026818148867367,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_apoe",
+          "protein": "PRDX6",
+          "model": "+ APOE ε4",
+          "rate": 0.002375,
+          "upper": 0.0029021669535184,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_apoe",
+          "protein": "PTN",
+          "model": "+ APOE ε4",
+          "rate": 0.002025,
+          "upper": 0.0025159309824492,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_apoe",
+          "protein": "SFTPD",
+          "model": "+ APOE ε4",
+          "rate": 0.002175,
+          "upper": 0.0026818148867367,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_apoe",
+          "protein": "SLIT2",
+          "model": "+ APOE ε4",
+          "rate": 0.002275,
+          "upper": 0.0027921024886084,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_apoe",
+          "protein": "SOD1",
+          "model": "+ APOE ε4",
+          "rate": 0.00235,
+          "upper": 0.0028746709776828,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_apoe",
+          "protein": "TAFA5",
+          "model": "+ APOE ε4",
+          "rate": 0.0025,
+          "upper": 0.0030394546146484,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_apoe",
+          "protein": "TIMP3",
+          "model": "+ APOE ε4",
+          "rate": 0.0024,
+          "upper": 0.0029296498514404,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        }
+      ]
+    },
+    {
+      "key": "path_both",
+      "name": "Shared p-tau181: + education/APOE ε4",
+      "reps": 40000,
+      "designs": 35,
+      "qualified": 35,
+      "rate": 0.003425,
+      "upper": 0.0040471764189647,
+      "tail_assessed": true,
+      "design_records": [
+        {
+          "group": "path_both",
+          "protein": "AGRN",
+          "model": "+ Education and APOE ε4",
+          "rate": 0.002225,
+          "upper": 0.00273698750036,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_both",
+          "protein": "ANXA5",
+          "model": "+ Education and APOE ε4",
+          "rate": 0.0024,
+          "upper": 0.0029296498514404,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_both",
+          "protein": "CALB2",
+          "model": "+ Education and APOE ε4",
+          "rate": 0.00205,
+          "upper": 0.0025436180110953,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_both",
+          "protein": "CCL2",
+          "model": "+ Education and APOE ε4",
+          "rate": 0.00265,
+          "upper": 0.003203801436297,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_both",
+          "protein": "CHI3L1",
+          "model": "+ Education and APOE ε4",
+          "rate": 0.0023,
+          "upper": 0.0028196389602297,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_both",
+          "protein": "CHIT1",
+          "model": "+ Education and APOE ε4",
+          "rate": 0.00245,
+          "upper": 0.0029845772137047,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_both",
+          "protein": "CNTN2",
+          "model": "+ Education and APOE ε4",
+          "rate": 0.0023,
+          "upper": 0.0028196389602297,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_both",
+          "protein": "CST3",
+          "model": "+ Education and APOE ε4",
+          "rate": 0.00205,
+          "upper": 0.0025436180110953,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_both",
+          "protein": "CX3CL1",
+          "model": "+ Education and APOE ε4",
+          "rate": 0.0025,
+          "upper": 0.0030394546146484,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_both",
+          "protein": "FOLR1",
+          "model": "+ Education and APOE ε4",
+          "rate": 0.00205,
+          "upper": 0.0025436180110953,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_both",
+          "protein": "GDF15",
+          "model": "+ Education and APOE ε4",
+          "rate": 0.002525,
+          "upper": 0.0030668750430271,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_both",
+          "protein": "ICAM1",
+          "model": "+ Education and APOE ε4",
+          "rate": 0.002125,
+          "upper": 0.0026265826752781,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_both",
+          "protein": "IGF1R",
+          "model": "+ Education and APOE ε4",
+          "rate": 0.0028,
+          "upper": 0.0033677476352453,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_both",
+          "protein": "IGFBP7",
+          "model": "+ Education and APOE ε4",
+          "rate": 0.0022,
+          "upper": 0.0027094085174016,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_both",
+          "protein": "KDR",
+          "model": "+ Education and APOE ε4",
+          "rate": 0.00245,
+          "upper": 0.0029845772137047,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_both",
+          "protein": "KLK6",
+          "model": "+ Education and APOE ε4",
+          "rate": 0.00245,
+          "upper": 0.0029845772137047,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_both",
+          "protein": "MAPT",
+          "model": "+ Education and APOE ε4",
+          "rate": 0.002075,
+          "upper": 0.0025712887781465,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": true
+        },
+        {
+          "group": "path_both",
+          "protein": "MDH1",
+          "model": "+ Education and APOE ε4",
+          "rate": 0.002225,
+          "upper": 0.00273698750036,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_both",
+          "protein": "MSLN",
+          "model": "+ Education and APOE ε4",
+          "rate": 0.002275,
+          "upper": 0.0027921024886084,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_both",
+          "protein": "NEFH",
+          "model": "+ Education and APOE ε4",
+          "rate": 0.002875,
+          "upper": 0.0034495804894479,
+          "tail_ratio": 0.9252072185449761,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_both",
+          "protein": "NEFL",
+          "model": "+ Education and APOE ε4",
+          "rate": 0.002275,
+          "upper": 0.0027921024886084,
+          "tail_ratio": 0.9252072185449761,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_both",
+          "protein": "NGF",
+          "model": "+ Education and APOE ε4",
+          "rate": 0.003425,
+          "upper": 0.0040471764189647,
+          "tail_ratio": 0.9252072185449761,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_both",
+          "protein": "NPTX1",
+          "model": "+ Education and APOE ε4",
+          "rate": 0.002175,
+          "upper": 0.0026818148867367,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_both",
+          "protein": "NPTX2",
+          "model": "+ Education and APOE ε4",
+          "rate": 0.002225,
+          "upper": 0.00273698750036,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_both",
+          "protein": "NPY",
+          "model": "+ Education and APOE ε4",
+          "rate": 0.0025,
+          "upper": 0.0030394546146484,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_both",
+          "protein": "NRGN",
+          "model": "+ Education and APOE ε4",
+          "rate": 0.002525,
+          "upper": 0.0030668750430271,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_both",
+          "protein": "PDGFRB",
+          "model": "+ Education and APOE ε4",
+          "rate": 0.0022,
+          "upper": 0.0027094085174016,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_both",
+          "protein": "PGK1",
+          "model": "+ Education and APOE ε4",
+          "rate": 0.00215,
+          "upper": 0.002654206358414,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_both",
+          "protein": "PRDX6",
+          "model": "+ Education and APOE ε4",
+          "rate": 0.00235,
+          "upper": 0.0028746709776828,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_both",
+          "protein": "PTN",
+          "model": "+ Education and APOE ε4",
+          "rate": 0.002,
+          "upper": 0.0024882273942941,
+          "tail_ratio": 0.9252072185449761,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_both",
+          "protein": "SFTPD",
+          "model": "+ Education and APOE ε4",
+          "rate": 0.00215,
+          "upper": 0.002654206358414,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_both",
+          "protein": "SLIT2",
+          "model": "+ Education and APOE ε4",
+          "rate": 0.002425,
+          "upper": 0.0029571198727698,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_both",
+          "protein": "SOD1",
+          "model": "+ Education and APOE ε4",
+          "rate": 0.002325,
+          "upper": 0.0028471617173008,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_both",
+          "protein": "TAFA5",
+          "model": "+ Education and APOE ε4",
+          "rate": 0.00225,
+          "upper": 0.0027645520786394,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "path_both",
+          "protein": "TIMP3",
+          "model": "+ Education and APOE ε4",
+          "rate": 0.0026,
+          "upper": 0.0031490653565825,
+          "tail_ratio": 0.6273958782494348,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        }
+      ]
+    },
+    {
+      "key": "memory",
+      "name": "Memory change",
+      "reps": 100000,
+      "designs": 34,
+      "qualified": 33,
+      "rate": 0.0087,
+      "upper": 0.009294756688302364,
+      "tail_assessed": true,
+      "design_records": [
+        {
+          "group": "memory",
+          "protein": "AGRN",
+          "model": "Memory change",
+          "rate": 0.0022,
+          "upper": 0.0025101350727815873,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "memory",
+          "protein": "ANXA5",
+          "model": "Memory change",
+          "rate": 0.00225,
+          "upper": 0.002563399953106263,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "memory",
+          "protein": "CALB2",
+          "model": "Memory change",
+          "rate": 0.00249,
+          "upper": 0.0028185874204548628,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "memory",
+          "protein": "CCL2",
+          "model": "Memory change",
+          "rate": 0.00284,
+          "upper": 0.003189473200705137,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "memory",
+          "protein": "CHI3L1",
+          "model": "Memory change",
+          "rate": 0.00222,
+          "upper": 0.0025314454452504105,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "memory",
+          "protein": "CHIT1",
+          "model": "Memory change",
+          "rate": 0.00145,
+          "upper": 0.0017057623637835467,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "memory",
+          "protein": "CNTN2",
+          "model": "Memory change",
+          "rate": 0.00202,
+          "upper": 0.002318062042905751,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "memory",
+          "protein": "CST3",
+          "model": "Memory change",
+          "rate": 0.0087,
+          "upper": 0.009294756688302364,
+          "tail_ratio": 1.3630968940188755,
+          "qualified": false,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "memory",
+          "protein": "CX3CL1",
+          "model": "Memory change",
+          "rate": 0.00346,
+          "upper": 0.0038435092477153497,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "memory",
+          "protein": "FOLR1",
+          "model": "Memory change",
+          "rate": 0.00202,
+          "upper": 0.002318062042905751,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "memory",
+          "protein": "GDF15",
+          "model": "Memory change",
+          "rate": 0.00381,
+          "upper": 0.0042113685094235615,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "memory",
+          "protein": "ICAM1",
+          "model": "Memory change",
+          "rate": 0.00292,
+          "upper": 0.003274062088309533,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "memory",
+          "protein": "IGF1R",
+          "model": "Memory change",
+          "rate": 0.00298,
+          "upper": 0.0033374623844598713,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "memory",
+          "protein": "IGFBP7",
+          "model": "Memory change",
+          "rate": 0.00235,
+          "upper": 0.0026698223055802058,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "memory",
+          "protein": "KDR",
+          "model": "Memory change",
+          "rate": 0.00226,
+          "upper": 0.0025740485479357686,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "memory",
+          "protein": "KLK6",
+          "model": "Memory change",
+          "rate": 0.00267,
+          "upper": 0.0030095008252217217,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "memory",
+          "protein": "MDH1",
+          "model": "Memory change",
+          "rate": 0.00263,
+          "upper": 0.0029671083720947916,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "memory",
+          "protein": "MSLN",
+          "model": "Memory change",
+          "rate": 0.00261,
+          "upper": 0.0029459052887595007,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "memory",
+          "protein": "NEFH",
+          "model": "Memory change",
+          "rate": 0.00365,
+          "upper": 0.00404331175972936,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "memory",
+          "protein": "NEFL",
+          "model": "Memory change",
+          "rate": 0.00201,
+          "upper": 0.0023073758110550434,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "memory",
+          "protein": "NGF",
+          "model": "Memory change",
+          "rate": 0.00618,
+          "upper": 0.006685061516576391,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "memory",
+          "protein": "NPTX1",
+          "model": "Memory change",
+          "rate": 0.00223,
+          "upper": 0.0025420984114576835,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "memory",
+          "protein": "NPTX2",
+          "model": "Memory change",
+          "rate": 0.00174,
+          "upper": 0.0020181548620905286,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "memory",
+          "protein": "NPY",
+          "model": "Memory change",
+          "rate": 0.0024,
+          "upper": 0.0027229820492060525,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "memory",
+          "protein": "NRGN",
+          "model": "Memory change",
+          "rate": 0.00314,
+          "upper": 0.0035063649460532645,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "memory",
+          "protein": "PDGFRB",
+          "model": "Memory change",
+          "rate": 0.00183,
+          "upper": 0.002114717793562266,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "memory",
+          "protein": "PGK1",
+          "model": "Memory change",
+          "rate": 0.00266,
+          "upper": 0.0029989044100696377,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "memory",
+          "protein": "PRDX6",
+          "model": "Memory change",
+          "rate": 0.00143,
+          "upper": 0.0016841388268530023,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "memory",
+          "protein": "PTN",
+          "model": "Memory change",
+          "rate": 0.00225,
+          "upper": 0.002563399953106263,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "memory",
+          "protein": "SFTPD",
+          "model": "Memory change",
+          "rate": 0.00124,
+          "upper": 0.0014781115672475727,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "memory",
+          "protein": "SLIT2",
+          "model": "Memory change",
+          "rate": 0.00295,
+          "upper": 0.003305766586317197,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "memory",
+          "protein": "SOD1",
+          "model": "Memory change",
+          "rate": 0.00223,
+          "upper": 0.0025420984114576835,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "memory",
+          "protein": "TAFA5",
+          "model": "Memory change",
+          "rate": 0.00223,
+          "upper": 0.0025420984114576835,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "memory",
+          "protein": "TIMP3",
+          "model": "Memory change",
+          "rate": 0.00239,
+          "upper": 0.002712352762995202,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        }
+      ]
+    },
+    {
+      "key": "secondary",
+      "name": "Secondary cognitive outcomes",
+      "reps": 100000,
+      "designs": 68,
+      "qualified": 68,
+      "rate": 0.0085,
+      "upper": 0.00908817132850635,
+      "tail_assessed": true,
+      "design_records": [
+        {
+          "group": "secondary",
+          "protein": "AGRN",
+          "model": "Baseline memory",
+          "rate": 0.00098,
+          "upper": 0.0011940417046779413,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "secondary",
+          "protein": "AGRN",
+          "model": "Executive function change",
+          "rate": 0.00214,
+          "upper": 0.0024461677027641992,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "secondary",
+          "protein": "ANXA5",
+          "model": "Baseline memory",
+          "rate": 0.00116,
+          "upper": 0.0013909985001774473,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "secondary",
+          "protein": "ANXA5",
+          "model": "Executive function change",
+          "rate": 0.00227,
+          "upper": 0.002584695704849736,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "secondary",
+          "protein": "CALB2",
+          "model": "Baseline memory",
+          "rate": 0.00116,
+          "upper": 0.0013909985001774473,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "secondary",
+          "protein": "CALB2",
+          "model": "Executive function change",
+          "rate": 0.00245,
+          "upper": 0.002776108920761359,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "secondary",
+          "protein": "CCL2",
+          "model": "Baseline memory",
+          "rate": 0.00131,
+          "upper": 0.0015541500529958224,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "secondary",
+          "protein": "CCL2",
+          "model": "Executive function change",
+          "rate": 0.00311,
+          "upper": 0.0034747134240287495,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "secondary",
+          "protein": "CHI3L1",
+          "model": "Baseline memory",
+          "rate": 0.00125,
+          "upper": 0.0014889844252999377,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "secondary",
+          "protein": "CHI3L1",
+          "model": "Executive function change",
+          "rate": 0.00225,
+          "upper": 0.002563399953106263,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "secondary",
+          "protein": "CHIT1",
+          "model": "Baseline memory",
+          "rate": 0.00127,
+          "upper": 0.001510719764510353,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "secondary",
+          "protein": "CHIT1",
+          "model": "Executive function change",
+          "rate": 0.00164,
+          "upper": 0.0019106602870011488,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "secondary",
+          "protein": "CNTN2",
+          "model": "Baseline memory",
+          "rate": 0.001,
+          "upper": 0.001215998316636628,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "secondary",
+          "protein": "CNTN2",
+          "model": "Executive function change",
+          "rate": 0.00232,
+          "upper": 0.0026379102471650135,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "secondary",
+          "protein": "CST3",
+          "model": "Baseline memory",
+          "rate": 0.00275,
+          "upper": 0.0030942322869026142,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "secondary",
+          "protein": "CST3",
+          "model": "Executive function change",
+          "rate": 0.0085,
+          "upper": 0.00908817132850635,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "secondary",
+          "protein": "CX3CL1",
+          "model": "Baseline memory",
+          "rate": 0.00135,
+          "upper": 0.0015975285074369503,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "secondary",
+          "protein": "CX3CL1",
+          "model": "Executive function change",
+          "rate": 0.00336,
+          "upper": 0.0037382408774594886,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "secondary",
+          "protein": "FOLR1",
+          "model": "Baseline memory",
+          "rate": 0.00102,
+          "upper": 0.0012379355768343105,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "secondary",
+          "protein": "FOLR1",
+          "model": "Executive function change",
+          "rate": 0.00211,
+          "upper": 0.002414163104702984,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "secondary",
+          "protein": "GDF15",
+          "model": "Baseline memory",
+          "rate": 0.00179,
+          "upper": 0.0020718213466222957,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "secondary",
+          "protein": "GDF15",
+          "model": "Executive function change",
+          "rate": 0.00382,
+          "upper": 0.004221866332295749,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "secondary",
+          "protein": "ICAM1",
+          "model": "Baseline memory",
+          "rate": 0.00138,
+          "upper": 0.0016300297029661426,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "secondary",
+          "protein": "ICAM1",
+          "model": "Executive function change",
+          "rate": 0.00311,
+          "upper": 0.0034747134240287495,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "secondary",
+          "protein": "IGF1R",
+          "model": "Baseline memory",
+          "rate": 0.00152,
+          "upper": 0.0017813584774359291,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "secondary",
+          "protein": "IGF1R",
+          "model": "Executive function change",
+          "rate": 0.00285,
+          "upper": 0.0032000503366142624,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "secondary",
+          "protein": "IGFBP7",
+          "model": "Baseline memory",
+          "rate": 0.0013,
+          "upper": 0.0015432974327053398,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "secondary",
+          "protein": "IGFBP7",
+          "model": "Executive function change",
+          "rate": 0.00221,
+          "upper": 0.0025207910023478516,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "secondary",
+          "protein": "KDR",
+          "model": "Baseline memory",
+          "rate": 0.00147,
+          "upper": 0.0017273747613558313,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "secondary",
+          "protein": "KDR",
+          "model": "Executive function change",
+          "rate": 0.0024,
+          "upper": 0.0027229820492060525,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "secondary",
+          "protein": "KLK6",
+          "model": "Baseline memory",
+          "rate": 0.00157,
+          "upper": 0.0018352772719080097,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "secondary",
+          "protein": "KLK6",
+          "model": "Executive function change",
+          "rate": 0.00302,
+          "upper": 0.0033797101401687574,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "secondary",
+          "protein": "MDH1",
+          "model": "Baseline memory",
+          "rate": 0.00106,
+          "upper": 0.001281754257918074,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "secondary",
+          "protein": "MDH1",
+          "model": "Executive function change",
+          "rate": 0.0024,
+          "upper": 0.0027229820492060525,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "secondary",
+          "protein": "MSLN",
+          "model": "Baseline memory",
+          "rate": 0.0013,
+          "upper": 0.0015432974327053398,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "secondary",
+          "protein": "MSLN",
+          "model": "Executive function change",
+          "rate": 0.00257,
+          "upper": 0.0029034851459775837,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "secondary",
+          "protein": "NEFH",
+          "model": "Baseline memory",
+          "rate": 0.00154,
+          "upper": 0.0018029336092458242,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "secondary",
+          "protein": "NEFH",
+          "model": "Executive function change",
+          "rate": 0.00374,
+          "upper": 0.004137865118844,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "secondary",
+          "protein": "NEFL",
+          "model": "Baseline memory",
+          "rate": 0.0012,
+          "upper": 0.0014345845619616762,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "secondary",
+          "protein": "NEFL",
+          "model": "Executive function change",
+          "rate": 0.00209,
+          "upper": 0.0023928187600902305,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "secondary",
+          "protein": "NGF",
+          "model": "Baseline memory",
+          "rate": 0.00211,
+          "upper": 0.002414163104702984,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "secondary",
+          "protein": "NGF",
+          "model": "Executive function change",
+          "rate": 0.00567,
+          "upper": 0.006154744034972846,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "secondary",
+          "protein": "NPTX1",
+          "model": "Baseline memory",
+          "rate": 0.00095,
+          "upper": 0.001161069205227129,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "secondary",
+          "protein": "NPTX1",
+          "model": "Executive function change",
+          "rate": 0.0021,
+          "upper": 0.002403491734486548,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "secondary",
+          "protein": "NPTX2",
+          "model": "Baseline memory",
+          "rate": 0.00092,
+          "upper": 0.0011280497122235565,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "secondary",
+          "protein": "NPTX2",
+          "model": "Executive function change",
+          "rate": 0.00151,
+          "upper": 0.0017705670300878081,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "secondary",
+          "protein": "NPY",
+          "model": "Baseline memory",
+          "rate": 0.00113,
+          "upper": 0.0013582683713439423,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "secondary",
+          "protein": "NPY",
+          "model": "Executive function change",
+          "rate": 0.00198,
+          "upper": 0.002275306790059356,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "secondary",
+          "protein": "NRGN",
+          "model": "Baseline memory",
+          "rate": 0.00116,
+          "upper": 0.0013909985001774473,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "secondary",
+          "protein": "NRGN",
+          "model": "Executive function change",
+          "rate": 0.00292,
+          "upper": 0.003274062088309533,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "secondary",
+          "protein": "PDGFRB",
+          "model": "Baseline memory",
+          "rate": 0.00097,
+          "upper": 0.00118305595885955,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "secondary",
+          "protein": "PDGFRB",
+          "model": "Executive function change",
+          "rate": 0.0017,
+          "upper": 0.0019751835651529923,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "secondary",
+          "protein": "PGK1",
+          "model": "Baseline memory",
+          "rate": 0.00121,
+          "upper": 0.0014454717361109622,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "secondary",
+          "protein": "PGK1",
+          "model": "Executive function change",
+          "rate": 0.00304,
+          "upper": 0.00340082839889085,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "secondary",
+          "protein": "PRDX6",
+          "model": "Baseline memory",
+          "rate": 0.0011,
+          "upper": 0.001325501924324645,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "secondary",
+          "protein": "PRDX6",
+          "model": "Executive function change",
+          "rate": 0.00177,
+          "upper": 0.002050360978946327,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "secondary",
+          "protein": "PTN",
+          "model": "Baseline memory",
+          "rate": 0.00147,
+          "upper": 0.0017273747613558313,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "secondary",
+          "protein": "PTN",
+          "model": "Executive function change",
+          "rate": 0.00241,
+          "upper": 0.002733610020703455,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "secondary",
+          "protein": "SFTPD",
+          "model": "Baseline memory",
+          "rate": 0.00093,
+          "upper": 0.0011390615691127084,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "secondary",
+          "protein": "SFTPD",
+          "model": "Executive function change",
+          "rate": 0.00124,
+          "upper": 0.0014781115672475727,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "secondary",
+          "protein": "SLIT2",
+          "model": "Baseline memory",
+          "rate": 0.00141,
+          "upper": 0.0016625039179489385,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "secondary",
+          "protein": "SLIT2",
+          "model": "Executive function change",
+          "rate": 0.00283,
+          "upper": 0.0031788950418338915,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "secondary",
+          "protein": "SOD1",
+          "model": "Baseline memory",
+          "rate": 0.0013,
+          "upper": 0.0015432974327053398,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "secondary",
+          "protein": "SOD1",
+          "model": "Executive function change",
+          "rate": 0.00264,
+          "upper": 0.0029777081898860634,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "secondary",
+          "protein": "TAFA5",
+          "model": "Baseline memory",
+          "rate": 0.00116,
+          "upper": 0.0013909985001774473,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "secondary",
+          "protein": "TAFA5",
+          "model": "Executive function change",
+          "rate": 0.00227,
+          "upper": 0.002584695704849736,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "secondary",
+          "protein": "TIMP3",
+          "model": "Baseline memory",
+          "rate": 0.00123,
+          "upper": 0.0014672351948823183,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "secondary",
+          "protein": "TIMP3",
+          "model": "Executive function change",
+          "rate": 0.00231,
+          "upper": 0.0026272701404141167,
+          "tail_ratio": 0.9243332421807364,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        }
+      ]
+    },
+    {
+      "key": "sensitivity",
+      "name": "Fourteen-protein sensitivities",
+      "reps": 10000,
+      "designs": 42,
+      "qualified": 42,
+      "rate": 0.0042,
+      "upper": 0.005671895816224385,
+      "tail_assessed": true,
+      "design_records": [
+        {
+          "group": "sensitivity",
+          "protein": "AGRN",
+          "model": "Memory: equal participant weighting",
+          "rate": 0.0012,
+          "upper": 0.002096472455817011,
+          "tail_ratio": 0.8444952769855834,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "sensitivity",
+          "protein": "AGRN",
+          "model": "Memory: higher-information follow-up",
+          "rate": 0.003,
+          "upper": 0.004279406686400436,
+          "tail_ratio": 0.8444952769855834,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "sensitivity",
+          "protein": "AGRN",
+          "model": "Memory: no p-tau181 adjustment",
+          "rate": 0.0023,
+          "upper": 0.0034490774822886323,
+          "tail_ratio": 0.8444952769855834,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "sensitivity",
+          "protein": "CALB2",
+          "model": "Memory: equal participant weighting",
+          "rate": 0.0012,
+          "upper": 0.002096472455817011,
+          "tail_ratio": 0.8444952769855834,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "sensitivity",
+          "protein": "CALB2",
+          "model": "Memory: higher-information follow-up",
+          "rate": 0.003,
+          "upper": 0.004279406686400436,
+          "tail_ratio": 0.8444952769855834,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "sensitivity",
+          "protein": "CALB2",
+          "model": "Memory: no p-tau181 adjustment",
+          "rate": 0.0024,
+          "upper": 0.0035687763690995114,
+          "tail_ratio": 0.8444952769855834,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "sensitivity",
+          "protein": "CNTN2",
+          "model": "Memory: equal participant weighting",
+          "rate": 0.0012,
+          "upper": 0.002096472455817011,
+          "tail_ratio": 0.8444952769855834,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "sensitivity",
+          "protein": "CNTN2",
+          "model": "Memory: higher-information follow-up",
+          "rate": 0.0021,
+          "upper": 0.0032083938725359184,
+          "tail_ratio": 0.8444952769855834,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "sensitivity",
+          "protein": "CNTN2",
+          "model": "Memory: no p-tau181 adjustment",
+          "rate": 0.002,
+          "upper": 0.0030873506646506045,
+          "tail_ratio": 0.8444952769855834,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "sensitivity",
+          "protein": "CX3CL1",
+          "model": "Memory: equal participant weighting",
+          "rate": 0.0017,
+          "upper": 0.0027209854150957837,
+          "tail_ratio": 0.8444952769855834,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "sensitivity",
+          "protein": "CX3CL1",
+          "model": "Memory: higher-information follow-up",
+          "rate": 0.0042,
+          "upper": 0.005671895816224385,
+          "tail_ratio": 0.8444952769855834,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "sensitivity",
+          "protein": "CX3CL1",
+          "model": "Memory: no p-tau181 adjustment",
+          "rate": 0.0033,
+          "upper": 0.004630640571811913,
+          "tail_ratio": 0.8444952769855834,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "sensitivity",
+          "protein": "KLK6",
+          "model": "Memory: equal participant weighting",
+          "rate": 0.0013,
+          "upper": 0.0022230881023331834,
+          "tail_ratio": 0.8444952769855834,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "sensitivity",
+          "protein": "KLK6",
+          "model": "Memory: higher-information follow-up",
+          "rate": 0.004,
+          "upper": 0.005441912645979639,
+          "tail_ratio": 0.8444952769855834,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "sensitivity",
+          "protein": "KLK6",
+          "model": "Memory: no p-tau181 adjustment",
+          "rate": 0.0033,
+          "upper": 0.004630640571811913,
+          "tail_ratio": 0.8444952769855834,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "sensitivity",
+          "protein": "MDH1",
+          "model": "Memory: equal participant weighting",
+          "rate": 0.0012,
+          "upper": 0.002096472455817011,
+          "tail_ratio": 0.8444952769855834,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "sensitivity",
+          "protein": "MDH1",
+          "model": "Memory: higher-information follow-up",
+          "rate": 0.0029,
+          "upper": 0.004161774546565626,
+          "tail_ratio": 0.8444952769855834,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "sensitivity",
+          "protein": "MDH1",
+          "model": "Memory: no p-tau181 adjustment",
+          "rate": 0.0024,
+          "upper": 0.0035687763690995114,
+          "tail_ratio": 0.8444952769855834,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "sensitivity",
+          "protein": "NEFL",
+          "model": "Memory: equal participant weighting",
+          "rate": 0.0013,
+          "upper": 0.0022230881023331834,
+          "tail_ratio": 0.8444952769855834,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "sensitivity",
+          "protein": "NEFL",
+          "model": "Memory: higher-information follow-up",
+          "rate": 0.0027,
+          "upper": 0.003925594153699328,
+          "tail_ratio": 0.8444952769855834,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "sensitivity",
+          "protein": "NEFL",
+          "model": "Memory: no p-tau181 adjustment",
+          "rate": 0.0019,
+          "upper": 0.002965795017239319,
+          "tail_ratio": 0.8444952769855834,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "sensitivity",
+          "protein": "NPTX1",
+          "model": "Memory: equal participant weighting",
+          "rate": 0.001,
+          "upper": 0.0018399443874379962,
+          "tail_ratio": 0.8444952769855834,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "sensitivity",
+          "protein": "NPTX1",
+          "model": "Memory: higher-information follow-up",
+          "rate": 0.0025,
+          "upper": 0.0036880807676648924,
+          "tail_ratio": 0.8444952769855834,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "sensitivity",
+          "protein": "NPTX1",
+          "model": "Memory: no p-tau181 adjustment",
+          "rate": 0.0025,
+          "upper": 0.0036880807676648924,
+          "tail_ratio": 0.8444952769855834,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "sensitivity",
+          "protein": "NPTX2",
+          "model": "Memory: equal participant weighting",
+          "rate": 0.001,
+          "upper": 0.0018399443874379962,
+          "tail_ratio": 0.8444952769855834,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "sensitivity",
+          "protein": "NPTX2",
+          "model": "Memory: higher-information follow-up",
+          "rate": 0.0026,
+          "upper": 0.0038070132089826243,
+          "tail_ratio": 0.8444952769855834,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "sensitivity",
+          "protein": "NPTX2",
+          "model": "Memory: no p-tau181 adjustment",
+          "rate": 0.0017,
+          "upper": 0.0027209854150957837,
+          "tail_ratio": 0.8444952769855834,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "sensitivity",
+          "protein": "NRGN",
+          "model": "Memory: equal participant weighting",
+          "rate": 0.0012,
+          "upper": 0.002096472455817011,
+          "tail_ratio": 0.8444952769855834,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "sensitivity",
+          "protein": "NRGN",
+          "model": "Memory: higher-information follow-up",
+          "rate": 0.0037,
+          "upper": 0.005095508744982636,
+          "tail_ratio": 0.8444952769855834,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "sensitivity",
+          "protein": "NRGN",
+          "model": "Memory: no p-tau181 adjustment",
+          "rate": 0.0018,
+          "upper": 0.0028436879850291027,
+          "tail_ratio": 0.8444952769855834,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "sensitivity",
+          "protein": "PGK1",
+          "model": "Memory: equal participant weighting",
+          "rate": 0.0012,
+          "upper": 0.002096472455817011,
+          "tail_ratio": 0.8444952769855834,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "sensitivity",
+          "protein": "PGK1",
+          "model": "Memory: higher-information follow-up",
+          "rate": 0.0039,
+          "upper": 0.005326642314611441,
+          "tail_ratio": 0.8444952769855834,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "sensitivity",
+          "protein": "PGK1",
+          "model": "Memory: no p-tau181 adjustment",
+          "rate": 0.003,
+          "upper": 0.004279406686400436,
+          "tail_ratio": 0.8444952769855834,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "sensitivity",
+          "protein": "SLIT2",
+          "model": "Memory: equal participant weighting",
+          "rate": 0.0011,
+          "upper": 0.0019688029200307855,
+          "tail_ratio": 0.8444952769855834,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "sensitivity",
+          "protein": "SLIT2",
+          "model": "Memory: higher-information follow-up",
+          "rate": 0.0038,
+          "upper": 0.005211176858280293,
+          "tail_ratio": 0.8444952769855834,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "sensitivity",
+          "protein": "SLIT2",
+          "model": "Memory: no p-tau181 adjustment",
+          "rate": 0.0025,
+          "upper": 0.0036880807676648924,
+          "tail_ratio": 0.8444952769855834,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "sensitivity",
+          "protein": "TAFA5",
+          "model": "Memory: equal participant weighting",
+          "rate": 0.0016,
+          "upper": 0.002597636916196953,
+          "tail_ratio": 0.8444952769855834,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "sensitivity",
+          "protein": "TAFA5",
+          "model": "Memory: higher-information follow-up",
+          "rate": 0.0033,
+          "upper": 0.004630640571811913,
+          "tail_ratio": 0.8444952769855834,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "sensitivity",
+          "protein": "TAFA5",
+          "model": "Memory: no p-tau181 adjustment",
+          "rate": 0.0019,
+          "upper": 0.002965795017239319,
+          "tail_ratio": 0.8444952769855834,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "sensitivity",
+          "protein": "TIMP3",
+          "model": "Memory: equal participant weighting",
+          "rate": 0.0011,
+          "upper": 0.0019688029200307855,
+          "tail_ratio": 0.8444952769855834,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "sensitivity",
+          "protein": "TIMP3",
+          "model": "Memory: higher-information follow-up",
+          "rate": 0.0028,
+          "upper": 0.004043842249115168,
+          "tail_ratio": 0.8444952769855834,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "sensitivity",
+          "protein": "TIMP3",
+          "model": "Memory: no p-tau181 adjustment",
+          "rate": 0.003,
+          "upper": 0.004279406686400436,
+          "tail_ratio": 0.8444952769855834,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        }
+      ]
+    },
+    {
+      "key": "adjustment",
+      "name": "p-tau181 adjustment comparisons",
+      "reps": 60000,
+      "designs": 42,
+      "qualified": 42,
+      "rate": 0.0029,
+      "upper": 0.003363255797368125,
+      "tail_assessed": true,
+      "design_records": [
+        {
+          "group": "adjustment",
+          "protein": "NPTX2",
+          "model": "Linear log₂ added to three background scores",
+          "rate": 0.0001,
+          "upper": 0.00021817573356573128,
+          "tail_ratio": 0.232679163348897,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "adjustment",
+          "protein": "NPTX2",
+          "model": "Linear log₂ added to two background scores",
+          "rate": 0.00025,
+          "upper": 0.00041247274057123145,
+          "tail_ratio": 0.232679163348897,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "adjustment",
+          "protein": "NPTX2",
+          "model": "Linear log₂ p-tau181",
+          "rate": 0.0019166666666666666,
+          "upper": 0.0022999612865620676,
+          "tail_ratio": 0.232679163348897,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "adjustment",
+          "protein": "NPTX2",
+          "model": "Linear log₂ versus no p-tau181",
+          "rate": 0.0007,
+          "upper": 0.0009459852933750292,
+          "tail_ratio": 0.232679163348897,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "adjustment",
+          "protein": "NPTX2",
+          "model": "Linear untransformed p-tau181",
+          "rate": 0.0016833333333333333,
+          "upper": 0.0020447864472214142,
+          "tail_ratio": 0.232679163348897,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "adjustment",
+          "protein": "NPTX2",
+          "model": "Linear untransformed versus no p-tau181",
+          "rate": 0.00055,
+          "upper": 0.0007722750435198613,
+          "tail_ratio": 0.232679163348897,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "adjustment",
+          "protein": "NPTX2",
+          "model": "No p-tau181 adjustment",
+          "rate": 0.0015,
+          "upper": 0.0018432094112603055,
+          "tail_ratio": 0.232679163348897,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "adjustment",
+          "protein": "NPTX2",
+          "model": "Spline of log₂ p-tau181",
+          "rate": 0.0023166666666666665,
+          "upper": 0.002734514313510145,
+          "tail_ratio": 0.232679163348897,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "adjustment",
+          "protein": "NPTX2",
+          "model": "Spline versus no p-tau181",
+          "rate": 0.00055,
+          "upper": 0.0007722750435198613,
+          "tail_ratio": 0.232679163348897,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "adjustment",
+          "protein": "NPTX2",
+          "model": "Three background scores + linear log₂ p-tau181",
+          "rate": 0.0017333333333333333,
+          "upper": 0.002099587945279462,
+          "tail_ratio": 0.232679163348897,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "adjustment",
+          "protein": "NPTX2",
+          "model": "Three background scores; no p-tau181",
+          "rate": 0.00155,
+          "upper": 0.0018982901238666153,
+          "tail_ratio": 0.232679163348897,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "adjustment",
+          "protein": "NPTX2",
+          "model": "Two background scores + linear log₂ p-tau181",
+          "rate": 0.002033333333333333,
+          "upper": 0.0024270503552356847,
+          "tail_ratio": 0.232679163348897,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "adjustment",
+          "protein": "NPTX2",
+          "model": "Two background scores + spline p-tau181",
+          "rate": 0.002116666666666667,
+          "upper": 0.0025176464208731993,
+          "tail_ratio": 0.232679163348897,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "adjustment",
+          "protein": "NPTX2",
+          "model": "Two background scores; no p-tau181",
+          "rate": 0.0019,
+          "upper": 0.002281780123168974,
+          "tail_ratio": 0.3431273150681629,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "adjustment",
+          "protein": "TAFA5",
+          "model": "Linear log₂ added to three background scores",
+          "rate": 3.3333333333333335e-05,
+          "upper": 0.0001215413635814643,
+          "tail_ratio": 0.232679163348897,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "adjustment",
+          "protein": "TAFA5",
+          "model": "Linear log₂ added to two background scores",
+          "rate": 0.0,
+          "upper": 6.402021482791953e-05,
+          "tail_ratio": 0.232679163348897,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "adjustment",
+          "protein": "TAFA5",
+          "model": "Linear log₂ p-tau181",
+          "rate": 0.0023333333333333335,
+          "upper": 0.002752553134854587,
+          "tail_ratio": 0.232679163348897,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "adjustment",
+          "protein": "TAFA5",
+          "model": "Linear log₂ versus no p-tau181",
+          "rate": 0.0012666666666666666,
+          "upper": 0.0015849678474344321,
+          "tail_ratio": 0.232679163348897,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "adjustment",
+          "protein": "TAFA5",
+          "model": "Linear untransformed p-tau181",
+          "rate": 0.00225,
+          "upper": 0.002662308997110391,
+          "tail_ratio": 0.232679163348897,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "adjustment",
+          "protein": "TAFA5",
+          "model": "Linear untransformed versus no p-tau181",
+          "rate": 0.0010666666666666667,
+          "upper": 0.0013617352009239986,
+          "tail_ratio": 0.232679163348897,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "adjustment",
+          "protein": "TAFA5",
+          "model": "No p-tau181 adjustment",
+          "rate": 0.0015333333333333334,
+          "upper": 0.0018799390686601656,
+          "tail_ratio": 0.232679163348897,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "adjustment",
+          "protein": "TAFA5",
+          "model": "Spline of log₂ p-tau181",
+          "rate": 0.0023166666666666665,
+          "upper": 0.002734514313510145,
+          "tail_ratio": 0.232679163348897,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "adjustment",
+          "protein": "TAFA5",
+          "model": "Spline versus no p-tau181",
+          "rate": 0.0014166666666666668,
+          "upper": 0.0017512173200493837,
+          "tail_ratio": 0.232679163348897,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "adjustment",
+          "protein": "TAFA5",
+          "model": "Three background scores + linear log₂ p-tau181",
+          "rate": 0.002533333333333333,
+          "upper": 0.002968651164510726,
+          "tail_ratio": 0.232679163348897,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "adjustment",
+          "protein": "TAFA5",
+          "model": "Three background scores; no p-tau181",
+          "rate": 0.00205,
+          "upper": 0.002445181298583339,
+          "tail_ratio": 0.232679163348897,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "adjustment",
+          "protein": "TAFA5",
+          "model": "Two background scores + linear log₂ p-tau181",
+          "rate": 0.00255,
+          "upper": 0.002986630104769603,
+          "tail_ratio": 0.232679163348897,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "adjustment",
+          "protein": "TAFA5",
+          "model": "Two background scores + spline p-tau181",
+          "rate": 0.0029,
+          "upper": 0.003363255797368125,
+          "tail_ratio": 0.232679163348897,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "adjustment",
+          "protein": "TAFA5",
+          "model": "Two background scores; no p-tau181",
+          "rate": 0.0025833333333333333,
+          "upper": 0.003022575152954922,
+          "tail_ratio": 0.232679163348897,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "adjustment",
+          "protein": "TIMP3",
+          "model": "Linear log₂ added to three background scores",
+          "rate": 0.0,
+          "upper": 6.402021482791953e-05,
+          "tail_ratio": 0.232679163348897,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "adjustment",
+          "protein": "TIMP3",
+          "model": "Linear log₂ added to two background scores",
+          "rate": 5e-05,
+          "upper": 0.0001470091582746981,
+          "tail_ratio": 0.232679163348897,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "adjustment",
+          "protein": "TIMP3",
+          "model": "Linear log₂ p-tau181",
+          "rate": 0.00275,
+          "upper": 0.0032020540474892905,
+          "tail_ratio": 0.232679163348897,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "adjustment",
+          "protein": "TIMP3",
+          "model": "Linear log₂ versus no p-tau181",
+          "rate": 0.0010833333333333333,
+          "upper": 0.0013804161409201343,
+          "tail_ratio": 0.232679163348897,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "adjustment",
+          "protein": "TIMP3",
+          "model": "Linear untransformed p-tau181",
+          "rate": 0.0024666666666666665,
+          "upper": 0.0028966916398105555,
+          "tail_ratio": 0.232679163348897,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "adjustment",
+          "protein": "TIMP3",
+          "model": "Linear untransformed versus no p-tau181",
+          "rate": 0.0009833333333333332,
+          "upper": 0.0012680885726877,
+          "tail_ratio": 0.232679163348897,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "adjustment",
+          "protein": "TIMP3",
+          "model": "No p-tau181 adjustment",
+          "rate": 0.002183333333333333,
+          "upper": 0.0025900209603235587,
+          "tail_ratio": 0.232679163348897,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "adjustment",
+          "protein": "TIMP3",
+          "model": "Spline of log₂ p-tau181",
+          "rate": 0.0025666666666666667,
+          "upper": 0.0030046047537957343,
+          "tail_ratio": 0.232679163348897,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "adjustment",
+          "protein": "TIMP3",
+          "model": "Spline versus no p-tau181",
+          "rate": 0.001,
+          "upper": 0.0012868514561116485,
+          "tail_ratio": 0.232679163348897,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "adjustment",
+          "protein": "TIMP3",
+          "model": "Three background scores + linear log₂ p-tau181",
+          "rate": 0.0025666666666666667,
+          "upper": 0.0030046047537957343,
+          "tail_ratio": 0.232679163348897,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "adjustment",
+          "protein": "TIMP3",
+          "model": "Three background scores; no p-tau181",
+          "rate": 0.0028333333333333335,
+          "upper": 0.0032916473791179965,
+          "tail_ratio": 0.232679163348897,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "adjustment",
+          "protein": "TIMP3",
+          "model": "Two background scores + linear log₂ p-tau181",
+          "rate": 0.0028666666666666667,
+          "upper": 0.0033274587997294902,
+          "tail_ratio": 0.232679163348897,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "adjustment",
+          "protein": "TIMP3",
+          "model": "Two background scores + spline p-tau181",
+          "rate": 0.0027,
+          "upper": 0.0031482522901912446,
+          "tail_ratio": 0.232679163348897,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "adjustment",
+          "protein": "TIMP3",
+          "model": "Two background scores; no p-tau181",
+          "rate": 0.0026,
+          "upper": 0.003040541342951271,
+          "tail_ratio": 0.232679163348897,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        }
+      ]
+    },
+    {
+      "key": "relative",
+      "name": "Relative p-tau181 restrictions",
+      "reps": 4000,
+      "designs": 35,
+      "qualified": 35,
+      "rate": 0.00825,
+      "upper": 0.0115630570462587,
+      "tail_assessed": false,
+      "design_records": [
+        {
+          "group": "relative",
+          "protein": "AGRN",
+          "model": "Original relative-response confirmation",
+          "rate": 0.00625,
+          "upper": 0.0092103810716447,
+          "tail_ratio": null,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "relative",
+          "protein": "ANXA5",
+          "model": "Original relative-response confirmation",
+          "rate": 0.00475,
+          "upper": 0.0074072479926174,
+          "tail_ratio": null,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "relative",
+          "protein": "CALB2",
+          "model": "Original relative-response confirmation",
+          "rate": 0.0065,
+          "upper": 0.009507263706582,
+          "tail_ratio": null,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "relative",
+          "protein": "CCL2",
+          "model": "Original relative-response confirmation",
+          "rate": 0.00575,
+          "upper": 0.008613754501817,
+          "tail_ratio": null,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "relative",
+          "protein": "CHI3L1",
+          "model": "Original relative-response confirmation",
+          "rate": 0.00425,
+          "upper": 0.0067960404129836,
+          "tail_ratio": null,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "relative",
+          "protein": "CHIT1",
+          "model": "Original relative-response confirmation",
+          "rate": 0.00475,
+          "upper": 0.0074072479926174,
+          "tail_ratio": null,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "relative",
+          "protein": "CNTN2",
+          "model": "Original relative-response confirmation",
+          "rate": 0.0065,
+          "upper": 0.009507263706582,
+          "tail_ratio": null,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "relative",
+          "protein": "CST3",
+          "model": "Original relative-response confirmation",
+          "rate": 0.006,
+          "upper": 0.0089125634733619,
+          "tail_ratio": null,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "relative",
+          "protein": "CX3CL1",
+          "model": "Original relative-response confirmation",
+          "rate": 0.00575,
+          "upper": 0.008613754501817,
+          "tail_ratio": null,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "relative",
+          "protein": "FOLR1",
+          "model": "Original relative-response confirmation",
+          "rate": 0.0055,
+          "upper": 0.008313891802465,
+          "tail_ratio": null,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "relative",
+          "protein": "GDF15",
+          "model": "Original relative-response confirmation",
+          "rate": 0.00425,
+          "upper": 0.0067960404129836,
+          "tail_ratio": null,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "relative",
+          "protein": "ICAM1",
+          "model": "Original relative-response confirmation",
+          "rate": 0.0055,
+          "upper": 0.008313891802465,
+          "tail_ratio": null,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "relative",
+          "protein": "IGF1R",
+          "model": "Original relative-response confirmation",
+          "rate": 0.005,
+          "upper": 0.0077107203893427,
+          "tail_ratio": null,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "relative",
+          "protein": "IGFBP7",
+          "model": "Original relative-response confirmation",
+          "rate": 0.00575,
+          "upper": 0.008613754501817,
+          "tail_ratio": null,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "relative",
+          "protein": "KDR",
+          "model": "Original relative-response confirmation",
+          "rate": 0.005,
+          "upper": 0.0077107203893427,
+          "tail_ratio": null,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "relative",
+          "protein": "KLK6",
+          "model": "Original relative-response confirmation",
+          "rate": 0.00575,
+          "upper": 0.008613754501817,
+          "tail_ratio": null,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "relative",
+          "protein": "MAPT",
+          "model": "Original relative-response confirmation",
+          "rate": 0.00675,
+          "upper": 0.0098032626083481,
+          "tail_ratio": null,
+          "qualified": true,
+          "separate_MAPT_reference": true
+        },
+        {
+          "group": "relative",
+          "protein": "MDH1",
+          "model": "Original relative-response confirmation",
+          "rate": 0.00825,
+          "upper": 0.0115630570462587,
+          "tail_ratio": null,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "relative",
+          "protein": "MSLN",
+          "model": "Original relative-response confirmation",
+          "rate": 0.006,
+          "upper": 0.0089125634733619,
+          "tail_ratio": null,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "relative",
+          "protein": "NEFH",
+          "model": "Original relative-response confirmation",
+          "rate": 0.0035,
+          "upper": 0.0058666600268924,
+          "tail_ratio": null,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "relative",
+          "protein": "NEFL",
+          "model": "Original relative-response confirmation",
+          "rate": 0.006,
+          "upper": 0.0089125634733619,
+          "tail_ratio": null,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "relative",
+          "protein": "NGF",
+          "model": "Original relative-response confirmation",
+          "rate": 0.00525,
+          "upper": 0.00801290615955,
+          "tail_ratio": null,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "relative",
+          "protein": "NPTX1",
+          "model": "Original relative-response confirmation",
+          "rate": 0.00425,
+          "upper": 0.0067960404129836,
+          "tail_ratio": null,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "relative",
+          "protein": "NPTX2",
+          "model": "Original relative-response confirmation",
+          "rate": 0.00575,
+          "upper": 0.008613754501817,
+          "tail_ratio": null,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "relative",
+          "protein": "NPY",
+          "model": "Original relative-response confirmation",
+          "rate": 0.00425,
+          "upper": 0.0067960404129836,
+          "tail_ratio": null,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "relative",
+          "protein": "NRGN",
+          "model": "Original relative-response confirmation",
+          "rate": 0.00675,
+          "upper": 0.0098032626083481,
+          "tail_ratio": null,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "relative",
+          "protein": "PDGFRB",
+          "model": "Original relative-response confirmation",
+          "rate": 0.0055,
+          "upper": 0.008313891802465,
+          "tail_ratio": null,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "relative",
+          "protein": "PGK1",
+          "model": "Original relative-response confirmation",
+          "rate": 0.00775,
+          "upper": 0.0109792975588964,
+          "tail_ratio": null,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "relative",
+          "protein": "PRDX6",
+          "model": "Original relative-response confirmation",
+          "rate": 0.00375,
+          "upper": 0.0061783311942823,
+          "tail_ratio": null,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "relative",
+          "protein": "PTN",
+          "model": "Original relative-response confirmation",
+          "rate": 0.0045,
+          "upper": 0.0071023914990743,
+          "tail_ratio": null,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "relative",
+          "protein": "SFTPD",
+          "model": "Original relative-response confirmation",
+          "rate": 0.006,
+          "upper": 0.0089125634733619,
+          "tail_ratio": null,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "relative",
+          "protein": "SLIT2",
+          "model": "Original relative-response confirmation",
+          "rate": 0.0045,
+          "upper": 0.0071023914990743,
+          "tail_ratio": null,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "relative",
+          "protein": "SOD1",
+          "model": "Original relative-response confirmation",
+          "rate": 0.006,
+          "upper": 0.0089125634733619,
+          "tail_ratio": null,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "relative",
+          "protein": "TAFA5",
+          "model": "Original relative-response confirmation",
+          "rate": 0.0065,
+          "upper": 0.009507263706582,
+          "tail_ratio": null,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        },
+        {
+          "group": "relative",
+          "protein": "TIMP3",
+          "model": "Original relative-response confirmation",
+          "rate": 0.005,
+          "upper": 0.0077107203893427,
+          "tail_ratio": null,
+          "qualified": true,
+          "separate_MAPT_reference": false
+        }
+      ]
+    }
+  ],
+  "cst3": [
+    {
+      "test": "Shared direction",
+      "threshold": "NOMINAL",
+      "alpha": 0.05,
+      "limit": 0.06,
+      "rate": 0.0087,
+      "upper": 0.0092947566883023,
+      "ratio": 0.15491261147170501,
+      "passed": true,
+      "events": 870,
+      "draws": 100000
+    },
+    {
+      "test": "Shared direction",
+      "threshold": "BY68_SUFFICIENT",
+      "alpha": 0.0001530568684437,
+      "limit": 0.0001530568684437,
+      "rate": 1e-05,
+      "upper": 5.664709659040966e-05,
+      "ratio": 0.3701048973914331,
+      "passed": true,
+      "events": 1,
+      "draws": 100000
+    },
+    {
+      "test": "Shared direction",
+      "threshold": "BY136_SUFFICIENT",
+      "alpha": 6.692349385993542e-05,
+      "limit": 6.692349385993542e-05,
+      "rate": 1e-05,
+      "upper": 5.664709659040966e-05,
+      "ratio": 0.8464455951592532,
+      "passed": true,
+      "events": 1,
+      "draws": 100000
+    },
+    {
+      "test": "Shared direction",
+      "threshold": "BY204_SUFFICIENT",
+      "alpha": 4.15576448299245e-05,
+      "limit": 4.15576448299245e-05,
+      "rate": 1e-05,
+      "upper": 5.664709659040966e-05,
+      "ratio": 1.3630968940188755,
+      "passed": false,
+      "events": 1,
+      "draws": 100000
+    },
+    {
+      "test": "Assay differences",
+      "threshold": "NOMINAL",
+      "alpha": 0.05,
+      "limit": 0.06,
+      "rate": 0.00349,
+      "upper": 0.0038750747450814,
+      "ratio": 0.06458457908469,
+      "passed": true,
+      "events": 349,
+      "draws": 100000
+    },
+    {
+      "test": "Assay differences",
+      "threshold": "BY68_SUFFICIENT",
+      "alpha": 0.0001530568684437,
+      "limit": 0.0001530568684437,
+      "rate": 0.0,
+      "upper": 3.841311258303963e-05,
+      "ratio": 0.25097281143687716,
+      "passed": true,
+      "events": 0,
+      "draws": 100000
+    },
+    {
+      "test": "Assay differences",
+      "threshold": "BY136_SUFFICIENT",
+      "alpha": 6.692349385993542e-05,
+      "limit": 6.692349385993542e-05,
+      "rate": 0.0,
+      "upper": 3.841311258303963e-05,
+      "ratio": 0.5739854626154854,
+      "passed": true,
+      "events": 0,
+      "draws": 100000
+    },
+    {
+      "test": "Assay differences",
+      "threshold": "BY204_SUFFICIENT",
+      "alpha": 4.15576448299245e-05,
+      "limit": 4.15576448299245e-05,
+      "rate": 0.0,
+      "upper": 3.841311258303963e-05,
+      "ratio": 0.9243332421807364,
+      "passed": true,
+      "events": 0,
+      "draws": 100000
+    }
+  ],
+  "resolution": {
+    "draws": 4000,
+    "events": 0,
+    "zero_event_upper": 0.0009594432897014865,
+    "by34_cutoff": 0.0003570940381151026,
+    "tail_not_resolved": true,
+    "empirical_BY_tail_rate_not_estimated": true,
+    "existing_selected_variance_version": 0
+  },
+  "nominal_level": 0.05,
+  "nominal_upper_limit": 0.06,
+  "small_tail_ratio_limit": 1,
+  "family_threshold_sets": {
+    "pathology": [
+      34,
+      68
+    ],
+    "formal_cognition": [
+      68,
+      136,
+      204
+    ],
+    "clinical_sensitivity": [
+      28
+    ],
+    "adjustment": [
+      9,
+      33,
+      42
+    ]
+  },
+  "scope": "Observed designs and examined null/error structures; cellwise Monte Carlo bounds",
+  "no_new_simulation_draws": true,
+  "no_association_refits": true,
+  "no_P_or_q_recalculation": true,
+  "no_new_Wilson_intervals": true,
+  "no_individual_records_accessed": true,
+  "full_pipeline_selection_not_calibrated": true,
+  "no_power_results_in_this_figure": true
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Code for: Same protein targets, different association patterns: a paired three-assay study of CSF protein associations with p-tau and longitudinal cognitive change across the Alzheimer’s disease spectrum",
+  "description": "Analysis and visualization code for paired ADNI CSF NULISA, SomaScan and TMT-MS associations with p-tau181 and longitudinal cognitive change. Includes frozen workflows, reusable numerical kernels, aggregate figure inputs and a synthetic-data example. Participant-level ADNI data are not included.",
+  "creators": [
+    {
+      "name": "Mao, Yuxi"
+    },
+    {
+      "name": "Zeng, Yan",
+      "orcid": "0000-0002-5119-5448"
+    }
+  ],
+  "upload_type": "software",
+  "version": "1.0.0",
+  "license": "MIT",
+  "keywords": [
+    "Alzheimer disease",
+    "ADNI",
+    "CSF proteomics",
+    "assay comparison",
+    "NPTX2",
+    "p-tau181",
+    "cognitive change"
+  ]
+}

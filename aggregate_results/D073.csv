@@ -1,0 +1,15 @@
+﻿gene,analysis,test,n,p_computed,p_used,q,qualified
+NPTX1,Amyloid PET Centiloids,Shared direction,326.0,0.32598322564383453,0.32598322564383453,1.0,Yes
+NPTX1,Amyloid PET Centiloids,Assay differences,326.0,0.608201496636158,0.608201496636158,1.0,Yes
+NPTX1,Memory change × amyloid PET,Joint interaction association,326.0,0.9217277502994975,1.0,1.0,No
+NPTX1,Memory change × amyloid PET,Assay differences,326.0,0.8034582029662521,1.0,1.0,No
+KLK6,Amyloid PET Centiloids,Shared direction,317.0,0.1605093059513384,0.1605093059513384,1.0,Yes
+KLK6,Amyloid PET Centiloids,Assay differences,317.0,0.6868856165892862,0.6868856165892862,1.0,Yes
+KLK6,Memory change × amyloid PET,Joint interaction association,317.0,0.512302798862533,1.0,1.0,No
+KLK6,Memory change × amyloid PET,Assay differences,317.0,0.3446305146812077,1.0,1.0,No
+PDGFRB,Amyloid PET Centiloids,Shared direction,324.0,1.0,1.0,1.0,Yes
+PDGFRB,Amyloid PET Centiloids,Assay differences,324.0,0.09696224750166214,0.09696224750166214,1.0,Yes
+PDGFRB,Memory change × amyloid PET,Joint interaction association,324.0,0.2805682380762509,1.0,1.0,No
+PDGFRB,Memory change × amyloid PET,Assay differences,324.0,0.5143914453914052,1.0,1.0,No
+PDGFRB,Memory change × APOE ε4,Joint interaction association,552.0,0.6519744437320372,0.6519744437320372,1.0,Yes
+PDGFRB,Memory change × APOE ε4,Assay differences,552.0,0.8913367942500979,0.8913367942500979,1.0,Yes

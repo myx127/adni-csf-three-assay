@@ -1,0 +1,37 @@
+﻿variable,population,n,denominator,unit,mean,sd,count,fraction,median,q25,q75,category
+age_month_precision,paired,563,571,years,73.53848431024274,7.52957127375316,,,,,,
+age_month_precision,pathology,560,560,years,73.56964285714285,7.5342183737338875,,,,,,
+age_month_precision,cognitive,557,557,years,73.60128665469779,7.533460321836102,,,,,,
+sex_code2,paired,571,571,count and percentage,,,244,0.4273204903677758,,,,
+sex_code2,pathology,560,560,count and percentage,,,239,0.42678571428571427,,,,
+sex_code2,cognitive,557,557,count and percentage,,,239,0.42908438061041293,,,,
+education,paired,571,571,years,15.95446584938704,2.880307035316086,,,,,,
+education,pathology,560,560,years,15.9375,2.884420088797455,,,,,,
+education,cognitive,557,557,years,15.929982046678635,2.8845499193266133,,,,,,
+apoe4_carrier,paired,571,571,count and percentage,,,275,0.4816112084063047,,,,
+apoe4_carrier,pathology,560,560,count and percentage,,,272,0.4857142857142857,,,,
+apoe4_carrier,cognitive,557,557,count and percentage,,,272,0.4883303411131059,,,,
+ptau,paired,567,571,pg/mL,,,,,24.52,17.490000000000002,34.905,
+ptau,pathology,560,560,pg/mL,,,,,24.775,17.545,35.3025,
+ptau,cognitive,557,557,pg/mL,,,,,24.9,17.55,35.37,
+baseline_memory,paired,568,571,composite-score units,0.19505809859154927,0.9621316896106226,,,,,,
+baseline_memory,pathology,557,560,composite-score units,0.1880233393177738,0.9601746081996103,,,,,,
+baseline_memory,cognitive,557,557,composite-score units,0.1880233393177738,0.9601746081996103,,,,,,
+baseline_ef,paired,568,571,composite-score units,0.20832042253521127,0.9910103013745666,,,,,,
+baseline_ef,pathology,557,560,composite-score units,0.1986822262118492,0.9849797397343364,,,,,,
+baseline_ef,cognitive,557,557,composite-score units,0.1986822262118492,0.9849797397343364,,,,,,
+clinical_diagnosis,paired,559,571,count; percentage among available diagnosis,,,,0.978984238178634,,,,available
+clinical_diagnosis,pathology,548,560,count; percentage among available diagnosis,,,,0.9785714285714285,,,,available
+clinical_diagnosis,cognitive,548,557,count; percentage among available diagnosis,,,,0.9838420107719928,,,,available
+clinical_diagnosis,paired,131,559,count; percentage among available diagnosis,,,,0.23434704830053668,,,,CN
+clinical_diagnosis,pathology,128,548,count; percentage among available diagnosis,,,,0.23357664233576642,,,,CN
+clinical_diagnosis,cognitive,128,548,count; percentage among available diagnosis,,,,0.23357664233576642,,,,CN
+clinical_diagnosis,paired,327,559,count; percentage among available diagnosis,,,,0.5849731663685152,,,,MCI
+clinical_diagnosis,pathology,320,548,count; percentage among available diagnosis,,,,0.583941605839416,,,,MCI
+clinical_diagnosis,cognitive,320,548,count; percentage among available diagnosis,,,,0.583941605839416,,,,MCI
+clinical_diagnosis,paired,101,559,count; percentage among available diagnosis,,,,0.1806797853309481,,,,DEMENTIA
+clinical_diagnosis,pathology,100,548,count; percentage among available diagnosis,,,,0.18248175182481752,,,,DEMENTIA
+clinical_diagnosis,cognitive,100,548,count; percentage among available diagnosis,,,,0.18248175182481752,,,,DEMENTIA
+clinical_diagnosis,paired,12,571,count; percentage among available diagnosis,,,,0.021015761821366025,,,,missing
+clinical_diagnosis,pathology,12,560,count; percentage among available diagnosis,,,,0.02142857142857143,,,,missing
+clinical_diagnosis,cognitive,9,557,count; percentage among available diagnosis,,,,0.01615798922800718,,,,missing

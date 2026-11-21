@@ -1,0 +1,91 @@
+﻿model,magnitude,direction,threshold,n,median,minimum,maximum,at80
++ APOE ε4,0.1,Negative,BY-34 first-step threshold,34.0,0.0,0.0,0.0,0.0
++ APOE ε4,0.1,Negative,BY-68 first-step threshold,34.0,0.0,0.0,0.0,0.0
++ APOE ε4,0.1,Negative,Nominal P < 0.05,34.0,0.0031875000000000002,0.00015,0.02105,0.0
++ APOE ε4,0.1,Positive,BY-34 first-step threshold,34.0,0.0,0.0,0.0,0.0
++ APOE ε4,0.1,Positive,BY-68 first-step threshold,34.0,0.0,0.0,0.0,0.0
++ APOE ε4,0.1,Positive,Nominal P < 0.05,34.0,0.0030875,0.000175,0.019375,0.0
++ APOE ε4,0.2,Negative,BY-34 first-step threshold,34.0,0.0001,0.0,0.001825,0.0
++ APOE ε4,0.2,Negative,BY-68 first-step threshold,34.0,2.5e-05,0.0,0.000675,0.0
++ APOE ε4,0.2,Negative,Nominal P < 0.05,34.0,0.2018875,0.026425,0.301425,0.0
++ APOE ε4,0.2,Positive,BY-34 first-step threshold,34.0,8.75e-05,0.0,0.001825,0.0
++ APOE ε4,0.2,Positive,BY-68 first-step threshold,34.0,2.5e-05,0.0,0.000725,0.0
++ APOE ε4,0.2,Positive,Nominal P < 0.05,34.0,0.204225,0.0269,0.2979,0.0
++ APOE ε4,0.35,Negative,BY-34 first-step threshold,34.0,0.1569375,0.003825,0.236375,0.0
++ APOE ε4,0.35,Negative,BY-68 first-step threshold,34.0,0.0819375,0.001,0.1473,0.0
++ APOE ε4,0.35,Negative,Nominal P < 0.05,34.0,0.9640124999999999,0.6287,0.971825,33.0
++ APOE ε4,0.35,Positive,BY-34 first-step threshold,34.0,0.15610000000000002,0.0039,0.2401,0.0
++ APOE ε4,0.35,Positive,BY-68 first-step threshold,34.0,0.0813,0.0011,0.14945,0.0
++ APOE ε4,0.35,Positive,Nominal P < 0.05,34.0,0.9637249999999999,0.632575,0.971225,33.0
++ APOE ε4,0.5,Negative,BY-34 first-step threshold,34.0,0.9172375,0.295025,0.936275,30.0
++ APOE ε4,0.5,Negative,BY-68 first-step threshold,34.0,0.8509625,0.18,0.87945,28.0
++ APOE ε4,0.5,Negative,Nominal P < 0.05,34.0,0.999925,0.9859,1.0,34.0
++ APOE ε4,0.5,Positive,BY-34 first-step threshold,34.0,0.9159375000000001,0.2947,0.93565,30.0
++ APOE ε4,0.5,Positive,BY-68 first-step threshold,34.0,0.8493625,0.17955,0.880175,28.0
++ APOE ε4,0.5,Positive,Nominal P < 0.05,34.0,0.999925,0.986125,1.0,34.0
++ APOE ε4,0.75,Negative,BY-34 first-step threshold,34.0,0.9999,0.9882,0.999975,34.0
++ APOE ε4,0.75,Negative,BY-68 first-step threshold,34.0,0.99985,0.974175,0.999975,34.0
++ APOE ε4,0.75,Negative,Nominal P < 0.05,34.0,1.0,0.999925,1.0,34.0
++ APOE ε4,0.75,Positive,BY-34 first-step threshold,34.0,0.9999,0.98825,0.999975,34.0
++ APOE ε4,0.75,Positive,BY-68 first-step threshold,34.0,0.999875,0.97325,0.99995,34.0
++ APOE ε4,0.75,Positive,Nominal P < 0.05,34.0,1.0,0.99995,1.0,34.0
++ Education and APOE ε4,0.1,Negative,BY-34 first-step threshold,34.0,0.0,0.0,0.0,0.0
++ Education and APOE ε4,0.1,Negative,BY-68 first-step threshold,34.0,0.0,0.0,0.0,0.0
++ Education and APOE ε4,0.1,Negative,Nominal P < 0.05,34.0,0.002725,0.000175,0.019625,0.0
++ Education and APOE ε4,0.1,Positive,BY-34 first-step threshold,34.0,0.0,0.0,0.0,0.0
++ Education and APOE ε4,0.1,Positive,BY-68 first-step threshold,34.0,0.0,0.0,0.0,0.0
++ Education and APOE ε4,0.1,Positive,Nominal P < 0.05,34.0,0.0034000000000000002,0.000175,0.02025,0.0
++ Education and APOE ε4,0.2,Negative,BY-34 first-step threshold,34.0,0.0001,0.0,0.001825,0.0
++ Education and APOE ε4,0.2,Negative,BY-68 first-step threshold,34.0,1.25e-05,0.0,0.0008,0.0
++ Education and APOE ε4,0.2,Negative,Nominal P < 0.05,34.0,0.2042,0.0278,0.3025,0.0
++ Education and APOE ε4,0.2,Positive,BY-34 first-step threshold,34.0,7.500000000000001e-05,0.0,0.00195,0.0
++ Education and APOE ε4,0.2,Positive,BY-68 first-step threshold,34.0,2.5e-05,0.0,0.0006,0.0
++ Education and APOE ε4,0.2,Positive,Nominal P < 0.05,34.0,0.20232499999999998,0.02655,0.303925,0.0
++ Education and APOE ε4,0.35,Negative,BY-34 first-step threshold,34.0,0.15607500000000002,0.004575,0.241175,0.0
++ Education and APOE ε4,0.35,Negative,BY-68 first-step threshold,34.0,0.083175,0.00135,0.151575,0.0
++ Education and APOE ε4,0.35,Negative,Nominal P < 0.05,34.0,0.9636875,0.63035,0.9715,33.0
++ Education and APOE ε4,0.35,Positive,BY-34 first-step threshold,34.0,0.1568,0.004,0.241575,0.0
++ Education and APOE ε4,0.35,Positive,BY-68 first-step threshold,34.0,0.08207500000000001,0.001,0.153225,0.0
++ Education and APOE ε4,0.35,Positive,Nominal P < 0.05,34.0,0.9641375,0.635,0.971725,33.0
++ Education and APOE ε4,0.5,Negative,BY-34 first-step threshold,34.0,0.9168624999999999,0.297475,0.9368,30.0
++ Education and APOE ε4,0.5,Negative,BY-68 first-step threshold,34.0,0.8517874999999999,0.18535,0.881,28.0
++ Education and APOE ε4,0.5,Negative,Nominal P < 0.05,34.0,0.9999374999999999,0.9866,1.0,34.0
++ Education and APOE ε4,0.5,Positive,BY-34 first-step threshold,34.0,0.9182250000000001,0.300225,0.9357,30.0
++ Education and APOE ε4,0.5,Positive,BY-68 first-step threshold,34.0,0.8525750000000001,0.18405,0.880825,28.0
++ Education and APOE ε4,0.5,Positive,Nominal P < 0.05,34.0,0.999925,0.9875,1.0,34.0
++ Education and APOE ε4,0.75,Negative,BY-34 first-step threshold,34.0,0.9999125,0.9889,1.0,34.0
++ Education and APOE ε4,0.75,Negative,BY-68 first-step threshold,34.0,0.9998625,0.974675,0.999975,34.0
++ Education and APOE ε4,0.75,Negative,Nominal P < 0.05,34.0,1.0,0.99995,1.0,34.0
++ Education and APOE ε4,0.75,Positive,BY-34 first-step threshold,34.0,0.9999,0.989625,1.0,34.0
++ Education and APOE ε4,0.75,Positive,BY-68 first-step threshold,34.0,0.9998625,0.976775,0.999975,34.0
++ Education and APOE ε4,0.75,Positive,Nominal P < 0.05,34.0,1.0,0.999925,1.0,34.0
+Age and sex,0.1,Negative,BY-34 first-step threshold,34.0,0.0,0.0,0.0,0.0
+Age and sex,0.1,Negative,BY-68 first-step threshold,34.0,0.0,0.0,0.0,0.0
+Age and sex,0.1,Negative,Nominal P < 0.05,34.0,0.0054625,0.00025,0.028625,0.0
+Age and sex,0.1,Positive,BY-34 first-step threshold,34.0,0.0,0.0,0.0,0.0
+Age and sex,0.1,Positive,BY-68 first-step threshold,34.0,0.0,0.0,0.0,0.0
+Age and sex,0.1,Positive,Nominal P < 0.05,34.0,0.0052875,0.000275,0.029075,0.0
+Age and sex,0.2,Negative,BY-34 first-step threshold,34.0,0.0002875,0.0,0.004225,0.0
+Age and sex,0.2,Negative,BY-68 first-step threshold,34.0,7.5e-05,0.0,0.002,0.0
+Age and sex,0.2,Negative,Nominal P < 0.05,34.0,0.317375,0.05535,0.42005,0.0
+Age and sex,0.2,Positive,BY-34 first-step threshold,34.0,0.0002875,0.0,0.003675,0.0
+Age and sex,0.2,Positive,BY-68 first-step threshold,34.0,0.0001,0.0,0.001475,0.0
+Age and sex,0.2,Positive,Nominal P < 0.05,34.0,0.318225,0.055,0.420325,0.0
+Age and sex,0.35,Negative,BY-34 first-step threshold,34.0,0.32647499999999996,0.01605,0.425125,0.0
+Age and sex,0.35,Negative,BY-68 first-step threshold,34.0,0.20423750000000002,0.0059,0.301275,0.0
+Age and sex,0.35,Negative,Nominal P < 0.05,34.0,0.9895499999999999,0.789275,0.99275,33.0
+Age and sex,0.35,Positive,BY-34 first-step threshold,34.0,0.3238625,0.016925,0.4267,0.0
+Age and sex,0.35,Positive,BY-68 first-step threshold,34.0,0.2043125,0.006375,0.3032,0.0
+Age and sex,0.35,Positive,Nominal P < 0.05,34.0,0.9897499999999999,0.79605,0.9931,33.0
+Age and sex,0.5,Negative,BY-34 first-step threshold,34.0,0.9796125,0.544725,0.986425,33.0
+Age and sex,0.5,Negative,BY-68 first-step threshold,34.0,0.954125,0.401275,0.968025,31.0
+Age and sex,0.5,Negative,Nominal P < 0.05,34.0,0.999975,0.997475,1.0,34.0
+Age and sex,0.5,Positive,BY-34 first-step threshold,34.0,0.9797125,0.544975,0.987025,33.0
+Age and sex,0.5,Positive,BY-68 first-step threshold,34.0,0.9546749999999999,0.39785,0.96885,31.0
+Age and sex,0.5,Positive,Nominal P < 0.05,34.0,0.999975,0.99755,1.0,34.0
+Age and sex,0.75,Negative,BY-34 first-step threshold,34.0,0.99995,0.998575,1.0,34.0
+Age and sex,0.75,Negative,BY-68 first-step threshold,34.0,0.99995,0.9965,1.0,34.0
+Age and sex,0.75,Negative,Nominal P < 0.05,34.0,1.0,0.99995,1.0,34.0
+Age and sex,0.75,Positive,BY-34 first-step threshold,34.0,0.9999625,0.99865,1.0,34.0
+Age and sex,0.75,Positive,BY-68 first-step threshold,34.0,0.999925,0.996325,1.0,34.0
+Age and sex,0.75,Positive,Nominal P < 0.05,34.0,1.0,0.999975,1.0,34.0

@@ -1,0 +1,17 @@
+**Supplementary Figure S12. Paired changes in between-assay memory association contrasts after p-tau181 adjustment.**
+
+NPTX2 (n=553), TAFA5 (n=557) and TIMP3 (n=552) were selected using the preceding analysis of memory trajectories. All comparisons reused the same memory outcome. Within each protein, paired models retained identical participants, cognitive observations, time-information weights and fixed protein standard deviations (SDs). Eligible ADNI-MEM assessments were within five years after CSF collection; baseline could precede collection by up to 90 days.
+
+For each assay pair, the plotted change is the adjusted-model contrast minus the reference-model contrast. A contrast is the difference between the two standardized protein–memory coefficients. Green squares show the change in SomaScan minus NULISA; blue diamonds show the change in TMT-MS minus NULISA. Positive values indicate increases in these signed contrasts, without necessarily indicating greater absolute differences.
+
+(A) Nine primary comparisons add linear log₂, linear untransformed or spline log₂ p-tau181 to the model without p-tau181, for each protein. Splines used four knots at the 5th, 35th, 65th and 95th percentiles in the original 560-participant reference sample. (B) Six comparisons add linear log₂ p-tau181 while retaining the same background scores in both models. Two-score models include SomaScan and TMT-MS; three-score models additionally include NULISA. The background scores summarize relative proteomic variation and can contain biological and technical signal.
+
+All models included participant-specific fixed intercepts and time interactions with age, sex, education, APOE ε4 carrier status, NULISA plate, SomaScan plate, TMT plex and ADNI Elecsys data release. Added p-tau181 and background terms also interacted with time. Units are annual ADNI-MEM score change per fixed assay-specific protein residual SD. Both panels use the same horizontal scale and show all 30 intervals.
+
+Horizontal bars are pointwise 95% confidence intervals (CIs). Estimation retained covariance across assays, across paired models and with the shared protein scaling factors; variance estimation summed the three finite-cluster-corrected proteomic technical-cluster contributions. Dashed lines mark zero change. Joint two-degree-of-freedom Wald tests evaluated both contrast changes using their covariance.
+
+Cells show BY-adjusted q values from the joint tests of contrast changes. Panel A corrected nine adjustment comparisons. The six comparisons in Panel B were corrected together with the 27 model comparisons in Supplementary Fig. S11, across 33 additional comparisons. Results with correction across all 42 adjustment comparisons are provided in Supplementary Table S15. Color represents −log₁₀q; rose borders mark q≤0.05 and numbers are rounded to three significant figures.
+
+All 15 comparisons met calibration criteria under the simulated conditions. The analyses were exploratory and used candidates selected from the primary memory results. Full results are provided in Supplementary Table S15 and Supplementary Methods Sections 6–7, Table M1 and Appendices A, B and D.
+
+Abbreviations: ADNI-MEM, Alzheimer’s Disease Neuroimaging Initiative memory composite; APOE, apolipoprotein E gene; BY, Benjamini–Yekutieli; CI, confidence interval; CSF, cerebrospinal fluid; SD, standard deviation; TMT-MS, tandem mass tag mass spectrometry.

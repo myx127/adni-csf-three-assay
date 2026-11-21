@@ -1,0 +1,21 @@
+{
+  "python": "3.11.7",
+  "platform": "Windows-10-10.0.26200-SP0",
+  "numpy": "1.26.4",
+  "pandas": "2.1.4",
+  "scipy": "1.17.0",
+  "statsmodels": "0.14.6",
+  "scikit-learn": "1.2.2",
+  "patsy": "1.0.2",
+  "matplotlib": "3.8.0",
+  "seaborn": "0.12.2",
+  "Pillow": "10.2.0",
+  "openpyxl": "3.0.10",
+  "pyarrow": "14.0.2",
+  "pypdf": "6.5.0",
+  "requests": "2.34.2",
+  "xlsxwriter": "3.2.9",
+  "PyYAML": "6.0.1",
+  "PyMuPDF": "1.28.0",
+  "pytest": "7.4.0"
+}

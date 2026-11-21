@@ -1,0 +1,4 @@
+﻿gene,model,n,direction,p_computed,p_used,q,q_combined,qualified,weakest
+MAPT,Age and sex,555.0,Positive,1.0,1.0,,,Yes,SomaScan
+MAPT,+ APOE ε4,555.0,Positive,1.0,1.0,,,Yes,SomaScan
+MAPT,+ Education and APOE ε4,555.0,Positive,1.0,1.0,,,Yes,SomaScan

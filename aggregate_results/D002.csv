@@ -1,0 +1,8 @@
+﻿population,n,den,definition
+"Exact-date, three-assay index",571,571,One earliest common CSF date per participant
+Same-day Elecsys p-tau181 available,567,571,Before covariate and protein-specific exclusions
+p-tau181 with age and sex,560,571,Reference population for p-tau181 standardization
+Cognitive baseline within ±90 days,568,571,Coverage audit before full model requirements
+Minimum cognitive follow-up coverage,568,571,Coverage audit; not final model sample
+Cognitive model covariates and minimum follow-up,557,571,Before protein-specific complete-case exclusions
+Higher-information cognitive coverage,410,571,Covariates available; at least two follow-ups spanning ≥2 years

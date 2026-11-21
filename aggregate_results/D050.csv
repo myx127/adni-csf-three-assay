@@ -1,0 +1,169 @@
+﻿gene,model,threshold,alpha,rate,upper
+NPTX2,No p-tau181 adjustment,BY-33 first-step threshold,0.0003705615761651,0.0,6.402021482791953e-05
+NPTX2,No p-tau181 adjustment,BY-42 first-step threshold,0.0002751437382982,0.0,6.402021482791953e-05
+NPTX2,No p-tau181 adjustment,BY-9 first-step threshold,0.0019638097909945,0.0,6.402021482791953e-05
+NPTX2,No p-tau181 adjustment,Nominal P < 0.05,0.05,0.0015,0.0018432094112603
+NPTX2,Linear log₂ p-tau181,BY-33 first-step threshold,0.0003705615761651,0.0,6.402021482791953e-05
+NPTX2,Linear log₂ p-tau181,BY-42 first-step threshold,0.0002751437382982,0.0,6.402021482791953e-05
+NPTX2,Linear log₂ p-tau181,BY-9 first-step threshold,0.0019638097909945,1.6666666666666667e-05,9.44093321800882e-05
+NPTX2,Linear log₂ p-tau181,Nominal P < 0.05,0.05,0.0019166666666666,0.002299961286562
+NPTX2,Linear untransformed p-tau181,BY-33 first-step threshold,0.0003705615761651,0.0,6.402021482791953e-05
+NPTX2,Linear untransformed p-tau181,BY-42 first-step threshold,0.0002751437382982,0.0,6.402021482791953e-05
+NPTX2,Linear untransformed p-tau181,BY-9 first-step threshold,0.0019638097909945,0.0,6.402021482791953e-05
+NPTX2,Linear untransformed p-tau181,Nominal P < 0.05,0.05,0.0016833333333333,0.0020447864472214
+NPTX2,Spline of log₂ p-tau181,BY-33 first-step threshold,0.0003705615761651,0.0,6.402021482791953e-05
+NPTX2,Spline of log₂ p-tau181,BY-42 first-step threshold,0.0002751437382982,0.0,6.402021482791953e-05
+NPTX2,Spline of log₂ p-tau181,BY-9 first-step threshold,0.0019638097909945,1.6666666666666667e-05,9.44093321800882e-05
+NPTX2,Spline of log₂ p-tau181,Nominal P < 0.05,0.05,0.0023166666666666,0.0027345143135101
+NPTX2,Two background scores; no p-tau181,BY-33 first-step threshold,0.0003705615761651,1.6666666666666667e-05,9.44093321800882e-05
+NPTX2,Two background scores; no p-tau181,BY-42 first-step threshold,0.0002751437382982,1.6666666666666667e-05,9.44093321800882e-05
+NPTX2,Two background scores; no p-tau181,BY-9 first-step threshold,0.0019638097909945,1.6666666666666667e-05,9.44093321800882e-05
+NPTX2,Two background scores; no p-tau181,Nominal P < 0.05,0.05,0.0019,0.0022817801231689
+NPTX2,Two background scores + linear log₂ p-tau181,BY-33 first-step threshold,0.0003705615761651,0.0,6.402021482791953e-05
+NPTX2,Two background scores + linear log₂ p-tau181,BY-42 first-step threshold,0.0002751437382982,0.0,6.402021482791953e-05
+NPTX2,Two background scores + linear log₂ p-tau181,BY-9 first-step threshold,0.0019638097909945,0.0,6.402021482791953e-05
+NPTX2,Two background scores + linear log₂ p-tau181,Nominal P < 0.05,0.05,0.0020333333333333,0.0024270503552356
+NPTX2,Two background scores + spline p-tau181,BY-33 first-step threshold,0.0003705615761651,0.0,6.402021482791953e-05
+NPTX2,Two background scores + spline p-tau181,BY-42 first-step threshold,0.0002751437382982,0.0,6.402021482791953e-05
+NPTX2,Two background scores + spline p-tau181,BY-9 first-step threshold,0.0019638097909945,0.0,6.402021482791953e-05
+NPTX2,Two background scores + spline p-tau181,Nominal P < 0.05,0.05,0.0021166666666666,0.0025176464208731
+NPTX2,Three background scores; no p-tau181,BY-33 first-step threshold,0.0003705615761651,0.0,6.402021482791953e-05
+NPTX2,Three background scores; no p-tau181,BY-42 first-step threshold,0.0002751437382982,0.0,6.402021482791953e-05
+NPTX2,Three background scores; no p-tau181,BY-9 first-step threshold,0.0019638097909945,0.0,6.402021482791953e-05
+NPTX2,Three background scores; no p-tau181,Nominal P < 0.05,0.05,0.00155,0.0018982901238666
+NPTX2,Three background scores + linear log₂ p-tau181,BY-33 first-step threshold,0.0003705615761651,0.0,6.402021482791953e-05
+NPTX2,Three background scores + linear log₂ p-tau181,BY-42 first-step threshold,0.0002751437382982,0.0,6.402021482791953e-05
+NPTX2,Three background scores + linear log₂ p-tau181,BY-9 first-step threshold,0.0019638097909945,0.0,6.402021482791953e-05
+NPTX2,Three background scores + linear log₂ p-tau181,Nominal P < 0.05,0.05,0.0017333333333333,0.0020995879452794
+NPTX2,Linear log₂ versus no p-tau181,BY-33 first-step threshold,0.0003705615761651,0.0,6.402021482791953e-05
+NPTX2,Linear log₂ versus no p-tau181,BY-42 first-step threshold,0.0002751437382982,0.0,6.402021482791953e-05
+NPTX2,Linear log₂ versus no p-tau181,BY-9 first-step threshold,0.0019638097909945,1.6666666666666667e-05,9.44093321800882e-05
+NPTX2,Linear log₂ versus no p-tau181,Nominal P < 0.05,0.05,0.0007,0.000945985293375
+NPTX2,Linear untransformed versus no p-tau181,BY-33 first-step threshold,0.0003705615761651,0.0,6.402021482791953e-05
+NPTX2,Linear untransformed versus no p-tau181,BY-42 first-step threshold,0.0002751437382982,0.0,6.402021482791953e-05
+NPTX2,Linear untransformed versus no p-tau181,BY-9 first-step threshold,0.0019638097909945,0.0,6.402021482791953e-05
+NPTX2,Linear untransformed versus no p-tau181,Nominal P < 0.05,0.05,0.00055,0.0007722750435198
+NPTX2,Spline versus no p-tau181,BY-33 first-step threshold,0.0003705615761651,0.0,6.402021482791953e-05
+NPTX2,Spline versus no p-tau181,BY-42 first-step threshold,0.0002751437382982,0.0,6.402021482791953e-05
+NPTX2,Spline versus no p-tau181,BY-9 first-step threshold,0.0019638097909945,0.0,6.402021482791953e-05
+NPTX2,Spline versus no p-tau181,Nominal P < 0.05,0.05,0.00055,0.0007722750435198
+NPTX2,Linear log₂ added to two background scores,BY-33 first-step threshold,0.0003705615761651,0.0,6.402021482791953e-05
+NPTX2,Linear log₂ added to two background scores,BY-42 first-step threshold,0.0002751437382982,0.0,6.402021482791953e-05
+NPTX2,Linear log₂ added to two background scores,BY-9 first-step threshold,0.0019638097909945,0.0,6.402021482791953e-05
+NPTX2,Linear log₂ added to two background scores,Nominal P < 0.05,0.05,0.00025,0.0004124727405712
+NPTX2,Linear log₂ added to three background scores,BY-33 first-step threshold,0.0003705615761651,0.0,6.402021482791953e-05
+NPTX2,Linear log₂ added to three background scores,BY-42 first-step threshold,0.0002751437382982,0.0,6.402021482791953e-05
+NPTX2,Linear log₂ added to three background scores,BY-9 first-step threshold,0.0019638097909945,0.0,6.402021482791953e-05
+NPTX2,Linear log₂ added to three background scores,Nominal P < 0.05,0.05,0.0001,0.0002181757335657
+TAFA5,No p-tau181 adjustment,BY-33 first-step threshold,0.0003705615761651,0.0,6.402021482791953e-05
+TAFA5,No p-tau181 adjustment,BY-42 first-step threshold,0.0002751437382982,0.0,6.402021482791953e-05
+TAFA5,No p-tau181 adjustment,BY-9 first-step threshold,0.0019638097909945,0.0,6.402021482791953e-05
+TAFA5,No p-tau181 adjustment,Nominal P < 0.05,0.05,0.0015333333333333,0.0018799390686601
+TAFA5,Linear log₂ p-tau181,BY-33 first-step threshold,0.0003705615761651,0.0,6.402021482791953e-05
+TAFA5,Linear log₂ p-tau181,BY-42 first-step threshold,0.0002751437382982,0.0,6.402021482791953e-05
+TAFA5,Linear log₂ p-tau181,BY-9 first-step threshold,0.0019638097909945,0.0,6.402021482791953e-05
+TAFA5,Linear log₂ p-tau181,Nominal P < 0.05,0.05,0.0023333333333333,0.0027525531348545
+TAFA5,Linear untransformed p-tau181,BY-33 first-step threshold,0.0003705615761651,0.0,6.402021482791953e-05
+TAFA5,Linear untransformed p-tau181,BY-42 first-step threshold,0.0002751437382982,0.0,6.402021482791953e-05
+TAFA5,Linear untransformed p-tau181,BY-9 first-step threshold,0.0019638097909945,1.6666666666666667e-05,9.44093321800882e-05
+TAFA5,Linear untransformed p-tau181,Nominal P < 0.05,0.05,0.00225,0.0026623089971103
+TAFA5,Spline of log₂ p-tau181,BY-33 first-step threshold,0.0003705615761651,0.0,6.402021482791953e-05
+TAFA5,Spline of log₂ p-tau181,BY-42 first-step threshold,0.0002751437382982,0.0,6.402021482791953e-05
+TAFA5,Spline of log₂ p-tau181,BY-9 first-step threshold,0.0019638097909945,3.3333333333333335e-05,0.0001215413635814
+TAFA5,Spline of log₂ p-tau181,Nominal P < 0.05,0.05,0.0023166666666666,0.0027345143135101
+TAFA5,Two background scores; no p-tau181,BY-33 first-step threshold,0.0003705615761651,0.0,6.402021482791953e-05
+TAFA5,Two background scores; no p-tau181,BY-42 first-step threshold,0.0002751437382982,0.0,6.402021482791953e-05
+TAFA5,Two background scores; no p-tau181,BY-9 first-step threshold,0.0019638097909945,3.3333333333333335e-05,0.0001215413635814
+TAFA5,Two background scores; no p-tau181,Nominal P < 0.05,0.05,0.0025833333333333,0.0030225751529549
+TAFA5,Two background scores + linear log₂ p-tau181,BY-33 first-step threshold,0.0003705615761651,0.0,6.402021482791953e-05
+TAFA5,Two background scores + linear log₂ p-tau181,BY-42 first-step threshold,0.0002751437382982,0.0,6.402021482791953e-05
+TAFA5,Two background scores + linear log₂ p-tau181,BY-9 first-step threshold,0.0019638097909945,1.6666666666666667e-05,9.44093321800882e-05
+TAFA5,Two background scores + linear log₂ p-tau181,Nominal P < 0.05,0.05,0.00255,0.0029866301047696
+TAFA5,Two background scores + spline p-tau181,BY-33 first-step threshold,0.0003705615761651,0.0,6.402021482791953e-05
+TAFA5,Two background scores + spline p-tau181,BY-42 first-step threshold,0.0002751437382982,0.0,6.402021482791953e-05
+TAFA5,Two background scores + spline p-tau181,BY-9 first-step threshold,0.0019638097909945,1.6666666666666667e-05,9.44093321800882e-05
+TAFA5,Two background scores + spline p-tau181,Nominal P < 0.05,0.05,0.0029,0.0033632557973681
+TAFA5,Three background scores; no p-tau181,BY-33 first-step threshold,0.0003705615761651,0.0,6.402021482791953e-05
+TAFA5,Three background scores; no p-tau181,BY-42 first-step threshold,0.0002751437382982,0.0,6.402021482791953e-05
+TAFA5,Three background scores; no p-tau181,BY-9 first-step threshold,0.0019638097909945,0.0,6.402021482791953e-05
+TAFA5,Three background scores; no p-tau181,Nominal P < 0.05,0.05,0.00205,0.0024451812985833
+TAFA5,Three background scores + linear log₂ p-tau181,BY-33 first-step threshold,0.0003705615761651,0.0,6.402021482791953e-05
+TAFA5,Three background scores + linear log₂ p-tau181,BY-42 first-step threshold,0.0002751437382982,0.0,6.402021482791953e-05
+TAFA5,Three background scores + linear log₂ p-tau181,BY-9 first-step threshold,0.0019638097909945,1.6666666666666667e-05,9.44093321800882e-05
+TAFA5,Three background scores + linear log₂ p-tau181,Nominal P < 0.05,0.05,0.0025333333333333,0.0029686511645107
+TAFA5,Linear log₂ versus no p-tau181,BY-33 first-step threshold,0.0003705615761651,0.0,6.402021482791953e-05
+TAFA5,Linear log₂ versus no p-tau181,BY-42 first-step threshold,0.0002751437382982,0.0,6.402021482791953e-05
+TAFA5,Linear log₂ versus no p-tau181,BY-9 first-step threshold,0.0019638097909945,0.0,6.402021482791953e-05
+TAFA5,Linear log₂ versus no p-tau181,Nominal P < 0.05,0.05,0.0012666666666666,0.0015849678474344
+TAFA5,Linear untransformed versus no p-tau181,BY-33 first-step threshold,0.0003705615761651,0.0,6.402021482791953e-05
+TAFA5,Linear untransformed versus no p-tau181,BY-42 first-step threshold,0.0002751437382982,0.0,6.402021482791953e-05
+TAFA5,Linear untransformed versus no p-tau181,BY-9 first-step threshold,0.0019638097909945,0.0,6.402021482791953e-05
+TAFA5,Linear untransformed versus no p-tau181,Nominal P < 0.05,0.05,0.0010666666666666,0.0013617352009239
+TAFA5,Spline versus no p-tau181,BY-33 first-step threshold,0.0003705615761651,0.0,6.402021482791953e-05
+TAFA5,Spline versus no p-tau181,BY-42 first-step threshold,0.0002751437382982,0.0,6.402021482791953e-05
+TAFA5,Spline versus no p-tau181,BY-9 first-step threshold,0.0019638097909945,0.0,6.402021482791953e-05
+TAFA5,Spline versus no p-tau181,Nominal P < 0.05,0.05,0.0014166666666666,0.0017512173200493
+TAFA5,Linear log₂ added to two background scores,BY-33 first-step threshold,0.0003705615761651,0.0,6.402021482791953e-05
+TAFA5,Linear log₂ added to two background scores,BY-42 first-step threshold,0.0002751437382982,0.0,6.402021482791953e-05
+TAFA5,Linear log₂ added to two background scores,BY-9 first-step threshold,0.0019638097909945,0.0,6.402021482791953e-05
+TAFA5,Linear log₂ added to two background scores,Nominal P < 0.05,0.05,0.0,6.402021482791953e-05
+TAFA5,Linear log₂ added to three background scores,BY-33 first-step threshold,0.0003705615761651,0.0,6.402021482791953e-05
+TAFA5,Linear log₂ added to three background scores,BY-42 first-step threshold,0.0002751437382982,0.0,6.402021482791953e-05
+TAFA5,Linear log₂ added to three background scores,BY-9 first-step threshold,0.0019638097909945,0.0,6.402021482791953e-05
+TAFA5,Linear log₂ added to three background scores,Nominal P < 0.05,0.05,3.3333333333333335e-05,0.0001215413635814
+TIMP3,No p-tau181 adjustment,BY-33 first-step threshold,0.0003705615761651,0.0,6.402021482791953e-05
+TIMP3,No p-tau181 adjustment,BY-42 first-step threshold,0.0002751437382982,0.0,6.402021482791953e-05
+TIMP3,No p-tau181 adjustment,BY-9 first-step threshold,0.0019638097909945,1.6666666666666667e-05,9.44093321800882e-05
+TIMP3,No p-tau181 adjustment,Nominal P < 0.05,0.05,0.0021833333333333,0.0025900209603235
+TIMP3,Linear log₂ p-tau181,BY-33 first-step threshold,0.0003705615761651,0.0,6.402021482791953e-05
+TIMP3,Linear log₂ p-tau181,BY-42 first-step threshold,0.0002751437382982,0.0,6.402021482791953e-05
+TIMP3,Linear log₂ p-tau181,BY-9 first-step threshold,0.0019638097909945,1.6666666666666667e-05,9.44093321800882e-05
+TIMP3,Linear log₂ p-tau181,Nominal P < 0.05,0.05,0.00275,0.0032020540474892
+TIMP3,Linear untransformed p-tau181,BY-33 first-step threshold,0.0003705615761651,0.0,6.402021482791953e-05
+TIMP3,Linear untransformed p-tau181,BY-42 first-step threshold,0.0002751437382982,0.0,6.402021482791953e-05
+TIMP3,Linear untransformed p-tau181,BY-9 first-step threshold,0.0019638097909945,0.0,6.402021482791953e-05
+TIMP3,Linear untransformed p-tau181,Nominal P < 0.05,0.05,0.0024666666666666,0.0028966916398105
+TIMP3,Spline of log₂ p-tau181,BY-33 first-step threshold,0.0003705615761651,0.0,6.402021482791953e-05
+TIMP3,Spline of log₂ p-tau181,BY-42 first-step threshold,0.0002751437382982,0.0,6.402021482791953e-05
+TIMP3,Spline of log₂ p-tau181,BY-9 first-step threshold,0.0019638097909945,3.3333333333333335e-05,0.0001215413635814
+TIMP3,Spline of log₂ p-tau181,Nominal P < 0.05,0.05,0.0025666666666666,0.0030046047537957
+TIMP3,Two background scores; no p-tau181,BY-33 first-step threshold,0.0003705615761651,0.0,6.402021482791953e-05
+TIMP3,Two background scores; no p-tau181,BY-42 first-step threshold,0.0002751437382982,0.0,6.402021482791953e-05
+TIMP3,Two background scores; no p-tau181,BY-9 first-step threshold,0.0019638097909945,0.0,6.402021482791953e-05
+TIMP3,Two background scores; no p-tau181,Nominal P < 0.05,0.05,0.0026,0.0030405413429512
+TIMP3,Two background scores + linear log₂ p-tau181,BY-33 first-step threshold,0.0003705615761651,0.0,6.402021482791953e-05
+TIMP3,Two background scores + linear log₂ p-tau181,BY-42 first-step threshold,0.0002751437382982,0.0,6.402021482791953e-05
+TIMP3,Two background scores + linear log₂ p-tau181,BY-9 first-step threshold,0.0019638097909945,1.6666666666666667e-05,9.44093321800882e-05
+TIMP3,Two background scores + linear log₂ p-tau181,Nominal P < 0.05,0.05,0.0028666666666666,0.0033274587997294
+TIMP3,Two background scores + spline p-tau181,BY-33 first-step threshold,0.0003705615761651,0.0,6.402021482791953e-05
+TIMP3,Two background scores + spline p-tau181,BY-42 first-step threshold,0.0002751437382982,0.0,6.402021482791953e-05
+TIMP3,Two background scores + spline p-tau181,BY-9 first-step threshold,0.0019638097909945,1.6666666666666667e-05,9.44093321800882e-05
+TIMP3,Two background scores + spline p-tau181,Nominal P < 0.05,0.05,0.0027,0.0031482522901912
+TIMP3,Three background scores; no p-tau181,BY-33 first-step threshold,0.0003705615761651,0.0,6.402021482791953e-05
+TIMP3,Three background scores; no p-tau181,BY-42 first-step threshold,0.0002751437382982,0.0,6.402021482791953e-05
+TIMP3,Three background scores; no p-tau181,BY-9 first-step threshold,0.0019638097909945,3.3333333333333335e-05,0.0001215413635814
+TIMP3,Three background scores; no p-tau181,Nominal P < 0.05,0.05,0.0028333333333333,0.0032916473791179
+TIMP3,Three background scores + linear log₂ p-tau181,BY-33 first-step threshold,0.0003705615761651,0.0,6.402021482791953e-05
+TIMP3,Three background scores + linear log₂ p-tau181,BY-42 first-step threshold,0.0002751437382982,0.0,6.402021482791953e-05
+TIMP3,Three background scores + linear log₂ p-tau181,BY-9 first-step threshold,0.0019638097909945,0.0,6.402021482791953e-05
+TIMP3,Three background scores + linear log₂ p-tau181,Nominal P < 0.05,0.05,0.0025666666666666,0.0030046047537957
+TIMP3,Linear log₂ versus no p-tau181,BY-33 first-step threshold,0.0003705615761651,0.0,6.402021482791953e-05
+TIMP3,Linear log₂ versus no p-tau181,BY-42 first-step threshold,0.0002751437382982,0.0,6.402021482791953e-05
+TIMP3,Linear log₂ versus no p-tau181,BY-9 first-step threshold,0.0019638097909945,0.0,6.402021482791953e-05
+TIMP3,Linear log₂ versus no p-tau181,Nominal P < 0.05,0.05,0.0010833333333333,0.0013804161409201
+TIMP3,Linear untransformed versus no p-tau181,BY-33 first-step threshold,0.0003705615761651,0.0,6.402021482791953e-05
+TIMP3,Linear untransformed versus no p-tau181,BY-42 first-step threshold,0.0002751437382982,0.0,6.402021482791953e-05
+TIMP3,Linear untransformed versus no p-tau181,BY-9 first-step threshold,0.0019638097909945,0.0,6.402021482791953e-05
+TIMP3,Linear untransformed versus no p-tau181,Nominal P < 0.05,0.05,0.0009833333333333,0.0012680885726877
+TIMP3,Spline versus no p-tau181,BY-33 first-step threshold,0.0003705615761651,0.0,6.402021482791953e-05
+TIMP3,Spline versus no p-tau181,BY-42 first-step threshold,0.0002751437382982,0.0,6.402021482791953e-05
+TIMP3,Spline versus no p-tau181,BY-9 first-step threshold,0.0019638097909945,0.0,6.402021482791953e-05
+TIMP3,Spline versus no p-tau181,Nominal P < 0.05,0.05,0.001,0.0012868514561116
+TIMP3,Linear log₂ added to two background scores,BY-33 first-step threshold,0.0003705615761651,0.0,6.402021482791953e-05
+TIMP3,Linear log₂ added to two background scores,BY-42 first-step threshold,0.0002751437382982,0.0,6.402021482791953e-05
+TIMP3,Linear log₂ added to two background scores,BY-9 first-step threshold,0.0019638097909945,0.0,6.402021482791953e-05
+TIMP3,Linear log₂ added to two background scores,Nominal P < 0.05,0.05,5e-05,0.0001470091582746
+TIMP3,Linear log₂ added to three background scores,BY-33 first-step threshold,0.0003705615761651,0.0,6.402021482791953e-05
+TIMP3,Linear log₂ added to three background scores,BY-42 first-step threshold,0.0002751437382982,0.0,6.402021482791953e-05
+TIMP3,Linear log₂ added to three background scores,BY-9 first-step threshold,0.0019638097909945,0.0,6.402021482791953e-05
+TIMP3,Linear log₂ added to three background scores,Nominal P < 0.05,0.05,0.0,6.402021482791953e-05

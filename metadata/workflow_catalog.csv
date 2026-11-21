@@ -1,0 +1,13 @@
+﻿stage,directory,purpose,python_files,article_role,execution
+1,workflows/1候选逐蛋白可评价性审计,"Protein mapping, paired-sample audit and measurement eligibility",7,Analysis/preprocessing support,Private authorized workspace; see docs/REPRODUCIBILITY.md
+2,workflows/2候选模型的识别模拟,Development-stage identification simulations; not the final primary model,9,Development provenance,Private authorized workspace; see docs/REPRODUCIBILITY.md
+3,workflows/3有限簇推断校准＋识别假设敏感性验证,Development-stage finite-cluster and identification sensitivity simulations,16,Development provenance,Private authorized workspace; see docs/REPRODUCIBILITY.md
+4,workflows/4真实预处理规则决策＋独立病理和认知覆盖审计,Real-data preprocessing and independent pathology/cognition coverage,15,Analysis/preprocessing support,Private authorized workspace; see docs/REPRODUCIBILITY.md
+5,workflows/5真实设计下完整模型校准＋逐蛋白功效与主分析,"Frozen 34-protein family, real-design calibration and pathology models",22,Analysis/preprocessing support,Private authorized workspace; see docs/REPRODUCIBILITY.md
+6,workflows/6候选信号归因＋分子映射与正交验证,Molecular annotation and complementary targeted-peptide analyses,41,Analysis/preprocessing support,Private authorized workspace; see docs/REPRODUCIBILITY.md
+7,workflows/7共识证据信息量评估＋验证缺口审计＋论文结论定界,"Information, power and validation-gap analyses",25,Analysis/preprocessing support,Private authorized workspace; see docs/REPRODUCIBILITY.md
+8,workflows/8三检测同向病理关联联合检验,Three-assay shared-direction p-tau181 tests and their calibration,18,Analysis/preprocessing support,Private authorized workspace; see docs/REPRODUCIBILITY.md
+9,workflows/9核心候选的证据整合与验证,Candidate evidence integration and additional peptide/replicate analyses,17,Analysis/preprocessing support,Private authorized workspace; see docs/REPRODUCIBILITY.md
+10,workflows/10AD病理背景下的跨检测临床关联与五年认知进展分析,Initial focused clinical analyses and longitudinal design construction,18,Analysis/preprocessing support,Private authorized workspace; see docs/REPRODUCIBILITY.md
+11,workflows/11补齐14个共同病理关联蛋白的临床信息评价,"Final full 34-protein clinical family, 68 primary and 136 secondary tests",16,Analysis/preprocessing support,Private authorized workspace; see docs/REPRODUCIBILITY.md
+12,workflows/12解决“为什么差异依赖pTau条件化”,Exploratory paired p-tau181 adjustment and background sensitivity analyses,17,Analysis/preprocessing support,Private authorized workspace; see docs/REPRODUCIBILITY.md

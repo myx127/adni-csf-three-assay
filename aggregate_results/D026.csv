@@ -1,0 +1,137 @@
+﻿gene,accession,outcome,test,n,p_computed,p_used,q,q_combined,qualified,subset
+AGRN,O00468,Baseline memory,Assay differences,545.0,0.41626370469234886,0.41626370469234886,1.0,1.0,Yes,Yes
+AGRN,O00468,Baseline memory,Shared direction,545.0,0.12686887480250297,0.12686887480250297,1.0,1.0,Yes,Yes
+ANXA5,P08758,Baseline memory,Assay differences,515.0,0.6430471236731012,0.6430471236731012,1.0,1.0,Yes,No
+ANXA5,P08758,Baseline memory,Shared direction,515.0,0.8717811963929654,0.8717811963929654,1.0,1.0,Yes,No
+CALB2,P22676,Baseline memory,Assay differences,546.0,0.2689697796386332,0.2689697796386332,1.0,1.0,Yes,Yes
+CALB2,P22676,Baseline memory,Shared direction,546.0,1.0,1.0,1.0,1.0,Yes,Yes
+CCL2,P13500,Baseline memory,Assay differences,419.0,0.5473359546386425,0.5473359546386425,1.0,1.0,Yes,No
+CCL2,P13500,Baseline memory,Shared direction,419.0,1.0,1.0,1.0,1.0,Yes,No
+CHI3L1,P36222,Baseline memory,Assay differences,557.0,0.5247241626068122,0.5247241626068122,1.0,1.0,Yes,No
+CHI3L1,P36222,Baseline memory,Shared direction,557.0,1.0,1.0,1.0,1.0,Yes,No
+CHIT1,Q13231,Baseline memory,Assay differences,527.0,0.8402484544826451,0.8402484544826451,1.0,1.0,Yes,No
+CHIT1,Q13231,Baseline memory,Shared direction,527.0,0.4344758727101167,0.4344758727101167,1.0,1.0,Yes,No
+CNTN2,Q02246,Baseline memory,Assay differences,554.0,0.6912712381452684,0.6912712381452684,1.0,1.0,Yes,Yes
+CNTN2,Q02246,Baseline memory,Shared direction,554.0,0.2788920207430754,0.2788920207430754,1.0,1.0,Yes,Yes
+CST3,P01034,Baseline memory,Assay differences,554.0,0.029489482538057093,0.029489482538057093,1.0,1.0,Yes,No
+CST3,P01034,Baseline memory,Shared direction,554.0,1.0,1.0,1.0,1.0,Yes,No
+CX3CL1,P78423,Baseline memory,Assay differences,519.0,0.007816975433989942,0.007816975433989942,0.5270670600507548,0.5309148959913572,Yes,Yes
+CX3CL1,P78423,Baseline memory,Shared direction,519.0,0.8373763181071507,0.8373763181071507,1.0,1.0,Yes,Yes
+FOLR1,P15328,Baseline memory,Assay differences,552.0,0.48324537206142604,0.48324537206142604,1.0,1.0,Yes,No
+FOLR1,P15328,Baseline memory,Shared direction,552.0,1.0,1.0,1.0,1.0,Yes,No
+GDF15,Q99988,Baseline memory,Assay differences,463.0,0.4304793761419513,0.4304793761419513,1.0,1.0,Yes,No
+GDF15,Q99988,Baseline memory,Shared direction,463.0,1.0,1.0,1.0,1.0,Yes,No
+ICAM1,P05362,Baseline memory,Assay differences,553.0,0.8326171893893286,0.8326171893893286,1.0,1.0,Yes,No
+ICAM1,P05362,Baseline memory,Shared direction,553.0,0.5777967252801944,0.5777967252801944,1.0,1.0,Yes,No
+IGF1R,P08069,Baseline memory,Assay differences,424.0,0.07333554440450465,0.07333554440450465,1.0,1.0,Yes,No
+IGF1R,P08069,Baseline memory,Shared direction,424.0,0.5485662111603047,0.5485662111603047,1.0,1.0,Yes,No
+IGFBP7,Q16270,Baseline memory,Assay differences,540.0,0.3437466849383407,0.3437466849383407,1.0,1.0,Yes,No
+IGFBP7,Q16270,Baseline memory,Shared direction,540.0,1.0,1.0,1.0,1.0,Yes,No
+KDR,P35968,Baseline memory,Assay differences,532.0,0.8818254080066216,0.8818254080066216,1.0,1.0,Yes,No
+KDR,P35968,Baseline memory,Shared direction,532.0,1.0,1.0,1.0,1.0,Yes,No
+KLK6,Q92876,Baseline memory,Assay differences,540.0,0.8365769287838356,0.8365769287838356,1.0,1.0,Yes,Yes
+KLK6,Q92876,Baseline memory,Shared direction,540.0,0.14676311025705863,0.14676311025705863,1.0,1.0,Yes,Yes
+MDH1,P40925,Baseline memory,Assay differences,552.0,0.11402558429360293,0.11402558429360293,1.0,1.0,Yes,Yes
+MDH1,P40925,Baseline memory,Shared direction,552.0,0.20513739219320315,0.20513739219320315,1.0,1.0,Yes,Yes
+MSLN,Q13421,Baseline memory,Assay differences,546.0,0.1974742017045137,0.1974742017045137,1.0,1.0,Yes,No
+MSLN,Q13421,Baseline memory,Shared direction,546.0,1.0,1.0,1.0,1.0,Yes,No
+NEFH,P12036,Baseline memory,Assay differences,407.0,0.0176516751122405,0.0176516751122405,0.9419964976928832,0.9653444895901022,Yes,No
+NEFH,P12036,Baseline memory,Shared direction,407.0,1.0,1.0,1.0,1.0,Yes,No
+NEFL,P07196,Baseline memory,Assay differences,552.0,0.8191615669457748,0.8191615669457748,1.0,1.0,Yes,Yes
+NEFL,P07196,Baseline memory,Shared direction,552.0,0.0706819614289352,0.0706819614289352,1.0,1.0,Yes,Yes
+NGF,P01138,Baseline memory,Assay differences,342.0,0.1380591140858937,0.1380591140858937,1.0,1.0,Yes,No
+NGF,P01138,Baseline memory,Shared direction,342.0,0.9468841773173882,0.9468841773173882,1.0,1.0,Yes,No
+NPTX1,Q15818,Baseline memory,Assay differences,552.0,0.9125426000776714,0.9125426000776714,1.0,1.0,Yes,Yes
+NPTX1,Q15818,Baseline memory,Shared direction,552.0,0.002762440608729184,0.002762440608729184,0.3343105666822839,0.3323625075524043,Yes,Yes
+NPTX2,P47972,Baseline memory,Assay differences,553.0,0.0024676329463567664,0.0024676329463567664,0.3343105666822839,0.3298808674146215,Yes,Yes
+NPTX2,P47972,Baseline memory,Shared direction,553.0,0.0004567048300179165,0.0004567048300179165,0.165627921880276,0.10989670658358772,Yes,Yes
+NPY,P01303,Baseline memory,Assay differences,545.0,0.076172824823251,0.076172824823251,1.0,1.0,Yes,No
+NPY,P01303,Baseline memory,Shared direction,545.0,0.2985804603943718,0.2985804603943718,1.0,1.0,Yes,No
+NRGN,Q92686,Baseline memory,Assay differences,550.0,0.009895462243877811,0.009895462243877811,0.5687011835995247,0.5952853129896549,Yes,Yes
+NRGN,Q92686,Baseline memory,Shared direction,550.0,0.5830478442549478,0.5830478442549478,1.0,1.0,Yes,Yes
+PDGFRB,P09619,Baseline memory,Assay differences,552.0,0.24343473739417743,0.24343473739417743,1.0,1.0,Yes,No
+PDGFRB,P09619,Baseline memory,Shared direction,552.0,1.0,1.0,1.0,1.0,Yes,No
+PGK1,P00558,Baseline memory,Assay differences,552.0,0.28737168638200683,0.28737168638200683,1.0,1.0,Yes,Yes
+PGK1,P00558,Baseline memory,Shared direction,552.0,1.0,1.0,1.0,1.0,Yes,Yes
+PRDX6,P30041,Baseline memory,Assay differences,529.0,0.6000035973966253,0.6000035973966253,1.0,1.0,Yes,No
+PRDX6,P30041,Baseline memory,Shared direction,529.0,0.09366399896413295,0.09366399896413295,1.0,1.0,Yes,No
+PTN,P21246,Baseline memory,Assay differences,554.0,0.6789287419439152,0.6789287419439152,1.0,1.0,Yes,No
+PTN,P21246,Baseline memory,Shared direction,554.0,1.0,1.0,1.0,1.0,Yes,No
+SFTPD,P35247,Baseline memory,Assay differences,532.0,0.6511725194787705,0.6511725194787705,1.0,1.0,Yes,No
+SFTPD,P35247,Baseline memory,Shared direction,532.0,0.9491394784679151,0.9491394784679151,1.0,1.0,Yes,No
+SLIT2,O94813,Baseline memory,Assay differences,499.0,0.03383861368282205,0.03383861368282205,1.0,1.0,Yes,Yes
+SLIT2,O94813,Baseline memory,Shared direction,499.0,0.1652386595437354,0.1652386595437354,1.0,1.0,Yes,Yes
+SOD1,P00441,Baseline memory,Assay differences,535.0,0.057096409182843345,0.057096409182843345,1.0,1.0,Yes,No
+SOD1,P00441,Baseline memory,Shared direction,535.0,0.4234766196524238,0.4234766196524238,1.0,1.0,Yes,No
+TAFA5,Q7Z5A7,Baseline memory,Assay differences,557.0,0.0007109254739238641,0.0007109254739238641,0.165627921880276,0.12219265842032553,Yes,Yes
+TAFA5,Q7Z5A7,Baseline memory,Shared direction,557.0,0.0035797169850677385,0.0035797169850677385,0.3343105666822839,0.35836569132787854,Yes,Yes
+TIMP3,P35625,Baseline memory,Assay differences,552.0,0.02020058027241805,0.02020058027241805,1.0,1.0,Yes,Yes
+TIMP3,P35625,Baseline memory,Shared direction,552.0,1.0,1.0,1.0,1.0,Yes,Yes
+AGRN,O00468,Executive function change,Assay differences,545.0,0.9325823392022284,0.9325823392022284,1.0,1.0,Yes,Yes
+AGRN,O00468,Executive function change,Shared direction,545.0,0.039239541391082426,0.039239541391082426,1.0,1.0,Yes,Yes
+ANXA5,P08758,Executive function change,Assay differences,515.0,0.5043882760895442,0.5043882760895442,1.0,1.0,Yes,No
+ANXA5,P08758,Executive function change,Shared direction,515.0,1.0,1.0,1.0,1.0,Yes,No
+CALB2,P22676,Executive function change,Assay differences,546.0,0.2695966639184781,0.2695966639184781,1.0,1.0,Yes,Yes
+CALB2,P22676,Executive function change,Shared direction,546.0,0.7947633115251866,0.7947633115251866,1.0,1.0,Yes,Yes
+CCL2,P13500,Executive function change,Assay differences,419.0,0.5413410083984572,0.5413410083984572,1.0,1.0,Yes,No
+CCL2,P13500,Executive function change,Shared direction,419.0,0.8318404058724073,0.8318404058724073,1.0,1.0,Yes,No
+CHI3L1,P36222,Executive function change,Assay differences,557.0,0.4598732129149442,0.4598732129149442,1.0,1.0,Yes,No
+CHI3L1,P36222,Executive function change,Shared direction,557.0,1.0,1.0,1.0,1.0,Yes,No
+CHIT1,Q13231,Executive function change,Assay differences,527.0,0.46553782671379695,0.46553782671379695,1.0,1.0,Yes,No
+CHIT1,Q13231,Executive function change,Shared direction,527.0,0.22380993353782908,0.22380993353782908,1.0,1.0,Yes,No
+CNTN2,Q02246,Executive function change,Assay differences,554.0,0.38245093357722326,0.38245093357722326,1.0,1.0,Yes,Yes
+CNTN2,Q02246,Executive function change,Shared direction,554.0,0.4687104652681382,0.4687104652681382,1.0,1.0,Yes,Yes
+CST3,P01034,Executive function change,Assay differences,554.0,0.008465560597699418,0.008465560597699418,0.5270670600507548,0.5360696241991028,Yes,No
+CST3,P01034,Executive function change,Shared direction,554.0,1.0,1.0,1.0,1.0,Yes,No
+CX3CL1,P78423,Executive function change,Assay differences,519.0,0.031149111916537738,0.031149111916537738,1.0,1.0,Yes,Yes
+CX3CL1,P78423,Executive function change,Shared direction,519.0,0.6251063294433893,0.6251063294433893,1.0,1.0,Yes,Yes
+FOLR1,P15328,Executive function change,Assay differences,552.0,0.4412605850086043,0.4412605850086043,1.0,1.0,Yes,No
+FOLR1,P15328,Executive function change,Shared direction,552.0,0.3613869359299532,0.3613869359299532,1.0,1.0,Yes,No
+GDF15,Q99988,Executive function change,Assay differences,463.0,0.17078913033499407,0.17078913033499407,1.0,1.0,Yes,No
+GDF15,Q99988,Executive function change,Shared direction,463.0,1.0,1.0,1.0,1.0,Yes,No
+ICAM1,P05362,Executive function change,Assay differences,553.0,0.45732236275286264,0.45732236275286264,1.0,1.0,Yes,No
+ICAM1,P05362,Executive function change,Shared direction,553.0,1.0,1.0,1.0,1.0,Yes,No
+IGF1R,P08069,Executive function change,Assay differences,424.0,0.036850380238601245,0.036850380238601245,1.0,1.0,Yes,No
+IGF1R,P08069,Executive function change,Shared direction,424.0,0.8346488747655322,0.8346488747655322,1.0,1.0,Yes,No
+IGFBP7,Q16270,Executive function change,Assay differences,540.0,0.2730445912353182,0.2730445912353182,1.0,1.0,Yes,No
+IGFBP7,Q16270,Executive function change,Shared direction,540.0,0.12709018186984677,0.12709018186984677,1.0,1.0,Yes,No
+KDR,P35968,Executive function change,Assay differences,532.0,0.8607706169283391,0.8607706169283391,1.0,1.0,Yes,No
+KDR,P35968,Executive function change,Shared direction,532.0,1.0,1.0,1.0,1.0,Yes,No
+KLK6,Q92876,Executive function change,Assay differences,540.0,0.9183222440421741,0.9183222440421741,1.0,1.0,Yes,Yes
+KLK6,Q92876,Executive function change,Shared direction,540.0,0.19678040745430514,0.19678040745430514,1.0,1.0,Yes,Yes
+MDH1,P40925,Executive function change,Assay differences,552.0,0.0046744494145969295,0.0046744494145969295,0.38804255301999613,0.3971105450762303,Yes,Yes
+MDH1,P40925,Executive function change,Shared direction,552.0,0.26906856657641975,0.26906856657641975,1.0,1.0,Yes,Yes
+MSLN,Q13421,Executive function change,Assay differences,546.0,0.42172365544003765,0.42172365544003765,1.0,1.0,Yes,No
+MSLN,Q13421,Executive function change,Shared direction,546.0,1.0,1.0,1.0,1.0,Yes,No
+NEFH,P12036,Executive function change,Assay differences,407.0,0.13344057273182616,0.13344057273182616,1.0,1.0,Yes,No
+NEFH,P12036,Executive function change,Shared direction,407.0,1.0,1.0,1.0,1.0,Yes,No
+NEFL,P07196,Executive function change,Assay differences,552.0,0.9678615233970601,0.9678615233970601,1.0,1.0,Yes,Yes
+NEFL,P07196,Executive function change,Shared direction,552.0,0.40575518316964976,0.40575518316964976,1.0,1.0,Yes,Yes
+NGF,P01138,Executive function change,Assay differences,342.0,0.7082058185475547,0.7082058185475547,1.0,1.0,Yes,No
+NGF,P01138,Executive function change,Shared direction,342.0,0.36220243292235066,0.36220243292235066,1.0,1.0,Yes,No
+NPTX1,Q15818,Executive function change,Assay differences,552.0,0.8445103545553474,0.8445103545553474,1.0,1.0,Yes,Yes
+NPTX1,Q15818,Executive function change,Shared direction,552.0,0.19344956226082022,0.19344956226082022,1.0,1.0,Yes,Yes
+NPTX2,P47972,Executive function change,Assay differences,553.0,2.7552520291367376e-05,2.7552520291367376e-05,0.020585088062670637,0.011049920499636356,Yes,Yes
+NPTX2,P47972,Executive function change,Shared direction,553.0,0.02688438538317856,0.02688438538317856,1.0,1.0,Yes,Yes
+NPY,P01303,Executive function change,Assay differences,545.0,0.2169541269754168,0.2169541269754168,1.0,1.0,Yes,No
+NPY,P01303,Executive function change,Shared direction,545.0,0.44810732427659217,0.44810732427659217,1.0,1.0,Yes,No
+NRGN,Q92686,Executive function change,Assay differences,550.0,0.007942886165709049,0.007942886165709049,0.5270670600507548,0.5309148959913572,Yes,Yes
+NRGN,Q92686,Executive function change,Shared direction,550.0,1.0,1.0,1.0,1.0,Yes,Yes
+PDGFRB,P09619,Executive function change,Assay differences,552.0,0.6312932690590585,0.6312932690590585,1.0,1.0,Yes,No
+PDGFRB,P09619,Executive function change,Shared direction,552.0,0.32991404343640385,0.32991404343640385,1.0,1.0,Yes,No
+PGK1,P00558,Executive function change,Assay differences,552.0,0.6145489491808522,0.6145489491808522,1.0,1.0,Yes,Yes
+PGK1,P00558,Executive function change,Shared direction,552.0,1.0,1.0,1.0,1.0,Yes,Yes
+PRDX6,P30041,Executive function change,Assay differences,529.0,0.1411686554428194,0.1411686554428194,1.0,1.0,Yes,No
+PRDX6,P30041,Executive function change,Shared direction,529.0,0.8976431188054143,0.8976431188054143,1.0,1.0,Yes,No
+PTN,P21246,Executive function change,Assay differences,554.0,0.07055330288303664,0.07055330288303664,1.0,1.0,Yes,No
+PTN,P21246,Executive function change,Shared direction,554.0,1.0,1.0,1.0,1.0,Yes,No
+SFTPD,P35247,Executive function change,Assay differences,532.0,0.9113850470368897,0.9113850470368897,1.0,1.0,Yes,No
+SFTPD,P35247,Executive function change,Shared direction,532.0,0.6946192846192898,0.6946192846192898,1.0,1.0,Yes,No
+SLIT2,O94813,Executive function change,Assay differences,499.0,0.10724990290119991,0.10724990290119991,1.0,1.0,Yes,Yes
+SLIT2,O94813,Executive function change,Shared direction,499.0,0.8325258481602862,0.8325258481602862,1.0,1.0,Yes,Yes
+SOD1,P00441,Executive function change,Assay differences,535.0,0.7826270423317334,0.7826270423317334,1.0,1.0,Yes,No
+SOD1,P00441,Executive function change,Shared direction,535.0,0.30975844462717594,0.30975844462717594,1.0,1.0,Yes,No
+TAFA5,Q7Z5A7,Executive function change,Assay differences,557.0,0.0034537595611401775,0.0034537595611401775,0.3343105666822839,0.35836569132787854,Yes,Yes
+TAFA5,Q7Z5A7,Executive function change,Shared direction,557.0,0.0917301548713151,0.0917301548713151,1.0,1.0,Yes,Yes
+TIMP3,P35625,Executive function change,Assay differences,552.0,0.0008867519370390815,0.0008867519370390815,0.165627921880276,0.13336173474641844,Yes,Yes
+TIMP3,P35625,Executive function change,Shared direction,552.0,0.7011170046982547,0.7011170046982547,1.0,1.0,Yes,Yes

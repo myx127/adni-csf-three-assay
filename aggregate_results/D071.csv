@@ -1,0 +1,7 @@
+﻿item,status,limit
+2014 source specimen date,Not verified,Visit matching is not exact specimen/aliquot confirmation.
+2014 four-assay candidate design,Insufficient information,"NPTX1 residual df=19; KLK6 df=17, below the working df≥40 requirement."
+PDGFRB receptor-specific peptide,Not available in analyzed data,PDGF-BB ligand measurements do not validate the PDGFRB receptor.
+Affinity reagent binding regions,Not available,Antibody/aptamer epitopes and form-dependent binding were not identified.
+Original TMT peptide-level grouping,Not analyzed here,"A public raw-data accession was identified, but the analyzed release was protein-level."
+Measurement error and causality,Not identified,"Technical repeats do not identify latent abundance, correlated error, or causal pathways."

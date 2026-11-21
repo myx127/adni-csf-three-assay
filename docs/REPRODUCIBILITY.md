@@ -1,0 +1,15 @@
+# Reproducing the study
+
+Three different operations are available.
+
+1. **Numerical verification without study data:** run the synthetic example and tests. The reusable kernels are direct copies of the stage 8, 11 and 12 functions; the BY function comes from stage 11. Source correspondence is recorded in `metadata/source_code_crosswalk.csv`.
+2. **Recreating the reported displays:** run `scripts/check_published_results.py` and `scripts/render_figures.py`. Aggregate input files are sufficient to recreate all 21 figures. The 92 supplementary datasets retain the original P values, adjusted values, effects and intervals. This operation does not establish independent replication of the data analysis.
+3. **Participant-level reanalysis:** obtain the specified governed inputs and use a separate private workspace. Copy `config/paths.example.yaml` outside the repository, fill in the local paths, and run `python scripts/prepare_private_workspace.py --config /private/paths.yaml --output /private/study_workspace`. This creates the original stage hierarchy and local manifests after checking the source files. Additional targeted-proteomics files and any private earlier-stage design products must be obtained or regenerated under authorized access.
+
+The stage order and roles are listed in `metadata/workflow_catalog.csv`. The article’s protein family and preprocessing derive from stages 1, 4 and 5; stage 8 implements the pathology shared-direction branch; stage 11 is the final full clinical analysis; stage 12 evaluates selected adjustment contrasts. Stages 6, 7 and 9 support molecular mapping, information/power and peptide evidence. Stage 10 provides longitudinal-design routines. Stages 2 and 3 are development history and must not be mistaken for the final article’s primary model.
+
+Frozen `bootstrap`, `verify_delivery` and sealing programs check private provenance and earlier-stage hashes. Those private records are not public inputs. For a fresh authorized rerun, reconstruct earlier-stage data products and new local provenance before invoking later stages; do not fabricate historical seals or bypass a failed inferential gate. Protocol files alongside the code document original simulations, seeds and execution scope. The original verification-only `run_all.ps1` wrappers should not be described as an end-to-end raw-data pipeline.
+
+For the final cognitive analysis retain the fixed 34-protein family, the 68 primary hypotheses, the 136 secondary hypotheses, the calibration decision and the original p-tau-independent exposure scaling. Calibration failure is handled by P=1 in the declared family. For exploratory adjustment comparisons keep participants, cognitive observations, time weights and exposure scales fixed across the paired models and retain covariance between model estimates.
+
+The full participant-level workflow and large simulation grids were not rerun during this software preparation. The accompanying verification report states exactly which checks were executed. An exact rerun also depends on source releases and environment versions, rather than only on a current ADNI download.

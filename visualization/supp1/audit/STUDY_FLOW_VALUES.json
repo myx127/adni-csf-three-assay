@@ -1,0 +1,69 @@
+{
+  "paired_participants": 571,
+  "valid_same_day_ptau": 567,
+  "pathology_reference": 560,
+  "cognitive_reference": 557,
+  "no_valid_same_day_ptau": 4,
+  "age_unavailable": 7,
+  "no_eligible_memory": 3,
+  "nominal_targets": 70,
+  "single_mapping": 43,
+  "eligible_proteins": 35,
+  "formal_proteins": 34,
+  "multiple_soma_matches": 26,
+  "composite_targets": 1,
+  "mapping_exclusions": 27,
+  "design_exclusions": 8,
+  "separate_mapt_reference": 1,
+  "shared_ptau_proteins": 14,
+  "selected_candidates": 3,
+  "adjustment_models_per_candidate": 9,
+  "paired_change_tests": 15,
+  "primary_cognitive_hypotheses": 68,
+  "secondary_cognitive_hypotheses": 136,
+  "primary_conditioning_hypotheses": 9,
+  "secondary_conditioning_hypotheses": 33,
+  "combined_conditioning_hypotheses": 42,
+  "candidate_names": [
+    "NPTX2",
+    "TAFA5",
+    "TIMP3"
+  ],
+  "candidate_sample_sizes": {
+    "NPTX2": 553,
+    "TAFA5": 557,
+    "TIMP3": 552
+  },
+  "design_exclusion_reasons_nonexclusive": {
+    "N_LT200": 3,
+    "RESIDUAL_DF_LT100": 3,
+    "FEWER_THAN10_CLUSTERS": 1,
+    "NULISA_DETECTION_LT80PCT": 7
+  },
+  "shared_ptau_names": [
+    "AGRN",
+    "CALB2",
+    "CNTN2",
+    "CX3CL1",
+    "KLK6",
+    "MDH1",
+    "NEFL",
+    "NPTX1",
+    "NPTX2",
+    "NRGN",
+    "PGK1",
+    "SLIT2",
+    "TAFA5",
+    "TIMP3"
+  ],
+  "paired_index_date_start": "2005-09-12",
+  "paired_index_date_end": "2013-01-18",
+  "assay_technical_levels": {
+    "NULISA_plates_in_triple": 19,
+    "SOMASCAN_plates_in_triple": 36,
+    "TMT_plexes_in_triple": 65
+  },
+  "individual_records_exported": false,
+  "association_models_refitted": false,
+  "p_or_q_recomputed": false
+}

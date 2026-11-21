@@ -1,0 +1,423 @@
+{
+  "genes": [
+    "NPTX2",
+    "TAFA5",
+    "TIMP3"
+  ],
+  "assays": [
+    "NULISA",
+    "SomaScan",
+    "TMT-MS"
+  ],
+  "peptide_order": [
+    "FQLTFPLR",
+    "LENLEQYSR",
+    "ESSQEQSSVVR",
+    "LSELIQPLPLER",
+    "YTNWIQK"
+  ],
+  "retention": [
+    {
+      "Protein": "NPTX2",
+      "Assay": "NULISA",
+      "Participants": 553,
+      "p-tau alone": 0.7999931095399163,
+      "p-tau and three backgrounds": 0.364169185053611,
+      "Denominator": "Weighted residual protein sum of squares after common covariates only"
+    },
+    {
+      "Protein": "NPTX2",
+      "Assay": "SomaScan",
+      "Participants": 553,
+      "p-tau alone": 0.5943270643138604,
+      "p-tau and three backgrounds": 0.3435088548773495,
+      "Denominator": "Weighted residual protein sum of squares after common covariates only"
+    },
+    {
+      "Protein": "NPTX2",
+      "Assay": "TMT-MS",
+      "Participants": 553,
+      "p-tau alone": 0.89579043913069,
+      "p-tau and three backgrounds": 0.4239966956449877,
+      "Denominator": "Weighted residual protein sum of squares after common covariates only"
+    },
+    {
+      "Protein": "TAFA5",
+      "Assay": "NULISA",
+      "Participants": 557,
+      "p-tau alone": 0.7205093874844425,
+      "p-tau and three backgrounds": 0.165239473688711,
+      "Denominator": "Weighted residual protein sum of squares after common covariates only"
+    },
+    {
+      "Protein": "TAFA5",
+      "Assay": "SomaScan",
+      "Participants": 557,
+      "p-tau alone": 0.5223043622529101,
+      "p-tau and three backgrounds": 0.2150547928506261,
+      "Denominator": "Weighted residual protein sum of squares after common covariates only"
+    },
+    {
+      "Protein": "TAFA5",
+      "Assay": "TMT-MS",
+      "Participants": 557,
+      "p-tau alone": 0.8386480012280879,
+      "p-tau and three backgrounds": 0.2332507469063779,
+      "Denominator": "Weighted residual protein sum of squares after common covariates only"
+    },
+    {
+      "Protein": "TIMP3",
+      "Assay": "NULISA",
+      "Participants": 552,
+      "p-tau alone": 0.7471180735298356,
+      "p-tau and three backgrounds": 0.3250194239702603,
+      "Denominator": "Weighted residual protein sum of squares after common covariates only"
+    },
+    {
+      "Protein": "TIMP3",
+      "Assay": "SomaScan",
+      "Participants": 552,
+      "p-tau alone": 0.5719257171121479,
+      "p-tau and three backgrounds": 0.3260802124358603,
+      "Denominator": "Weighted residual protein sum of squares after common covariates only"
+    },
+    {
+      "Protein": "TIMP3",
+      "Assay": "TMT-MS",
+      "Participants": 552,
+      "p-tau alone": 0.9417860393961454,
+      "p-tau and three backgrounds": 0.5223508784535575,
+      "Denominator": "Weighted residual protein sum of squares after common covariates only"
+    }
+  ],
+  "error_grid": [
+    {
+      "Reference-assay error variance": 0.1,
+      "Comparison-assay error variance": 0.1,
+      "Unadjusted standardized association contrast": 0.0,
+      "Adjusted standardized association contrast": 0.0,
+      "Adjusted minus unadjusted contrast": 0.0,
+      "Number of original rows per contrast": 5,
+      "Applies to": "Either SomaScan minus NULISA or TMT-MS minus NULISA"
+    },
+    {
+      "Reference-assay error variance": 0.1,
+      "Comparison-assay error variance": 0.5,
+      "Unadjusted standardized association contrast": -0.0038746300608204,
+      "Adjusted standardized association contrast": -0.0223924013045382,
+      "Adjusted minus unadjusted contrast": -0.0185177712437177,
+      "Number of original rows per contrast": 5,
+      "Applies to": "Either SomaScan minus NULISA or TMT-MS minus NULISA"
+    },
+    {
+      "Reference-assay error variance": 0.1,
+      "Comparison-assay error variance": 1.0,
+      "Unadjusted standardized association contrast": -0.0074173106114764,
+      "Adjusted standardized association contrast": -0.0386769428470305,
+      "Adjusted minus unadjusted contrast": -0.0312596322355541,
+      "Number of original rows per contrast": 5,
+      "Applies to": "Either SomaScan minus NULISA or TMT-MS minus NULISA"
+    },
+    {
+      "Reference-assay error variance": 0.1,
+      "Comparison-assay error variance": 2.0,
+      "Unadjusted standardized association contrast": -0.012165692511333,
+      "Adjusted standardized association contrast": -0.0563213801322604,
+      "Adjusted minus unadjusted contrast": -0.0441556876209273,
+      "Number of original rows per contrast": 5,
+      "Applies to": "Either SomaScan minus NULISA or TMT-MS minus NULISA"
+    },
+    {
+      "Reference-assay error variance": 0.1,
+      "Comparison-assay error variance": 4.0,
+      "Unadjusted standardized association contrast": -0.0175251483183734,
+      "Adjusted standardized association contrast": -0.0724199585452385,
+      "Adjusted minus unadjusted contrast": -0.054894810226865,
+      "Number of original rows per contrast": 5,
+      "Applies to": "Either SomaScan minus NULISA or TMT-MS minus NULISA"
+    },
+    {
+      "Reference-assay error variance": 0.5,
+      "Comparison-assay error variance": 0.1,
+      "Unadjusted standardized association contrast": 0.0038746300608204,
+      "Adjusted standardized association contrast": 0.0223924013045382,
+      "Adjusted minus unadjusted contrast": 0.0185177712437177,
+      "Number of original rows per contrast": 5,
+      "Applies to": "Either SomaScan minus NULISA or TMT-MS minus NULISA"
+    },
+    {
+      "Reference-assay error variance": 0.5,
+      "Comparison-assay error variance": 0.5,
+      "Unadjusted standardized association contrast": 0.0,
+      "Adjusted standardized association contrast": 0.0,
+      "Adjusted minus unadjusted contrast": 0.0,
+      "Number of original rows per contrast": 5,
+      "Applies to": "Either SomaScan minus NULISA or TMT-MS minus NULISA"
+    },
+    {
+      "Reference-assay error variance": 0.5,
+      "Comparison-assay error variance": 1.0,
+      "Unadjusted standardized association contrast": -0.0035426805506559,
+      "Adjusted standardized association contrast": -0.0162845415424923,
+      "Adjusted minus unadjusted contrast": -0.0127418609918363,
+      "Number of original rows per contrast": 5,
+      "Applies to": "Either SomaScan minus NULISA or TMT-MS minus NULISA"
+    },
+    {
+      "Reference-assay error variance": 0.5,
+      "Comparison-assay error variance": 2.0,
+      "Unadjusted standardized association contrast": -0.0082910624505126,
+      "Adjusted standardized association contrast": -0.0339289788277222,
+      "Adjusted minus unadjusted contrast": -0.0256379163772096,
+      "Number of original rows per contrast": 5,
+      "Applies to": "Either SomaScan minus NULISA or TMT-MS minus NULISA"
+    },
+    {
+      "Reference-assay error variance": 0.5,
+      "Comparison-assay error variance": 4.0,
+      "Unadjusted standardized association contrast": -0.0136505182575529,
+      "Adjusted standardized association contrast": -0.0500275572407002,
+      "Adjusted minus unadjusted contrast": -0.0363770389831473,
+      "Number of original rows per contrast": 5,
+      "Applies to": "Either SomaScan minus NULISA or TMT-MS minus NULISA"
+    },
+    {
+      "Reference-assay error variance": 1.0,
+      "Comparison-assay error variance": 0.1,
+      "Unadjusted standardized association contrast": 0.0074173106114764,
+      "Adjusted standardized association contrast": 0.0386769428470305,
+      "Adjusted minus unadjusted contrast": 0.0312596322355541,
+      "Number of original rows per contrast": 5,
+      "Applies to": "Either SomaScan minus NULISA or TMT-MS minus NULISA"
+    },
+    {
+      "Reference-assay error variance": 1.0,
+      "Comparison-assay error variance": 0.5,
+      "Unadjusted standardized association contrast": 0.0035426805506559,
+      "Adjusted standardized association contrast": 0.0162845415424923,
+      "Adjusted minus unadjusted contrast": 0.0127418609918363,
+      "Number of original rows per contrast": 5,
+      "Applies to": "Either SomaScan minus NULISA or TMT-MS minus NULISA"
+    },
+    {
+      "Reference-assay error variance": 1.0,
+      "Comparison-assay error variance": 1.0,
+      "Unadjusted standardized association contrast": 0.0,
+      "Adjusted standardized association contrast": 0.0,
+      "Adjusted minus unadjusted contrast": 0.0,
+      "Number of original rows per contrast": 5,
+      "Applies to": "Either SomaScan minus NULISA or TMT-MS minus NULISA"
+    },
+    {
+      "Reference-assay error variance": 1.0,
+      "Comparison-assay error variance": 2.0,
+      "Unadjusted standardized association contrast": -0.0047483818998566,
+      "Adjusted standardized association contrast": -0.0176444372852298,
+      "Adjusted minus unadjusted contrast": -0.0128960553853732,
+      "Number of original rows per contrast": 5,
+      "Applies to": "Either SomaScan minus NULISA or TMT-MS minus NULISA"
+    },
+    {
+      "Reference-assay error variance": 1.0,
+      "Comparison-assay error variance": 4.0,
+      "Unadjusted standardized association contrast": -0.010107837706897,
+      "Adjusted standardized association contrast": -0.0337430156982079,
+      "Adjusted minus unadjusted contrast": -0.0236351779913109,
+      "Number of original rows per contrast": 5,
+      "Applies to": "Either SomaScan minus NULISA or TMT-MS minus NULISA"
+    },
+    {
+      "Reference-assay error variance": 2.0,
+      "Comparison-assay error variance": 0.1,
+      "Unadjusted standardized association contrast": 0.012165692511333,
+      "Adjusted standardized association contrast": 0.0563213801322604,
+      "Adjusted minus unadjusted contrast": 0.0441556876209273,
+      "Number of original rows per contrast": 5,
+      "Applies to": "Either SomaScan minus NULISA or TMT-MS minus NULISA"
+    },
+    {
+      "Reference-assay error variance": 2.0,
+      "Comparison-assay error variance": 0.5,
+      "Unadjusted standardized association contrast": 0.0082910624505126,
+      "Adjusted standardized association contrast": 0.0339289788277222,
+      "Adjusted minus unadjusted contrast": 0.0256379163772096,
+      "Number of original rows per contrast": 5,
+      "Applies to": "Either SomaScan minus NULISA or TMT-MS minus NULISA"
+    },
+    {
+      "Reference-assay error variance": 2.0,
+      "Comparison-assay error variance": 1.0,
+      "Unadjusted standardized association contrast": 0.0047483818998566,
+      "Adjusted standardized association contrast": 0.0176444372852298,
+      "Adjusted minus unadjusted contrast": 0.0128960553853732,
+      "Number of original rows per contrast": 5,
+      "Applies to": "Either SomaScan minus NULISA or TMT-MS minus NULISA"
+    },
+    {
+      "Reference-assay error variance": 2.0,
+      "Comparison-assay error variance": 2.0,
+      "Unadjusted standardized association contrast": 0.0,
+      "Adjusted standardized association contrast": 0.0,
+      "Adjusted minus unadjusted contrast": 0.0,
+      "Number of original rows per contrast": 5,
+      "Applies to": "Either SomaScan minus NULISA or TMT-MS minus NULISA"
+    },
+    {
+      "Reference-assay error variance": 2.0,
+      "Comparison-assay error variance": 4.0,
+      "Unadjusted standardized association contrast": -0.0053594558070403,
+      "Adjusted standardized association contrast": -0.016098578412978,
+      "Adjusted minus unadjusted contrast": -0.0107391226059376,
+      "Number of original rows per contrast": 5,
+      "Applies to": "Either SomaScan minus NULISA or TMT-MS minus NULISA"
+    },
+    {
+      "Reference-assay error variance": 4.0,
+      "Comparison-assay error variance": 0.1,
+      "Unadjusted standardized association contrast": 0.0175251483183734,
+      "Adjusted standardized association contrast": 0.0724199585452385,
+      "Adjusted minus unadjusted contrast": 0.054894810226865,
+      "Number of original rows per contrast": 5,
+      "Applies to": "Either SomaScan minus NULISA or TMT-MS minus NULISA"
+    },
+    {
+      "Reference-assay error variance": 4.0,
+      "Comparison-assay error variance": 0.5,
+      "Unadjusted standardized association contrast": 0.0136505182575529,
+      "Adjusted standardized association contrast": 0.0500275572407002,
+      "Adjusted minus unadjusted contrast": 0.0363770389831473,
+      "Number of original rows per contrast": 5,
+      "Applies to": "Either SomaScan minus NULISA or TMT-MS minus NULISA"
+    },
+    {
+      "Reference-assay error variance": 4.0,
+      "Comparison-assay error variance": 1.0,
+      "Unadjusted standardized association contrast": 0.010107837706897,
+      "Adjusted standardized association contrast": 0.0337430156982079,
+      "Adjusted minus unadjusted contrast": 0.0236351779913109,
+      "Number of original rows per contrast": 5,
+      "Applies to": "Either SomaScan minus NULISA or TMT-MS minus NULISA"
+    },
+    {
+      "Reference-assay error variance": 4.0,
+      "Comparison-assay error variance": 2.0,
+      "Unadjusted standardized association contrast": 0.0053594558070403,
+      "Adjusted standardized association contrast": 0.016098578412978,
+      "Adjusted minus unadjusted contrast": 0.0107391226059376,
+      "Number of original rows per contrast": 5,
+      "Applies to": "Either SomaScan minus NULISA or TMT-MS minus NULISA"
+    },
+    {
+      "Reference-assay error variance": 4.0,
+      "Comparison-assay error variance": 4.0,
+      "Unadjusted standardized association contrast": 0.0,
+      "Adjusted standardized association contrast": 0.0,
+      "Adjusted minus unadjusted contrast": 0.0,
+      "Number of original rows per contrast": 5,
+      "Applies to": "Either SomaScan minus NULISA or TMT-MS minus NULISA"
+    }
+  ],
+  "peptides": [
+    {
+      "Protein": "NPTX1",
+      "Accession": "Q15818",
+      "Peptide": "FQLTFPLR",
+      "Start": 228,
+      "End": 235,
+      "Gene-specific exact match": true,
+      "Gene-specific I/L-equivalent match": true,
+      "Participants": 95,
+      "Coefficient": 0.1832851478760173,
+      "CI lower": 0.0731815614292774,
+      "CI upper": 0.2933887343227574,
+      "q": 0.0563267033413677,
+      "Degrees of freedom": 4
+    },
+    {
+      "Protein": "NPTX1",
+      "Accession": "Q15818",
+      "Peptide": "LENLEQYSR",
+      "Start": 144,
+      "End": 152,
+      "Gene-specific exact match": true,
+      "Gene-specific I/L-equivalent match": true,
+      "Participants": 95,
+      "Coefficient": 0.2044708527728795,
+      "CI lower": 0.0398282141978317,
+      "CI upper": 0.3691134913479276,
+      "q": 0.074493877073213,
+      "Degrees of freedom": 4
+    },
+    {
+      "Protein": "KLK6",
+      "Accession": "Q92876",
+      "Peptide": "ESSQEQSSVVR",
+      "Start": 81,
+      "End": 91,
+      "Gene-specific exact match": true,
+      "Gene-specific I/L-equivalent match": true,
+      "Participants": 95,
+      "Coefficient": 0.119404405142642,
+      "CI lower": -0.0451165479698565,
+      "CI upper": 0.2839253582551405,
+      "q": 0.1303079624873321,
+      "Degrees of freedom": 4
+    },
+    {
+      "Protein": "KLK6",
+      "Accession": "Q92876",
+      "Peptide": "LSELIQPLPLER",
+      "Start": 118,
+      "End": 129,
+      "Gene-specific exact match": true,
+      "Gene-specific I/L-equivalent match": true,
+      "Participants": 95,
+      "Coefficient": 0.1223222034058404,
+      "CI lower": -0.0449465893756696,
+      "CI upper": 0.2895909961873504,
+      "q": 0.1303079624873321,
+      "Degrees of freedom": 4
+    },
+    {
+      "Protein": "KLK6",
+      "Accession": "Q92876",
+      "Peptide": "YTNWIQK",
+      "Start": 233,
+      "End": 239,
+      "Gene-specific exact match": true,
+      "Gene-specific I/L-equivalent match": true,
+      "Participants": 95,
+      "Coefficient": 0.1392248248189683,
+      "CI lower": -0.0238365463830103,
+      "CI upper": 0.3022861960209471,
+      "q": 0.1303079624873321,
+      "Degrees of freedom": 4
+    }
+  ],
+  "domains": [
+    {
+      "Protein": "NPTX1",
+      "UniProt accession": "Q15818",
+      "Canonical length": 432,
+      "Sequence version": 2,
+      "Entry version": 193,
+      "Domain": "Pentraxin (PTX)",
+      "Domain start": 226,
+      "Domain end": 428
+    },
+    {
+      "Protein": "KLK6",
+      "UniProt accession": "Q92876",
+      "Canonical length": 244,
+      "Sequence version": 1,
+      "Entry version": 206,
+      "Domain": "Peptidase S1",
+      "Domain start": 22,
+      "Domain end": 242
+    }
+  ],
+  "simulation_is_hypothetical": true,
+  "simulation_fitted_to_ADNI": false,
+  "no_model_fitting_or_p_q_recalculation": true,
+  "peptide_test_family": 5
+}

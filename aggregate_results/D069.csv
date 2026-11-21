@@ -1,0 +1,11 @@
+﻿a,b,na,nb,overlap
+Main three-assay index,Main three-assay index,571.0,571.0,571.0
+Main three-assay index,2014 targeted-MS release,571.0,287.0,149.0
+Main three-assay index,2019 targeted-MS eligible release,571.0,198.0,99.0
+Main three-assay index,2019 direct-association sample,571.0,95.0,0.0
+2014 targeted-MS release,2014 targeted-MS release,287.0,287.0,287.0
+2014 targeted-MS release,2019 targeted-MS eligible release,287.0,198.0,85.0
+2014 targeted-MS release,2019 direct-association sample,287.0,95.0,53.0
+2019 targeted-MS eligible release,2019 targeted-MS eligible release,198.0,198.0,198.0
+2019 targeted-MS eligible release,2019 direct-association sample,198.0,95.0,95.0
+2019 direct-association sample,2019 direct-association sample,95.0,95.0,95.0

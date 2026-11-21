@@ -1,0 +1,32 @@
+{
+  "date": "2026-11-21",
+  "status": "PASS",
+  "public_deposit_performed": false,
+  "software_version": "1.0.0",
+  "original_python_scripts": 221,
+  "analysis_stages": 12,
+  "aggregate_datasets": 92,
+  "recreated_figures": 21,
+  "figure_text_identical_to_approved": 21,
+  "numerical_tests": 7,
+  "published_result_checks": {
+    "pathology_models": 3,
+    "shared_positive_proteins_per_model": 14,
+    "memory_family": 68,
+    "failed_calibration_slots_retained": 2,
+    "shared_memory_min_q": 0.2570606038104264,
+    "memory_difference_candidates": [
+      "NPTX2",
+      "TAFA5",
+      "TIMP3"
+    ],
+    "status": "PASS"
+  },
+  "participant_identifier_pattern_hits": 0,
+  "participant_identifier_columns": 0,
+  "credential_pattern_hits": 0,
+  "source_provenance_records_verified": 244,
+  "full_participant_analysis_rerun": false,
+  "large_calibration_grids_rerun": false,
+  "tested_scope": "Numerical kernels, synthetic execution, fixed-family aggregate P/q consistency, and all 21 English figures from aggregate inputs"
+}
