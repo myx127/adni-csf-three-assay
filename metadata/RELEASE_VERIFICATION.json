@@ -2,7 +2,7 @@
   "date": "2026-11-21",
   "status": "PASS",
   "public_deposit_performed": false,
-  "software_version": "1.0.0",
+  "software_version": "1.0.1",
   "original_python_scripts": 221,
   "analysis_stages": 12,
   "aggregate_datasets": 92,
@@ -28,5 +28,8 @@
   "source_provenance_records_verified": 244,
   "full_participant_analysis_rerun": false,
   "large_calibration_grids_rerun": false,
-  "tested_scope": "Numerical kernels, synthetic execution, fixed-family aggregate P/q consistency, and all 21 English figures from aggregate inputs"
+  "tested_scope": "Numerical kernels, synthetic execution, fixed-family aggregate P/q consistency, and all 21 English figures from aggregate inputs",
+  "canonical_line_endings": "LF",
+  "scientific_text_changed_from_v1_0_0": false,
+  "packaging_only_patch": true
 }

@@ -3,7 +3,7 @@ requires = ["setuptools>=68"]
 build-backend = "setuptools.build_meta"
 [project]
 name = "adni-csf-three-assay"
-version = "1.0.0"
+version = "1.0.1"
 description = "Paired three-assay CSF proteomics analysis code"
 requires-python = ">=3.11"
 dependencies = ["numpy", "pandas", "scipy"]

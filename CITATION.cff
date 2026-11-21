@@ -4,7 +4,7 @@ type: software
 title: 'Code for: Same protein targets, different association patterns: a paired three-assay
   study of CSF protein associations with p-tau and longitudinal cognitive change across
   the Alzheimer’s disease spectrum'
-version: 1.0.0
+version: 1.0.1
 authors:
 - family-names: Mao
   given-names: Yuxi

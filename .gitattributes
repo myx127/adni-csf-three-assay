@@ -1,0 +1,7 @@
+* text=auto eol=lf
+*.csv text eol=lf
+*.py text eol=lf
+*.ps1 text eol=lf
+*.zip -text
+*.pdf -text
+*.png -text
